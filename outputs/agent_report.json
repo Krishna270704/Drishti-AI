@@ -1,0 +1,60 @@
+{
+  "project": "Project Drishti",
+  "run_status": "completed",
+  "generated_at": "2026-10-31T14:19:00",
+  "documents_loaded": 39,
+  "stages": [
+    {
+      "name": "Document Ingestion",
+      "status": "COMPLETED"
+    },
+    {
+      "name": "Evidence Extraction",
+      "status": "COMPLETED"
+    },
+    {
+      "name": "Timeline",
+      "status": "COMPLETED"
+    },
+    {
+      "name": "KPI Validation",
+      "status": "COMPLETED"
+    },
+    {
+      "name": "Claim Verification",
+      "status": "COMPLETED"
+    },
+    {
+      "name": "Privacy Review",
+      "status": "COMPLETED"
+    },
+    {
+      "name": "Case Study Generation",
+      "status": "COMPLETED"
+    },
+    {
+      "name": "Human Approval",
+      "status": "NEEDS HUMAN REVIEW"
+    }
+  ],
+  "publication_allowed": false,
+  "outputs": [
+    "project_story_spine.json",
+    "timeline.json",
+    "evidence_index.json",
+    "results_sheet.json",
+    "kpi_results.json",
+    "claim_verification.json",
+    "privacy_report.json",
+    "case_study_gatekeeper.md",
+    "case_study_user.md",
+    "case_study_buyer.md",
+    "media_pack/safety_workflow.svg",
+    "media_pack/kpi_comparison.svg",
+    "approval_request_email.md",
+    "approval_sheet.md",
+    "approval_status.json",
+    "agent_report.json"
+  ],
+  "implementation_note": "Deterministic source-linked pipeline; no autonomous LLM claims are presented as verified facts."
+}

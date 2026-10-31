@@ -1,0 +1,12 @@
+{
+  "completed_agents": [
+    "document_analysis",
+    "story_evidence",
+    "results",
+    "exposure",
+    "case_study",
+    "approval"
+  ],
+  "latest_agent": "Client Approval Agent",
+  "updated_at": "2026-10-31T12:55:59.173493"
+}

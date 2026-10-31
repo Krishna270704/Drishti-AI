@@ -1,0 +1,903 @@
+{
+  "project": "Project Drishti",
+  "analysis_timestamp": "2026-10-31T11:32:54.081675",
+  "timeline": [
+    {
+      "date": "2026-01-28",
+      "event": "A 2026-01-28 inbound and first reply",
+      "source": "Project_Drishti_Library\\06_email\\A_2026-01-28_inbound_and_first_reply.md",
+      "status": "DATE FROM FILENAME"
+    },
+    {
+      "date": "2026-02-06",
+      "event": "2026-02-06 discovery call transcript",
+      "source": "Project_Drishti_Library\\02_scoping\\2026-02-06_discovery_call_transcript.txt",
+      "status": "DATE FROM FILENAME"
+    },
+    {
+      "date": "2026-02-14",
+      "event": "2026-02-14 RFQ ACWL-BHD-EHS-2026-07",
+      "source": "Project_Drishti_Library\\02_scoping\\2026-02-14_RFQ_ACWL-BHD-EHS-2026-07.md",
+      "status": "DATE FROM FILENAME"
+    },
+    {
+      "date": "2026-02-17",
+      "event": "B 2026-02-17 to 03-02 security review",
+      "source": "Project_Drishti_Library\\06_email\\B_2026-02-17_to_03-02_security_review.md",
+      "status": "DATE FROM FILENAME"
+    },
+    {
+      "date": "2026-02-24",
+      "event": "2026-02-24 PredCo proposal v1",
+      "source": "Project_Drishti_Library\\02_scoping\\2026-02-24_PredCo_proposal_v1.md",
+      "status": "DATE FROM FILENAME"
+    },
+    {
+      "date": "2026-03-05",
+      "event": "2026-03-05 BRD v2 signed",
+      "source": "Project_Drishti_Library\\02_scoping\\2026-03-05_BRD_v2_signed.md",
+      "status": "DATE FROM FILENAME"
+    },
+    {
+      "date": "2026-03-31",
+      "event": "C 2026-03-31 EHS handover",
+      "source": "Project_Drishti_Library\\06_email\\C_2026-03-31_EHS_handover.md",
+      "status": "DATE FROM FILENAME"
+    },
+    {
+      "date": "2026-04-17",
+      "event": "2026-04-17 poc review transcript",
+      "source": "Project_Drishti_Library\\05_meetings\\2026-04-17_poc_review_transcript.txt",
+      "status": "DATE FROM FILENAME"
+    },
+    {
+      "date": "2026-05-14",
+      "event": "D 2026-05-14 to 06-02 face recognition privacy",
+      "source": "Project_Drishti_Library\\06_email\\D_2026-05-14_to_06-02_face_recognition_privacy.md",
+      "status": "DATE FROM FILENAME"
+    },
+    {
+      "date": "2026-06-26",
+      "event": "2026-06-26 steering committee transcript",
+      "source": "Project_Drishti_Library\\05_meetings\\2026-06-26_steering_committee_transcript.txt",
+      "status": "DATE FROM FILENAME"
+    },
+    {
+      "date": "2026-06-29",
+      "event": "cam PK2-07 alert snapshot 2026-06-29",
+      "source": "Project_Drishti_Library\\10_media\\cam_PK2-07_alert_snapshot_2026-06-29.jpg",
+      "status": "DATE FROM FILENAME"
+    },
+    {
+      "date": "2026-07-01",
+      "event": "E 2026-07-01 pilot results numbers",
+      "source": "Project_Drishti_Library\\06_email\\E_2026-07-01_pilot_results_numbers.md",
+      "status": "DATE FROM FILENAME"
+    },
+    {
+      "date": "2026-07-06",
+      "event": "pilot acceptance certificate 2026-07-06",
+      "source": "Project_Drishti_Library\\04_delivery\\pilot_acceptance_certificate_2026-07-06.md",
+      "status": "DATE FROM FILENAME"
+    },
+    {
+      "date": "2026-08-21",
+      "event": "F 2026-08-21 to 09-03 payment GRN",
+      "source": "Project_Drishti_Library\\06_email\\F_2026-08-21_to_09-03_payment_GRN.md",
+      "status": "DATE FROM FILENAME"
+    },
+    {
+      "date": "2026-09-18",
+      "event": "2026-09-18 QBR transcript",
+      "source": "Project_Drishti_Library\\05_meetings\\2026-09-18_QBR_transcript.txt",
+      "status": "DATE FROM FILENAME"
+    },
+    {
+      "date": "2026-09-22",
+      "event": "G 2026-09-22 finance value estimate",
+      "source": "Project_Drishti_Library\\06_email\\G_2026-09-22_finance_value_estimate.md",
+      "status": "DATE FROM FILENAME"
+    },
+    {
+      "date": "2026-09-23",
+      "event": "sales deck draft notes 2026-09-23",
+      "source": "Project_Drishti_Library\\12_vendor\\sales_deck_draft_notes_2026-09-23.md",
+      "status": "DATE FROM FILENAME"
+    },
+    {
+      "date": "2026-09-24",
+      "event": "H 2026-09-24 to 09-30 case study permission",
+      "source": "Project_Drishti_Library\\06_email\\H_2026-09-24_to_09-30_case_study_permission.md",
+      "status": "DATE FROM FILENAME"
+    },
+    {
+      "date": "2026-09-25",
+      "event": "dashboard export ppe weekly 2026-09-25",
+      "source": "Project_Drishti_Library\\10_media\\dashboard_export_ppe_weekly_2026-09-25.png",
+      "status": "DATE FROM FILENAME"
+    },
+    {
+      "date": "2026-09-30",
+      "event": "linkedin post 2026-09-30 Meenakshi Iyer",
+      "source": "Project_Drishti_Library\\09_feedback\\linkedin_post_2026-09-30_Meenakshi_Iyer.md",
+      "status": "DATE FROM FILENAME"
+    }
+  ],
+  "csv_analysis": [
+    {
+      "filename": "project_tracker.csv",
+      "error": "Error tokenizing data. C error: Expected 10 fields in line 22, saw 11\n"
+    },
+    {
+      "filename": "Project_Drishti_Library\\07_data\\baseline_manual_safety_walks_2025Q4.csv",
+      "rows": 103,
+      "columns": [
+        "date",
+        "shift",
+        "walk_time",
+        "area",
+        "auditor",
+        "people_observed",
+        "without_helmet",
+        "without_vest",
+        "fully_compliant",
+        "remarks"
+      ],
+      "missing_values": 44,
+      "numeric_summary": {
+        "people_observed": {
+          "mean": 8.563,
+          "min": 5.0,
+          "max": 13.0
+        },
+        "without_helmet": {
+          "mean": 1.563,
+          "min": 0.0,
+          "max": 5.0
+        },
+        "without_vest": {
+          "mean": 1.301,
+          "min": 0.0,
+          "max": 4.0
+        },
+        "fully_compliant": {
+          "mean": 6.32,
+          "min": 1.0,
+          "max": 12.0
+        }
+      }
+    },
+    {
+      "filename": "Project_Drishti_Library\\07_data\\ehs_register_monthly_2025_2026.csv",
+      "rows": 21,
+      "columns": [
+        "month",
+        "man_hours_worked",
+        "lost_time_injuries",
+        "lti_description",
+        "first_aid_cases",
+        "near_miss_reports",
+        "notes"
+      ],
+      "missing_values": 32,
+      "numeric_summary": {
+        "man_hours_worked": {
+          "mean": 419469.857,
+          "min": 400433.0,
+          "max": 467486.0
+        },
+        "lost_time_injuries": {
+          "mean": 0.238,
+          "min": 0.0,
+          "max": 1.0
+        },
+        "first_aid_cases": {
+          "mean": 5.476,
+          "min": 2.0,
+          "max": 9.0
+        },
+        "near_miss_reports": {
+          "mean": 20.19,
+          "min": 9.0,
+          "max": 47.0
+        }
+      }
+    },
+    {
+      "filename": "Project_Drishti_Library\\07_data\\gate_truck_turnaround_daily.csv",
+      "rows": 122,
+      "columns": [
+        "date",
+        "trucks_dispatched",
+        "avg_turnaround_min",
+        "p90_turnaround_min",
+        "source",
+        "note"
+      ],
+      "missing_values": 181,
+      "numeric_summary": {
+        "trucks_dispatched": {
+          "mean": 309.77,
+          "min": 280.0,
+          "max": 340.0
+        },
+        "avg_turnaround_min": {
+          "mean": 83.959,
+          "min": 58.1,
+          "max": 105.0
+        },
+        "p90_turnaround_min": {
+          "mean": 123.229,
+          "min": 91.0,
+          "max": 165.5
+        }
+      }
+    },
+    {
+      "filename": "Project_Drishti_Library\\07_data\\invoices_and_payments.csv",
+      "rows": 5,
+      "columns": [
+        "invoice",
+        "date",
+        "po",
+        "milestone",
+        "amount_inr",
+        "gst_inr",
+        "due",
+        "paid_on",
+        "status"
+      ],
+      "missing_values": 1,
+      "numeric_summary": {
+        "po": {
+          "mean": 4500132719.4,
+          "min": 4500128773.0,
+          "max": 4500135510.0
+        },
+        "amount_inr": {
+          "mean": 1970400.0,
+          "min": 650000.0,
+          "max": 4848000.0
+        },
+        "gst_inr": {
+          "mean": 354672.0,
+          "min": 117000.0,
+          "max": 872640.0
+        }
+      }
+    },
+    {
+      "filename": "Project_Drishti_Library\\07_data\\supervisor_survey_sep2026.csv",
+      "rows": 18,
+      "columns": [
+        "respondent",
+        "role",
+        "area",
+        "alerts_useful_1to5",
+        "noise_1to5",
+        "would_recommend_other_unit",
+        "comment"
+      ],
+      "missing_values": 3,
+      "numeric_summary": {
+        "alerts_useful_1to5": {
+          "mean": 4.167,
+          "min": 2.0,
+          "max": 5.0
+        },
+        "noise_1to5": {
+          "mean": 1.944,
+          "min": 1.0,
+          "max": 4.0
+        }
+      }
+    },
+    {
+      "filename": "Project_Drishti_Library\\07_data\\viewos_weekly_zone_metrics.csv",
+      "rows": 146,
+      "columns": [
+        "week_start",
+        "zone",
+        "camera_cohort",
+        "cameras_live",
+        "camera_hours",
+        "persons_observed",
+        "ppe_compliant",
+        "restricted_zone_breaches",
+        "alerts_raised",
+        "alerts_false_verified",
+        "median_ack_minutes",
+        "model_version"
+      ],
+      "missing_values": 0,
+      "numeric_summary": {
+        "cameras_live": {
+          "mean": 11.849,
+          "min": 3.0,
+          "max": 20.0
+        },
+        "camera_hours": {
+          "mean": 1984.507,
+          "min": 504.0,
+          "max": 3360.0
+        },
+        "persons_observed": {
+          "mean": 2254.521,
+          "min": 299.0,
+          "max": 6259.0
+        },
+        "ppe_compliant": {
+          "mean": 1961.459,
+          "min": 187.0,
+          "max": 5753.0
+        },
+        "restricted_zone_breaches": {
+          "mean": 4.849,
+          "min": 1.0,
+          "max": 18.0
+        },
+        "alerts_raised": {
+          "mean": 37.041,
+          "min": 6.0,
+          "max": 152.0
+        },
+        "alerts_false_verified": {
+          "mean": 3.5,
+          "min": 0.0,
+          "max": 28.0
+        },
+        "median_ack_minutes": {
+          "mean": 3.425,
+          "min": 1.9,
+          "max": 9.7
+        }
+      }
+    }
+  ],
+  "privacy_risks": [
+    {
+      "source": "Project_Drishti_Library\\00_README.md",
+      "matched_term": "confidential",
+      "risk": "REVIEW REQUIRED",
+      "recommendation": "Check contract permissions and remove or anonymize identifying information before use."
+    },
+    {
+      "source": "Project_Drishti_Library\\01_contract\\MSA_confidentiality_and_publicity_extract.md",
+      "matched_term": "confidential",
+      "risk": "REVIEW REQUIRED",
+      "recommendation": "Check contract permissions and remove or anonymize identifying information before use."
+    },
+    {
+      "source": "Project_Drishti_Library\\01_contract\\MSA_confidentiality_and_publicity_extract.md",
+      "matched_term": "facial recognition",
+      "risk": "REVIEW REQUIRED",
+      "recommendation": "Check contract permissions and remove or anonymize identifying information before use."
+    },
+    {
+      "source": "Project_Drishti_Library\\01_contract\\MSA_confidentiality_and_publicity_extract.md",
+      "matched_term": "biometric",
+      "risk": "REVIEW REQUIRED",
+      "recommendation": "Check contract permissions and remove or anonymize identifying information before use."
+    },
+    {
+      "source": "Project_Drishti_Library\\02_scoping\\2026-02-06_discovery_call_transcript.txt",
+      "matched_term": "face recognition",
+      "risk": "REVIEW REQUIRED",
+      "recommendation": "Check contract permissions and remove or anonymize identifying information before use."
+    },
+    {
+      "source": "Project_Drishti_Library\\02_scoping\\2026-02-06_discovery_call_transcript.txt",
+      "matched_term": "nda",
+      "risk": "REVIEW REQUIRED",
+      "recommendation": "Check contract permissions and remove or anonymize identifying information before use."
+    },
+    {
+      "source": "Project_Drishti_Library\\02_scoping\\2026-02-14_RFQ_ACWL-BHD-EHS-2026-07.md",
+      "matched_term": "face recognition",
+      "risk": "REVIEW REQUIRED",
+      "recommendation": "Check contract permissions and remove or anonymize identifying information before use."
+    },
+    {
+      "source": "Project_Drishti_Library\\02_scoping\\2026-02-14_RFQ_ACWL-BHD-EHS-2026-07.md",
+      "matched_term": "nda",
+      "risk": "REVIEW REQUIRED",
+      "recommendation": "Check contract permissions and remove or anonymize identifying information before use."
+    },
+    {
+      "source": "Project_Drishti_Library\\02_scoping\\2026-02-24_PredCo_proposal_v1.md",
+      "matched_term": "nda",
+      "risk": "REVIEW REQUIRED",
+      "recommendation": "Check contract permissions and remove or anonymize identifying information before use."
+    },
+    {
+      "source": "Project_Drishti_Library\\02_scoping\\2026-03-05_BRD_v2_signed.md",
+      "matched_term": "face recognition",
+      "risk": "REVIEW REQUIRED",
+      "recommendation": "Check contract permissions and remove or anonymize identifying information before use."
+    },
+    {
+      "source": "Project_Drishti_Library\\02_scoping\\2026-03-05_BRD_v2_signed.md",
+      "matched_term": "nda",
+      "risk": "REVIEW REQUIRED",
+      "recommendation": "Check contract permissions and remove or anonymize identifying information before use."
+    },
+    {
+      "source": "Project_Drishti_Library\\03_commercial\\change_requests_CR01-CR03.md",
+      "matched_term": "nda",
+      "risk": "REVIEW REQUIRED",
+      "recommendation": "Check contract permissions and remove or anonymize identifying information before use."
+    },
+    {
+      "source": "Project_Drishti_Library\\03_commercial\\purchase_orders.md",
+      "matched_term": "nda",
+      "risk": "REVIEW REQUIRED",
+      "recommendation": "Check contract permissions and remove or anonymize identifying information before use."
+    },
+    {
+      "source": "Project_Drishti_Library\\04_delivery\\pilot_acceptance_certificate_2026-07-06.md",
+      "matched_term": "nda",
+      "risk": "REVIEW REQUIRED",
+      "recommendation": "Check contract permissions and remove or anonymize identifying information before use."
+    },
+    {
+      "source": "Project_Drishti_Library\\05_meetings\\2026-04-17_poc_review_transcript.txt",
+      "matched_term": "nda",
+      "risk": "REVIEW REQUIRED",
+      "recommendation": "Check contract permissions and remove or anonymize identifying information before use."
+    },
+    {
+      "source": "Project_Drishti_Library\\05_meetings\\2026-06-26_steering_committee_transcript.txt",
+      "matched_term": "nda",
+      "risk": "REVIEW REQUIRED",
+      "recommendation": "Check contract permissions and remove or anonymize identifying information before use."
+    },
+    {
+      "source": "Project_Drishti_Library\\05_meetings\\2026-09-18_QBR_transcript.txt",
+      "matched_term": "plant name",
+      "risk": "REVIEW REQUIRED",
+      "recommendation": "Check contract permissions and remove or anonymize identifying information before use."
+    },
+    {
+      "source": "Project_Drishti_Library\\05_meetings\\2026-09-18_QBR_transcript.txt",
+      "matched_term": "nda",
+      "risk": "REVIEW REQUIRED",
+      "recommendation": "Check contract permissions and remove or anonymize identifying information before use."
+    },
+    {
+      "source": "Project_Drishti_Library\\06_email\\D_2026-05-14_to_06-02_face_recognition_privacy.md",
+      "matched_term": "face recognition",
+      "risk": "REVIEW REQUIRED",
+      "recommendation": "Check contract permissions and remove or anonymize identifying information before use."
+    },
+    {
+      "source": "Project_Drishti_Library\\06_email\\D_2026-05-14_to_06-02_face_recognition_privacy.md",
+      "matched_term": "personal data",
+      "risk": "REVIEW REQUIRED",
+      "recommendation": "Check contract permissions and remove or anonymize identifying information before use."
+    },
+    {
+      "source": "Project_Drishti_Library\\06_email\\D_2026-05-14_to_06-02_face_recognition_privacy.md",
+      "matched_term": "nda",
+      "risk": "REVIEW REQUIRED",
+      "recommendation": "Check contract permissions and remove or anonymize identifying information before use."
+    },
+    {
+      "source": "Project_Drishti_Library\\06_email\\E_2026-07-01_pilot_results_numbers.md",
+      "matched_term": "nda",
+      "risk": "REVIEW REQUIRED",
+      "recommendation": "Check contract permissions and remove or anonymize identifying information before use."
+    },
+    {
+      "source": "Project_Drishti_Library\\06_email\\G_2026-09-22_finance_value_estimate.md",
+      "matched_term": "nda",
+      "risk": "REVIEW REQUIRED",
+      "recommendation": "Check contract permissions and remove or anonymize identifying information before use."
+    },
+    {
+      "source": "Project_Drishti_Library\\06_email\\H_2026-09-24_to_09-30_case_study_permission.md",
+      "matched_term": "nda",
+      "risk": "REVIEW REQUIRED",
+      "recommendation": "Check contract permissions and remove or anonymize identifying information before use."
+    },
+    {
+      "source": "Project_Drishti_Library\\07_data\\data_dictionary.md",
+      "matched_term": "nda",
+      "risk": "REVIEW REQUIRED",
+      "recommendation": "Check contract permissions and remove or anonymize identifying information before use."
+    },
+    {
+      "source": "Project_Drishti_Library\\08_github\\CHANGELOG.md",
+      "matched_term": "nda",
+      "risk": "REVIEW REQUIRED",
+      "recommendation": "Check contract permissions and remove or anonymize identifying information before use."
+    },
+    {
+      "source": "Project_Drishti_Library\\08_github\\git_log.txt",
+      "matched_term": "nda",
+      "risk": "REVIEW REQUIRED",
+      "recommendation": "Check contract permissions and remove or anonymize identifying information before use."
+    },
+    {
+      "source": "Project_Drishti_Library\\09_feedback\\whatsapp_Drishti-Packing_group_export.txt",
+      "matched_term": "nda",
+      "risk": "REVIEW REQUIRED",
+      "recommendation": "Check contract permissions and remove or anonymize identifying information before use."
+    }
+  ],
+  "evidence_index": [
+    {
+      "source": "Project_Drishti_Library\\00_README.md",
+      "matched_topics": [
+        "scope",
+        "baseline",
+        "acceptance",
+        "incident",
+        "change request",
+        "turnaround",
+        "ppe"
+      ],
+      "preview": "# Project library: \"Drishti\" (Jan to Sep 2026)\n\nFICTIONAL HACKATHON MATERIAL. Panscience Hackathon, 31 Oct 2026.\nArdent Cement Works Ltd, its Bhadrapur unit, every person, number, purchase order and event in this library are invented.\nPredCo and its product names are used as the vendor for realism only; this project did not happen.\nDo not upload this library to public websites.\n\n## What this is\n\nEverything a vendor team typically has after an eight-month enterprise project: the first email, the scoping calls, the\nsigned requirements, purchase orders, change requests, the delivery tracker, incidents, three review meetings, email\nthreads, the code repository, raw metric exports, client feedback, media, and the client's public footprint.\n\nIt is messy on purpose, as real projects are: documents disagree, scope changed, people changed, numbers were measured\nin different ways at different times, and not everything that improved was caused by the vendor.\n\n## Folders\n\n| Folder | Contents |\n| --- | --- |\n| 01_contract | Confidentiality and publicity clauses of the master services agreement |\n| 02_scoping | Discovery call, RFQ, proposal, signed requirements (BRD v2) |\n| 03_commercial | Purch"
+    },
+    {
+      "source": "Project_Drishti_Library\\01_contract\\MSA_confidentiality_and_publicity_extract.md",
+      "matched_topics": [
+        "incident",
+        "approval"
+      ],
+      "preview": "FICTIONAL HACKATHON MATERIAL. All names, numbers and events are invented.\n\n# Master Services Agreement: extract\n\nBetween Ardent Cement Works Limited (\"Ardent\" or \"the Company\") and Panscience Predictive Technologies Private Limited (\"PredCo\" or \"the Vendor\").\nAgreement no. ACWL/LGL/MSA/2026/0112, effective 2 March 2026. Extract of clauses 14, 15 and Annexure D only.\n\n## 14. Confidential Information\n\n14.1 \"Confidential Information\" includes all information disclosed by the Company in any form, including plant layouts,\nproduction capacities, process parameters, video footage, images of personnel or premises, safety incident records,\ncommercial terms, and the identity of the Company's sites and suppliers.\n\n14.2 The Vendor shall use Confidential Information solely to perform the Services and shall not disclose it to any third\nparty without the Company's prior written consent.\n\n14.3 Video footage and images captured under this Agreement remain the property of the Company and shall not leave the\nCompany's premises or network, except anonymised training samples approved in writing by the Head, IT and OT Security.\n\n14.4 Obligations under this clause survive for five (5) years after termina"
+    },
+    {
+      "source": "Project_Drishti_Library\\02_scoping\\2026-02-06_discovery_call_transcript.txt",
+      "matched_topics": [
+        "target",
+        "approval",
+        "ppe"
+      ],
+      "preview": "FICTIONAL HACKATHON MATERIAL. All names, numbers and events are invented.\n\nAuto-transcript (Teams) \u2014 \"Ardent x PredCo | Safety analytics discovery\"\nFriday 6 Feb 2026, 11:02\u201311:58 IST. Recording consented by all participants.\nAttendees: Arvind Rao (Head EHS, Ardent Bhadrapur), Rajiv Bhandari (Unit Head, Bhadrapur; joined 11:21), Farhan Siddiqui (Head IT & OT Security, Ardent; 11:40\u201311:52),\nAarav Malhotra (Account Director, PredCo), Neha Sharma (Solution Architect, PredCo)\n\n[00:00:41] Aarav Malhotra: Thanks for making time, Arvind ji. You wrote to us after the LinkedIn post on PPE detection. Before we show anything, can you tell us what's going on at the plant?\n\n[00:01:05] Arvind Rao: Sure. Very honestly, last year was bad for us. We had four lost-time injuries at Bhadrapur. Two of them in the last quarter. One fall near the conveyor tail pulley in December, guard was missing, the man was off for almost a month. Corporate safety council is now watching us every month.\n\n[00:01:39] Neha Sharma: Sorry to hear that. When you say watching, what do they look at?\n\n[00:01:44] Arvind Rao: LTI frequency, near-miss reporting, and the safety walk scores. We do safety walks twice a day, ten o'clo"
+    },
+    {
+      "source": "Project_Drishti_Library\\02_scoping\\2026-02-14_RFQ_ACWL-BHD-EHS-2026-07.md",
+      "matched_topics": [
+        "scope",
+        "payment"
+      ],
+      "preview": "FICTIONAL HACKATHON MATERIAL. All names, numbers and events are invented.\n\n# Request for Quotation\n\nArdent Cement Works Limited, Bhadrapur Unit \u2014 Purchase Department\nRFQ no. ACWL-BHD-EHS-2026-07 | Issued 14 Feb 2026 | Closing 23 Feb 2026, 17:00\nContact: Lokesh Jain, Manager Procurement (lokesh.jain@ardentcement.example)\n\n## Subject\n\nSupply, installation and commissioning of AI-based video analytics for safety compliance on existing CCTV infrastructure.\n\n## Scope requirements\n\n| # | Requirement | Mandatory |\n| --- | --- | --- |\n| R1 | Detect absence of safety helmet on persons in camera view | Yes |\n| R2 | Detect absence of high-visibility vest | Yes |\n| R3 | Detect entry of persons into marked restricted zones (conveyor tail pulley areas) | Yes |\n| R4 | Real-time alerts to control room and area in-charge on mobile | Yes |\n| R5 | Daily and weekly compliance reports by area and shift | Yes |\n| R6 | Work on existing cameras (Hikvision, CP Plus) without replacement | Yes |\n| R7 | All processing on premises; no cloud | Yes |\n| R8 | Face recognition based attendance for contract workers at 4 entry points | Optional, quote separately |\n| R9 | Harness detection for work at height | Optiona"
+    },
+    {
+      "source": "Project_Drishti_Library\\02_scoping\\2026-02-24_PredCo_proposal_v1.md",
+      "matched_topics": [
+        "scope",
+        "target",
+        "acceptance",
+        "false alarm",
+        "ppe",
+        "restricted-zone"
+      ],
+      "preview": "FICTIONAL HACKATHON MATERIAL. All names, numbers and events are invented.\n\n# Proposal: AI safety compliance on existing CCTV \u2014 Bhadrapur Unit\n\nTo: Lokesh Jain (Procurement), Arvind Rao (Head EHS), Ardent Cement Works Ltd\nFrom: PredCo (Panscience Predictive Technologies Pvt Ltd) | Ref: PC/PROP/2026/019 v1 | 24 Feb 2026\nResponse to RFQ ACWL-BHD-EHS-2026-07\n\n## 1. Understanding\n\nBhadrapur records PPE compliance through two announced safety walks a day. 146 existing cameras record but are not watched\noutside the gate and stores. Four lost-time injuries occurred in 2025, two in Q4. The unit is preparing for the group safety\naudit in October 2026.\n\n## 2. Proposed solution\n\nViewOS, PredCo's visual intelligence platform, runs on edge GPU servers inside the plant's OT network and reads the existing\ncamera streams. No new cameras are required for helmet, vest and restricted-zone detection. Alerts go to the control room\nscreen and to the area in-charge on WhatsApp through an on-premise gateway.\n\n## 3. Phases and pricing\n\n| Phase | Scope | Duration | Price (excl. GST) |\n| --- | --- | --- | --- |\n| 0. Proof of concept | 12 cameras (packing 8, conveyor 4); helmet, vest, tail-pulley zone; 1 edge "
+    },
+    {
+      "source": "Project_Drishti_Library\\02_scoping\\2026-03-05_BRD_v2_signed.md",
+      "matched_topics": [
+        "scope",
+        "baseline",
+        "target",
+        "acceptance",
+        "false alarm",
+        "acknowledgement",
+        "ppe",
+        "restricted-zone"
+      ],
+      "preview": "FICTIONAL HACKATHON MATERIAL. All names, numbers and events are invented.\n\n# Business Requirements Document \u2014 Project Drishti\n\nVersion 2.0 (signed) | 5 Mar 2026 | Supersedes v1.0 (27 Feb 2026)\nClient: Ardent Cement Works Ltd, Bhadrapur Unit | Vendor: PredCo\nProject name chosen by client: \"Drishti\" (Hindi: sight)\n\n## Change history\n\n| Version | Date | Change |\n| --- | --- | --- |\n| 1.0 | 27 Feb | Draft from proposal PC/PROP/2026/019 |\n| 2.0 | 5 Mar | KPI targets revised after EHS review: PPE target 95% \u2192 90%; restricted zone \u221270% \u2192 \u221250%; response time 2 \u2192 3 min; false alarms 5% \u2192 10%. Baseline changed from manual safety walks to camera-measured weeks 1\u20132 (see \u00a74). Face-recognition option retained as optional pending Legal. |\n\n## 1. Objective\n\nRaise real-world PPE compliance and cut restricted-zone entries at Bhadrapur before the group safety audit in October 2026,\nusing existing CCTV, with alerts that reach area in-charges fast enough to act.\n\n## 2. Stakeholders\n\n| Name | Role | Interest |\n| --- | --- | --- |\n| Rajiv Bhandari | Unit Head (sponsor, capex approver) | Audit rating, no LTIs, cost |\n| Arvind Rao | Head EHS (business owner) | Compliance, contractor behaviour |\n| Farhan Si"
+    },
+    {
+      "source": "Project_Drishti_Library\\03_commercial\\change_requests_CR01-CR03.md",
+      "matched_topics": [
+        "baseline",
+        "target",
+        "incident",
+        "change request",
+        "false alarm",
+        "turnaround",
+        "ppe"
+      ],
+      "preview": "FICTIONAL HACKATHON MATERIAL. All names, numbers and events are invented.\n\n# Change requests \u2014 Project Drishti\n\n## CR-01 \u2014 Add kiln platform hot-zone detection\n\nRaised: 22 Apr 2026 by Meenakshi Iyer (Head EHS) | Approved: 28 Apr by R. Bhandari | Cost: +\u20b92,40,000\nReason: PoC review (17 Apr) showed kiln platform entries without face shields during the February burn incident pattern.\nChange: the \"area to be confirmed\" in BRD \u00a73 becomes the kiln platform (8 cameras). New rule: entry into the hot zone\nwithin 3 m of the kiln inlet without a face shield. Heat shimmer may raise false alarms; vendor to report kiln separately.\n\n## CR-02 \u2014 Remove face-recognition attendance (R8)\n\nRaised: 20 May 2026 by Pooja Menon (Corporate Legal) | Approved: 26 May | Cost: \u2212\u20b91,10,000 credit\nReason: Processing faces of contract workers for attendance needs specific consent and notices under the Digital Personal\nData Protection Act, 2023, and a data protection impact assessment. Corporate decided not to proceed in 2026.\nChange: R8 dropped; the face module is removed from the edge software and the configuration (vendor to confirm in writing).\nDetection of PPE remains person-level, with no identification of ind"
+    },
+    {
+      "source": "Project_Drishti_Library\\03_commercial\\purchase_orders.md",
+      "matched_topics": [
+        "acceptance",
+        "payment",
+        "approval",
+        "turnaround"
+      ],
+      "preview": "FICTIONAL HACKATHON MATERIAL. All names, numbers and events are invented.\n\n# Purchase orders issued by Ardent Cement Works Ltd to PredCo (transcribed from PDFs)\n\nBuyer: Ardent Cement Works Limited, Bhadrapur Unit, Plot 4, Industrial Area Phase II, Bhadrapur 495XXX | GSTIN 22AAACAXXXXX1Z5\nSupplier: Panscience Predictive Technologies Pvt Ltd, New Delhi | GSTIN 07AANCPXXXXX1ZN | Vendor code 300418\n\n## PO 4500128773 \u2014 9 Mar 2026 \u2014 Proof of concept\n\n| Line | Description | Qty | Amount (\u20b9) |\n| --- | --- | --- | --- |\n| 10 | AI video analytics PoC, 12 cameras, 6 weeks, per proposal PC/PROP/2026/019 | 1 lot | 6,50,000 |\n| | IGST 18% | | 1,17,000 |\n| | Total | | 7,67,000 |\n\nPayment: 100% on completion, 30 days after GRN. Cost centre: BHD-EHS-4410. Approved: A. Rao (within delegation).\n\n## PO 4500131902 \u2014 4 May 2026 \u2014 Pilot\n\n| Line | Description | Qty | Amount (\u20b9) |\n| --- | --- | --- | --- |\n| 10 | Pilot, 40 cameras, 8 weeks | 1 lot | 18,00,000 |\n| 20 | CR-01 kiln platform hot-zone (8 cameras within the 40) | 1 lot | 2,40,000 |\n| 30 | Optional R8 face-recognition attendance, 4 gates | 1 lot | 1,10,000 |\n| | Subtotal | | 21,50,000 |\n\nPayment: 40% on go-live, 60% on acceptance, 30 days after G"
+    },
+    {
+      "source": "Project_Drishti_Library\\04_delivery\\incident_report_INC-0611.md",
+      "matched_topics": [
+        "incident",
+        "acknowledgement"
+      ],
+      "preview": "FICTIONAL HACKATHON MATERIAL. All names, numbers and events are invented.\n\n# Incident report INC-0611 \u2014 Loss of video streams on 22 pilot cameras\n\nPrepared by: Vivek Anand (Field Engineer, PredCo), reviewed by Farhan Siddiqui (Ardent IT & OT) | 12 Jun 2026\n\n## Summary\n\nFrom 9 Jun 2026 18:40 to 11 Jun 2026 11:55 (about 41 hours), 22 of the 40 pilot cameras (packing 9, conveyor 7, raw mill 6)\nsent no usable stream to the ViewOS edge servers. No safety alerts were raised for those cameras during that time.\nThe control room was not told until the morning of 10 Jun.\n\n## Cause\n\nThe client's CCTV maintenance contractor applied a firmware update to NVR-2 and NVR-3 on 9 Jun evening. The update reset\nRTSP sub-stream settings to a codec the edge decoder did not accept. The ViewOS software showed the cameras as \"connected\"\nbecause the network link was up; it did not check that frames were actually arriving.\n\n## Impact\n\n- About 900 camera-hours with no detection (22 cameras \u00d7 41 hours).\n- Median alert acknowledgement time rose that week, as in-charges were reassigned to manual rounds.\n- No safety incident occurred during the gap.\n\n## What we changed\n\n1. Stream health monitor (release v1.4): ala"
+    },
+    {
+      "source": "Project_Drishti_Library\\04_delivery\\pilot_acceptance_certificate_2026-07-06.md",
+      "matched_topics": [
+        "baseline",
+        "target",
+        "acceptance",
+        "false alarm",
+        "acknowledgement",
+        "ppe",
+        "restricted-zone"
+      ],
+      "preview": "FICTIONAL HACKATHON MATERIAL. All names, numbers and events are invented.\n\n# Pilot acceptance certificate \u2014 Project Drishti\n\nArdent Cement Works Ltd, Bhadrapur Unit | PO 4500131902 | Date: 6 Jul 2026\n\nPilot period: 11 May 2026 to 3 Jul 2026 (8 weeks), 40 cameras.\n\n| KPI (BRD v2 \u00a74) | Baseline (pilot weeks 1\u20132) | Result (BRD window) | Target | Status |\n| --- | --- | --- | --- | --- |\n| K1 PPE compliance | 68.9% | 91.1% (last 4 weeks) | \u2265 90% | Met |\n| K2 Restricted-zone breaches per 1,000 camera-hours | 5.58 | 3.00 (last 4 weeks), \u221246% | \u221250% | Not met |\n| K3 Median alert acknowledgement | n/a | 4.9 min (last 4 weeks); 3.5 min in final week | \u2264 3.0 min | Not met |\n| K4 False alarms | n/a | 9.7% (last 2 weeks) | < 10% | Met |\n\nDecision: accepted with conditions under BRD \u00a75.\n\nConditions:\n1. K2 \u2014 Ardent maintenance to install physical guards at conveyor tail pulleys (client action); PredCo to add a pre-zone\n   warning for persons approaching within 2 m.\n2. K3 \u2014 Control room to phone the area in-charge if an alert is not acknowledged in 5 minutes (from 1 Aug).\n3. Both KPIs to be reported again at the September review.\n\nNote: the week of 8 Jun includes a 41-hour stream outage on 22 came"
+    },
+    {
+      "source": "Project_Drishti_Library\\05_meetings\\2026-04-17_poc_review_transcript.txt",
+      "matched_topics": [
+        "change request",
+        "false alarm",
+        "restricted-zone"
+      ],
+      "preview": "FICTIONAL HACKATHON MATERIAL. All names, numbers and events are invented.\n\nTranscript \u2014 \"Drishti PoC review\" \u2014 Bhadrapur conference room + Teams\nFriday 17 Apr 2026, 15:00\u201316:10 IST\nPresent: Rajiv Bhandari (Unit Head), Meenakshi Iyer (Head EHS, joined 7 Apr), Farhan Siddiqui (IT & OT), Dinesh Patel (Shift in-charge, Packing),\nAarav Malhotra, Neha Sharma, Karthik Raman (ML Lead) \u2014 PredCo\n(Arvind Rao left Ardent on 31 Mar.)\n\n[00:00:20] Rajiv Bhandari: Meenakshi joined us ten days ago from our Jharsa unit. Arvind started this; she will decide if it continues. Go ahead.\n\n[00:00:41] Neha Sharma: Thank you. Short version. Twelve cameras, five weeks of data. In the first two weeks, 61% of people we saw were wearing both helmet and vest. In week five it was 78%. Tail-pulley zone: 47 entries in week one, 19 in week five.\n\n[00:01:25] Meenakshi Iyer: Sixty-one? Our walk score last quarter was seventy-four.\n\n[00:01:31] Neha Sharma: Yes. We said in February the camera number would start lower. The walks are announced and short. Cameras see the night shift and the lunch break.\n\n[00:01:52] Meenakshi Iyer: Fine, I believe that. What I don't believe yet is the alerts. I sat in the control room on Tu"
+    },
+    {
+      "source": "Project_Drishti_Library\\05_meetings\\2026-06-26_steering_committee_transcript.txt",
+      "matched_topics": [
+        "acceptance",
+        "false alarm",
+        "acknowledgement",
+        "ppe"
+      ],
+      "preview": "FICTIONAL HACKATHON MATERIAL. All names, numbers and events are invented.\n\nTranscript \u2014 \"Drishti pilot steering committee\" \u2014 Teams\nFriday 26 Jun 2026, 11:00\u201312:05 IST\nPresent: Rajiv Bhandari, Meenakshi Iyer, Farhan Siddiqui, Sunil Kedia (AGM Finance, Bhadrapur), Dinesh Patel,\nAarav Malhotra, Neha Sharma, Sana Qureshi (Delivery Manager) \u2014 PredCo\n\n[00:00:30] Sana Qureshi: Seven weeks of pilot done. I'll give the KPIs the way the BRD defines them, then problems.\n\n[00:00:52] Sana Qureshi: K1, PPE compliance. Weeks one and two averaged 68.9%. Last three weeks: 88.6, 90.0, 91.8. On track for 90.\n\n[00:01:20] Sana Qureshi: K2, restricted zone, per thousand camera-hours. Started at 5.6. Now 2.7. That's about minus 50%, borderline. Conveyor is the problem zone \u2014 people still step over to clear spillage.\n\n[00:01:48] Sana Qureshi: K3, acknowledgement. Started at over nine minutes. Last week 3.9. We'll likely miss three minutes by end of pilot. And the week of 8 June was bad because of the outage.\n\n[00:02:05] Farhan Siddiqui: Which was our contractor's firmware. I've put change control in place.\n\n[00:02:12] Sana Qureshi: And our software should have caught it in five minutes, not fifteen hours."
+    },
+    {
+      "source": "Project_Drishti_Library\\05_meetings\\2026-09-18_QBR_transcript.txt",
+      "matched_topics": [
+        "acknowledgement",
+        "turnaround",
+        "ppe"
+      ],
+      "preview": "FICTIONAL HACKATHON MATERIAL. All names, numbers and events are invented.\n\nTranscript \u2014 \"Drishti quarterly business review\" \u2014 Bhadrapur conference room\nFriday 18 Sep 2026, 14:30\u201315:50 IST\nPresent: Rajiv Bhandari, Meenakshi Iyer, Sunil Kedia, Farhan Siddiqui, Lokesh Jain (Procurement),\nAarav Malhotra, Neha Sharma, Sana Qureshi \u2014 PredCo\n\n[00:00:40] Sana Qureshi: All 146 cameras live since 31 August, gate analytics since 3 August. I'll start with the hard part. If you look at the all-camera PPE line on the dashboard, it dropped from 93.6% at the end of the pilot to about 86% in August.\n\n[00:01:05] Rajiv Bhandari: I saw that. Corporate saw that too. Explain.\n\n[00:01:10] Sana Qureshi: It's the new cameras, sir. Each new area starts where the pilot areas started in May. If you look only at the 40 pilot cameras, they're at 94% in September. The new 106 cameras are at 87% and rising. All cameras together, last four weeks, 89.2%.\n\n[00:01:40] Meenakshi Iyer: That's right. Gate yard is the weakest. Drivers and cleaners from transporters, not our people. They don't even own helmets.\n\n[00:02:30] Sana Qureshi: Restricted zone: pilot cameras now 1.26 per thousand camera-hours, against 5.58 at the"
+    },
+    {
+      "source": "Project_Drishti_Library\\06_email\\A_2026-01-28_inbound_and_first_reply.md",
+      "matched_topics": [
+        "incident",
+        "ppe"
+      ],
+      "preview": "FICTIONAL HACKATHON MATERIAL. All names, numbers and events are invented.\n\n**From:** Arvind Rao <arvind.rao@ardentcement.example>\n**To:** hello@predco.ai\n**Date:** Wed, 28 Jan 2026 21:14\n**Subject:** PPE detection on existing CCTV \u2014 cement plant\n\nDear Team,\n\nI saw your post on LinkedIn about helmet detection on existing cameras. We run a cement plant with about 146 CCTV cameras,\nmostly used for security. We had serious incidents last year and our manual audits are not giving us the true picture.\n\nCan your system work with old cameras in dusty conditions? We cannot replace cameras this year. Please let me know if a\ncall is possible next week.\n\nRegards,\nArvind Rao\nHead \u2013 Environment, Health & Safety\nArdent Cement Works Ltd | Bhadrapur Unit, Chhattisgarh\nM: +91 98XXX 41207\n\n---\n\n**From:** Aarav Malhotra <aarav.m@predco.ai>\n**To:** Arvind Rao\n**Cc:** Neha Sharma <neha.s@predco.ai>\n**Date:** Thu, 29 Jan 2026 09:02\n**Subject:** RE: PPE detection on existing CCTV \u2014 cement plant\n\nDear Arvind ji,\n\nThank you for writing. Yes \u2014 most of our deployments run on existing cameras, including dusty sites. Image quality varies\ncamera by camera, so we always check a sample of streams before promising "
+    },
+    {
+      "source": "Project_Drishti_Library\\06_email\\B_2026-02-17_to_03-02_security_review.md",
+      "matched_topics": [
+        "incident",
+        "approval",
+        "delivered",
+        "ppe"
+      ],
+      "preview": "FICTIONAL HACKATHON MATERIAL. All names, numbers and events are invented.\n\n**From:** Farhan Siddiqui <farhan.s@ardentcement.example>\n**To:** Neha Sharma\n**Cc:** Lokesh Jain\n**Date:** Tue, 17 Feb 2026 18:40\n**Subject:** RE: PredCo security pack \u2014 Drishti\n\nNeha,\n\nReviewed. Three blockers:\n\n1. Your architecture shows the edge server pulling model updates from your registry. Not acceptable. No egress. Updates come on encrypted media through our change process, or through the jump host.\n2. \"Vendor support via VPN\" \u2014 no. Jump host only, session recorded, access approved per session by my team.\n3. Alert snapshots go to WhatsApp. That means images of our people leave the network through a phone. Explain how.\n\nYour SOC 2 report is for your cloud product. What applies to on-prem?\n\nFarhan\n\n---\n\n**From:** Neha Sharma\n**To:** Farhan Siddiqui\n**Date:** Thu, 19 Feb 2026 11:25\n**Subject:** RE: PredCo security pack \u2014 Drishti\n\nHi Farhan,\n\nThank you \u2014 fair points.\n1. Removed. Updates delivered as signed packages through your jump host; your team runs the install. Revised diagram attached.\n2. Agreed. Jump host only. We'll follow your session approval process.\n3. Option A: WhatsApp messages carry text "
+    },
+    {
+      "source": "Project_Drishti_Library\\06_email\\C_2026-03-31_EHS_handover.md",
+      "matched_topics": [
+        "false alarm",
+        "ppe"
+      ],
+      "preview": "FICTIONAL HACKATHON MATERIAL. All names, numbers and events are invented.\n\n**From:** Arvind Rao <arvind.rao@ardentcement.example>\n**To:** Aarav Malhotra, Neha Sharma\n**Cc:** Meenakshi Iyer <meenakshi.iyer@ardentcement.example>\n**Date:** Tue, 31 Mar 2026 17:48\n**Subject:** Handover \u2014 Drishti\n\nAarav, Neha,\n\nToday is my last day at Ardent; I am joining a group company abroad. I wanted you to hear it from me.\n\nMeenakshi Iyer takes over as Head EHS from 7 April. She ran safety at our Jharsa unit and is much tougher than me, which is\ngood for you. I have told her the PoC is promising, and I have also told her about the false alarms. Please don't oversell\nto her. She will check everything.\n\nIt has been a pleasure. Please make Drishti work \u2014 the contract workers deserve it.\n\nArvind\n\n---\n\n**From:** Meenakshi Iyer\n**Date:** Wed, 8 Apr 2026 09:12\n**Subject:** RE: Handover \u2014 Drishti\n\nDear Aarav, Neha,\n\nI have read the BRD and the PoC weekly notes. Before the review on 17 April, please send me:\n- every false alarm from the last two weeks with snapshots (on the console is fine),\n- how you count a \"person observed\" \u2014 same person seen by two cameras?,\n- what happens at night when the lights are po"
+    },
+    {
+      "source": "Project_Drishti_Library\\06_email\\D_2026-05-14_to_06-02_face_recognition_privacy.md",
+      "matched_topics": [
+        "change request",
+        "ppe"
+      ],
+      "preview": "FICTIONAL HACKATHON MATERIAL. All names, numbers and events are invented.\n\n**From:** Pooja Menon <pooja.menon@ardentcement.example> (Corporate Legal, Mumbai)\n**To:** Rajiv Bhandari, Meenakshi Iyer\n**Cc:** Aarav Malhotra, Farhan Siddiqui\n**Date:** Thu, 14 May 2026 19:20\n**Subject:** Face recognition attendance \u2014 Bhadrapur (PO line 30)\n\nRajiv,\n\nI came across PO line 30 for face-recognition attendance. This was not referred to Legal.\n\nFacial images used to identify individuals are personal data under the Digital Personal Data Protection Act, 2023. For\ncontract workers we would need a clear notice, consent that is genuinely free (difficult when attendance decides pay),\na retention policy, and an assessment. The contractor agreements do not cover this today.\n\nPlease hold this line until we review. If the safety analytics identifies individuals in any way, I need to know that too.\n\nPooja\n\n---\n\n**From:** Aarav Malhotra\n**Date:** Fri, 15 May 2026 10:03\n**Subject:** RE: Face recognition attendance \u2014 Bhadrapur (PO line 30)\n\nDear Pooja,\n\nThank you. Confirming: the safety analytics detects people and PPE but does not identify anyone. No face templates are\nstored. The attendance module is not d"
+    },
+    {
+      "source": "Project_Drishti_Library\\06_email\\E_2026-07-01_pilot_results_numbers.md",
+      "matched_topics": [
+        "baseline",
+        "target",
+        "acceptance",
+        "false alarm",
+        "ppe"
+      ],
+      "preview": "FICTIONAL HACKATHON MATERIAL. All names, numbers and events are invented.\n\n**From:** Aarav Malhotra <aarav.m@predco.ai>\n**To:** Rajiv Bhandari\n**Cc:** Meenakshi Iyer, Sunil Kedia, Neha Sharma, Sana Qureshi\n**Date:** Wed, 1 Jul 2026 08:15\n**Subject:** Drishti pilot \u2014 results summary for capex note\n\nDear Rajiv sir,\n\nAs discussed, a summary for the capex note:\n\n- PPE compliance up from 74% to 96.6% \u2014 a 31% improvement\n- Restricted zone entries down by half\n- Alerts acknowledged in under 4 minutes, from 9+\n- False alarms below 10%\n- Zero lost-time injuries since go-live\n\nWe believe this positions Bhadrapur as the safety benchmark for the group.\n\nWarm regards,\nAarav\n\n---\n\n**From:** Meenakshi Iyer\n**To:** Aarav Malhotra\n**Cc:** Rajiv Bhandari, Sunil Kedia, Neha Sharma, Sana Qureshi\n**Date:** Wed, 1 Jul 2026 09:47\n**Subject:** RE: Drishti pilot \u2014 results summary for capex note\n\nAarav,\n\nPlease don't send this to corporate in this form. Three problems:\n\n1. 74% is our manual walk score. 96.6% is the packing plant only, in its best week. You can't put those two in one sentence.\n   The BRD baseline is the camera-measured first two weeks, 68.9%, and the BRD result is the last four weeks on all "
+    },
+    {
+      "source": "Project_Drishti_Library\\06_email\\F_2026-08-21_to_09-03_payment_GRN.md",
+      "matched_topics": [
+        "acceptance",
+        "delay"
+      ],
+      "preview": "FICTIONAL HACKATHON MATERIAL. All names, numbers and events are invented.\n\n**From:** Sana Qureshi <sana.q@predco.ai>\n**To:** Lokesh Jain\n**Cc:** Aarav Malhotra\n**Date:** Fri, 21 Aug 2026 12:10\n**Subject:** Overdue: PC/26-27/0131 and PC/26-27/0158\n\nDear Lokesh,\n\nInvoice 0131 (pilot acceptance, \u20b911,14,000 + GST) was due on 5 Aug and 0158 (plant-wide advance, \u20b924,24,000 + GST) on 19 Aug.\nCould you let us know the status? Our field team has been on site through the scale-up.\n\nRegards,\nSana\n\n---\n\n**From:** Lokesh Jain\n**Date:** Mon, 24 Aug 2026 17:55\n**Subject:** RE: Overdue: PC/26-27/0131 and PC/26-27/0158\n\nSana,\n\nBoth are stuck because GRN is not done in SAP. For services, the user department (EHS) has to confirm the GRN. Meenakshi\nmadam was at the corporate audit workshop. I have escalated. Also, the advance invoice must reference the capex number,\nplease reissue with CAPEX/BHD/26-27/014.\n\nLokesh\n\n---\n\n**From:** Lokesh Jain\n**Date:** Thu, 3 Sep 2026 11:20\n**Subject:** RE: Overdue: PC/26-27/0131 and PC/26-27/0158\n\nBoth paid today. Sorry for the delay. For the go-live invoice, please send the plant-wide sign-off copy with it so GRN can be done the same day.\n\nLokesh\n"
+    },
+    {
+      "source": "Project_Drishti_Library\\06_email\\G_2026-09-22_finance_value_estimate.md",
+      "matched_topics": [
+        "turnaround",
+        "ppe",
+        "restricted-zone"
+      ],
+      "preview": "FICTIONAL HACKATHON MATERIAL. All names, numbers and events are invented.\n\n**From:** Sunil Kedia <sunil.kedia@ardentcement.example>\n**To:** Rajiv Bhandari\n**Cc:** Meenakshi Iyer\n**Date:** Tue, 22 Sep 2026 18:30\n**Subject:** Drishti \u2014 value note for MD review (internal, draft)\n\nRajiv sir,\n\nAs asked, a value note in the format corporate wants. Only what we can defend.\n\n**1. Gate (measured)**\nTransporter detention paid (SAP, all transporters): Jun \u20b911.8 L, Jul \u20b912.4 L, Aug \u20b98.1 L, Sep \u20b93.9 L (estimate to month end).\nAverage Jun\u2013Jul \u20b912.1 L/month; September \u20b93.9 L/month; reduction \u20b98.2 L/month, about \u20b998 L/year if it holds.\nNot all of this is Drishti: weighbridge 2 (capex \u20b91.6 Cr, commissioned 18 Aug) contributes. Turnaround data suggests most of\nthe drop came after dispatch slots started on 25 Aug, which logistics runs from the Drishti queue view. I suggest we credit\nthe project with \"a share\" and not a number until we have Oct\u2013Dec data. One month is not a trend.\n\n**2. Insurance (possible, not realised)**\nPremium \u20b92.4 Cr; broker indicates 3\u20135% reduction with an improved audit rating \u2192 \u20b97\u201312 L/year from the January renewal, if the final audit confirms B+.\n\n**3. Safety (not monetised)**"
+    },
+    {
+      "source": "Project_Drishti_Library\\06_email\\H_2026-09-24_to_09-30_case_study_permission.md",
+      "matched_topics": [
+        "approval",
+        "ppe"
+      ],
+      "preview": "FICTIONAL HACKATHON MATERIAL. All names, numbers and events are invented.\n\n**From:** Aarav Malhotra <aarav.m@predco.ai>\n**To:** Rajiv Bhandari\n**Date:** Thu, 24 Sep 2026 20:05\n**Subject:** Case study \u2014 quick approval?\n\nDear Rajiv sir,\n\nThank you again for last week. As discussed, we'd like to publish a short case study on our website and LinkedIn.\nDraft headline: \"How a leading Indian cement major raised PPE compliance from 74% to 97% and achieved zero LTIs with AI\".\n\nCould you give a quick go-ahead on WhatsApp so we can publish before the Mumbai Safety Expo on 15 October?\n\nRegards,\nAarav\n\n---\n\n**From:** Rajiv Bhandari\n**To:** Aarav Malhotra\n**Cc:** Pooja Menon, Meenakshi Iyer\n**Date:** Fri, 25 Sep 2026 08:12\n**Subject:** RE: Case study \u2014 quick approval?\n\nAarav,\n\nNot on WhatsApp, and not by me alone. I told you in the meeting: Legal and Corporate Comms. Copying Pooja.\nAlso, \"cement major\" with those numbers \u2014 anyone in the industry will know who it is.\n\nRajiv\n\n---\n\n**From:** Pooja Menon\n**To:** Aarav Malhotra\n**Cc:** Rajiv Bhandari, Meenakshi Iyer, Ritu Saxena (Corporate Communications)\n**Date:** Mon, 28 Sep 2026 15:40\n**Subject:** RE: Case study \u2014 quick approval?\n\nAarav,\n\nPlease f"
+    },
+    {
+      "source": "Project_Drishti_Library\\07_data\\data_dictionary.md",
+      "matched_topics": [
+        "baseline",
+        "payment",
+        "acknowledgement",
+        "turnaround",
+        "ppe"
+      ],
+      "preview": "FICTIONAL HACKATHON MATERIAL. All names, numbers and events are invented.\n\n# Data dictionary\n\n## viewos_weekly_zone_metrics.csv \u2014 ViewOS weekly export, 11 May to 27 Sep 2026\n\nOne row per week \u00d7 zone \u00d7 camera cohort. Weeks start on Monday.\n\n| Column | Meaning |\n| --- | --- |\n| week_start | Monday of the week |\n| zone | packing, conveyor, kiln, raw_mill, cement_mill, gate_yard, stores |\n| camera_cohort | pilot = the 40 cameras live from 11 May; scale = cameras added from 6 Jul (column added 27 Jul, back-filled) |\n| cameras_live | Cameras of that cohort live in that zone during the week |\n| camera_hours | Hours of usable video processed (outages reduce this) |\n| persons_observed | Tracked persons per camera per 10-minute window (one person on two cameras counts twice) |\n| ppe_compliant | Of those, persons with both helmet and vest |\n| restricted_zone_breaches | Entries into restricted or hot-zone polygons longer than 2 seconds |\n| alerts_raised | Alerts sent to the control room and area in-charge |\n| alerts_false_verified | Alerts marked false in the EHS daily sample review, scaled to the week |\n| median_ack_minutes | Median minutes from alert to acknowledgement |\n| model_version | De"
+    },
+    {
+      "source": "Project_Drishti_Library\\08_github\\CHANGELOG.md",
+      "matched_topics": [
+        "acceptance",
+        "turnaround"
+      ],
+      "preview": "FICTIONAL HACKATHON MATERIAL. All names, numbers and events are invented.\n\n# Changelog \u2014 ardent-drishti-edge\n\n## v2.0 \u2014 2026-08-03\n- Plant-wide: 146 camera configs; third edge server; load balancing across servers.\n- CR-03 gate turnaround: ANPR ingest (G1\u2013G4), weighbridge join, queue view, alerts at >25 trucks waiting or any truck >120 min.\n- Pre-zone warning (2 m) for conveyor tail pulleys (acceptance condition for K2).\n\n## v1.4 \u2014 2026-07-20\n- Stream health monitor: alarm if no frames for 5 minutes (INC-0611).\n- Daily 08:00 camera health message to control room.\n- Escalation hook: control-room call if alert not acknowledged in 5 minutes (enabled 4 Aug).\n\n## v1.3 \u2014 2026-06-15\n- Retrained detector on 4,200 labelled site frames (on-premise training box).\n- Fixes false vests from reflective strips on sack pallets; better helmets under dust at packer spouts.\n- Kiln face-shield class precision still low in heat shimmer.\n\n## v1.2 \u2014 2026-06-02\n- REMOVED face module (`attendance/`), its model files and the `face_attendance.enabled` key (CR-02). Not just disabled.\n\n## v1.1 \u2014 2026-05-25\n- Kiln platform hot-zone rule with face-shield class (CR-01).\n\n## v1.0 \u2014 2026-05-11\n- Pilot: 40 cameras, t"
+    },
+    {
+      "source": "Project_Drishti_Library\\08_github\\README.md",
+      "matched_topics": [
+        "turnaround",
+        "restricted-zone"
+      ],
+      "preview": "FICTIONAL HACKATHON MATERIAL. All names, numbers and events are invented.\n\n# ardent-drishti-edge\n\nSite deployment of ViewOS for Ardent Cement Works, Bhadrapur (\"Project Drishti\").\nPrivate repository: github.com/predco-delivery/ardent-drishti-edge\n\n## What runs where\n\n- 3 \u00d7 edge GPU servers (10.20.4.11\u201313) in the Bhadrapur server room, OT VLAN 40\n- `detector/` \u2014 person, helmet, hi-vis vest, face-shield models (YOLO-family, site-tuned)\n- `zones/` \u2014 restricted-zone and hot-zone polygons per camera (`configs/zones_bhadrapur.yaml`)\n- `alerts/` \u2014 alert bus, WhatsApp text gateway (text only, no images), control-room console at 10.20.4.15:8080\n- `health/` \u2014 stream health monitor (added v1.4 after INC-0611)\n- `gate/` \u2014 CR-03 gate turnaround: ANPR events G1\u2013G4 joined with SAP weighbridge feed (via PredCo Data Core connector)\n\n## Counting rules (agreed with EHS, 22 Apr 2026)\n\n- A \"person observed\" is one tracked person in one camera within a 10-minute window. The same person seen by two cameras counts twice.\n- Compliance = tracked persons with both helmet and vest detected in at least 70% of their frames.\n- Restricted-zone breach = a tracked person whose feet point enters a zone polygon for m"
+    },
+    {
+      "source": "Project_Drishti_Library\\12_vendor\\sales_deck_draft_notes_2026-09-23.md",
+      "matched_topics": [
+        "ppe",
+        "restricted-zone"
+      ],
+      "preview": "FICTIONAL HACKATHON MATERIAL. All names, numbers and events are invented.\n\n# Draft notes for the case-study slide \u2014 A. Malhotra, 23 Sep 2026 (not reviewed)\n\nTitle: \"Leading cement major: 97% PPE compliance, zero accidents, \u20b92.3 Cr saved\"\n\n- PPE compliance 74% \u2192 97% (+31%)\n- Restricted-zone violations \u221277%\n- Zero LTIs since go-live\n- Alert response 9 min \u2192 2 min\n- \u20b92.3 Cr annual savings: \u20b998 L gate detention + \u20b988 L avoided LTIs (4 \u00d7 \u20b922 L) + \u20b912 L insurance + \u20b930 L productivity (benchmark)\n- 146 cameras, 6.2 MTPA plant, live in 4 months\n- Quote: \"PredCo told us the uncomfortable number first\" \u2014 Head EHS\n- Photo: alert snapshot from packer 2B (looks great)\n- Logo strip: add Ardent logo?\n\nTODO: check with Neha whether 97% is all cameras.\n"
+    },
+    {
+      "source": "Project_Drishti_Library\\12_vendor\\vendor_profile_team_achievements.md",
+      "matched_topics": [
+        "acceptance",
+        "incident",
+        "approval"
+      ],
+      "preview": "FICTIONAL HACKATHON MATERIAL. Vendor details below are simplified for the hackathon; people named here are invented.\n\n# Vendor profile\n\n**PredCo** (Panscience Predictive Technologies Pvt Ltd), part of Panscience Innovations, a venture studio. New Delhi, India.\nIndustrial AI: ViewOS (visual intelligence on existing cameras) and PredCo Data Core (centralising plant data such as\nweighbridge, SCADA and ERP signals). Deployment on premise, hybrid or cloud. SOC 2 and ISO 27001.\n\n# Team on Project Drishti\n\n| Name | Role | Involvement |\n| --- | --- | --- |\n| Aarav Malhotra | Account Director | Sales, commercial, QBR |\n| Neha Sharma | Solution Architect | Scoping, security review, zones, gate analytics |\n| Karthik Raman | ML Lead | Models, retraining, CR-02 removal |\n| Sana Qureshi | Delivery Manager | Plan, KPIs, acceptance, invoices |\n| Vivek Anand | Field Engineer | On-site install, cameras, incident recovery (on site 61 days) |\n| 2 annotators | Labelling | 4,200 site frames, on premise |\n\nEffort: about 1,150 person-hours, Feb to Sep 2026 (timesheets).\n\n# Achievements (claimed in company materials)\n\n- 25+ plant deployments.\n- Selected for an IndiaAI startup cohort (2026).\n- Drishti-type "
+    }
+  ],
+  "case_studies": {
+    "gatekeeper": {
+      "audience": "Procurement, IT Security, Legal and Compliance",
+      "headline": "A controlled AI safety analytics pilot",
+      "focus": [
+        "Contractual permissions",
+        "Data privacy and security",
+        "System limitations",
+        "Incident handling",
+        "Evidence and approval"
+      ],
+      "evidence_sources": [
+        "Project_Drishti_Library\\00_README.md",
+        "Project_Drishti_Library\\01_contract\\MSA_confidentiality_and_publicity_extract.md",
+        "Project_Drishti_Library\\02_scoping\\2026-02-06_discovery_call_transcript.txt",
+        "Project_Drishti_Library\\02_scoping\\2026-02-14_RFQ_ACWL-BHD-EHS-2026-07.md",
+        "Project_Drishti_Library\\02_scoping\\2026-02-24_PredCo_proposal_v1.md",
+        "Project_Drishti_Library\\02_scoping\\2026-03-05_BRD_v2_signed.md",
+        "Project_Drishti_Library\\03_commercial\\change_requests_CR01-CR03.md",
+        "Project_Drishti_Library\\03_commercial\\purchase_orders.md",
+        "Project_Drishti_Library\\04_delivery\\incident_report_INC-0611.md",
+        "Project_Drishti_Library\\04_delivery\\pilot_acceptance_certificate_2026-07-06.md",
+        "Project_Drishti_Library\\05_meetings\\2026-04-17_poc_review_transcript.txt",
+        "Project_Drishti_Library\\05_meetings\\2026-06-26_steering_committee_transcript.txt",
+        "Project_Drishti_Library\\05_meetings\\2026-09-18_QBR_transcript.txt",
+        "Project_Drishti_Library\\06_email\\A_2026-01-28_inbound_and_first_reply.md",
+        "Project_Drishti_Library\\06_email\\B_2026-02-17_to_03-02_security_review.md",
+        "Project_Drishti_Library\\06_email\\C_2026-03-31_EHS_handover.md",
+        "Project_Drishti_Library\\06_email\\D_2026-05-14_to_06-02_face_recognition_privacy.md",
+        "Project_Drishti_Library\\06_email\\E_2026-07-01_pilot_results_numbers.md",
+        "Project_Drishti_Library\\06_email\\F_2026-08-21_to_09-03_payment_GRN.md",
+        "Project_Drishti_Library\\06_email\\G_2026-09-22_finance_value_estimate.md",
+        "Project_Drishti_Library\\06_email\\H_2026-09-24_to_09-30_case_study_permission.md",
+        "Project_Drishti_Library\\07_data\\data_dictionary.md",
+        "Project_Drishti_Library\\08_github\\CHANGELOG.md",
+        "Project_Drishti_Library\\08_github\\README.md",
+        "Project_Drishti_Library\\12_vendor\\sales_deck_draft_notes_2026-09-23.md",
+        "Project_Drishti_Library\\12_vendor\\vendor_profile_team_achievements.md"
+      ],
+      "status": "DRAFT - HUMAN REVIEW REQUIRED"
+    },
+    "user": {
+      "audience": "Plant managers, engineers and operators",
+      "headline": "Supporting safer and more visible operations",
+      "focus": [
+        "Operational workflow",
+        "Safety monitoring",
+        "Alert acknowledgement",
+        "User feedback",
+        "Adoption and limitations"
+      ],
+      "evidence_sources": [
+        "Project_Drishti_Library\\00_README.md",
+        "Project_Drishti_Library\\01_contract\\MSA_confidentiality_and_publicity_extract.md",
+        "Project_Drishti_Library\\02_scoping\\2026-02-06_discovery_call_transcript.txt",
+        "Project_Drishti_Library\\02_scoping\\2026-02-14_RFQ_ACWL-BHD-EHS-2026-07.md",
+        "Project_Drishti_Library\\02_scoping\\2026-02-24_PredCo_proposal_v1.md",
+        "Project_Drishti_Library\\02_scoping\\2026-03-05_BRD_v2_signed.md",
+        "Project_Drishti_Library\\03_commercial\\change_requests_CR01-CR03.md",
+        "Project_Drishti_Library\\03_commercial\\purchase_orders.md",
+        "Project_Drishti_Library\\04_delivery\\incident_report_INC-0611.md",
+        "Project_Drishti_Library\\04_delivery\\pilot_acceptance_certificate_2026-07-06.md",
+        "Project_Drishti_Library\\05_meetings\\2026-04-17_poc_review_transcript.txt",
+        "Project_Drishti_Library\\05_meetings\\2026-06-26_steering_committee_transcript.txt",
+        "Project_Drishti_Library\\05_meetings\\2026-09-18_QBR_transcript.txt",
+        "Project_Drishti_Library\\06_email\\A_2026-01-28_inbound_and_first_reply.md",
+        "Project_Drishti_Library\\06_email\\B_2026-02-17_to_03-02_security_review.md",
+        "Project_Drishti_Library\\06_email\\C_2026-03-31_EHS_handover.md",
+        "Project_Drishti_Library\\06_email\\D_2026-05-14_to_06-02_face_recognition_privacy.md",
+        "Project_Drishti_Library\\06_email\\E_2026-07-01_pilot_results_numbers.md",
+        "Project_Drishti_Library\\06_email\\F_2026-08-21_to_09-03_payment_GRN.md",
+        "Project_Drishti_Library\\06_email\\G_2026-09-22_finance_value_estimate.md",
+        "Project_Drishti_Library\\06_email\\H_2026-09-24_to_09-30_case_study_permission.md",
+        "Project_Drishti_Library\\07_data\\data_dictionary.md",
+        "Project_Drishti_Library\\08_github\\CHANGELOG.md",
+        "Project_Drishti_Library\\08_github\\README.md",
+        "Project_Drishti_Library\\12_vendor\\sales_deck_draft_notes_2026-09-23.md",
+        "Project_Drishti_Library\\12_vendor\\vendor_profile_team_achievements.md"
+      ],
+      "status": "DRAFT - HUMAN REVIEW REQUIRED"
+    },
+    "buyer": {
+      "audience": "CXOs and business decision makers",
+      "headline": "Evaluating the business value of AI-enabled safety analytics",
+      "focus": [
+        "Measured outcomes",
+        "Investment and costs",
+        "Operational efficiency",
+        "ROI evidence",
+        "Scalability"
+      ],
+      "evidence_sources": [
+        "Project_Drishti_Library\\00_README.md",
+        "Project_Drishti_Library\\01_contract\\MSA_confidentiality_and_publicity_extract.md",
+        "Project_Drishti_Library\\02_scoping\\2026-02-06_discovery_call_transcript.txt",
+        "Project_Drishti_Library\\02_scoping\\2026-02-14_RFQ_ACWL-BHD-EHS-2026-07.md",
+        "Project_Drishti_Library\\02_scoping\\2026-02-24_PredCo_proposal_v1.md",
+        "Project_Drishti_Library\\02_scoping\\2026-03-05_BRD_v2_signed.md",
+        "Project_Drishti_Library\\03_commercial\\change_requests_CR01-CR03.md",
+        "Project_Drishti_Library\\03_commercial\\purchase_orders.md",
+        "Project_Drishti_Library\\04_delivery\\incident_report_INC-0611.md",
+        "Project_Drishti_Library\\04_delivery\\pilot_acceptance_certificate_2026-07-06.md",
+        "Project_Drishti_Library\\05_meetings\\2026-04-17_poc_review_transcript.txt",
+        "Project_Drishti_Library\\05_meetings\\2026-06-26_steering_committee_transcript.txt",
+        "Project_Drishti_Library\\05_meetings\\2026-09-18_QBR_transcript.txt",
+        "Project_Drishti_Library\\06_email\\A_2026-01-28_inbound_and_first_reply.md",
+        "Project_Drishti_Library\\06_email\\B_2026-02-17_to_03-02_security_review.md",
+        "Project_Drishti_Library\\06_email\\C_2026-03-31_EHS_handover.md",
+        "Project_Drishti_Library\\06_email\\D_2026-05-14_to_06-02_face_recognition_privacy.md",
+        "Project_Drishti_Library\\06_email\\E_2026-07-01_pilot_results_numbers.md",
+        "Project_Drishti_Library\\06_email\\F_2026-08-21_to_09-03_payment_GRN.md",
+        "Project_Drishti_Library\\06_email\\G_2026-09-22_finance_value_estimate.md",
+        "Project_Drishti_Library\\06_email\\H_2026-09-24_to_09-30_case_study_permission.md",
+        "Project_Drishti_Library\\07_data\\data_dictionary.md",
+        "Project_Drishti_Library\\08_github\\CHANGELOG.md",
+        "Project_Drishti_Library\\08_github\\README.md",
+        "Project_Drishti_Library\\12_vendor\\sales_deck_draft_notes_2026-09-23.md",
+        "Project_Drishti_Library\\12_vendor\\vendor_profile_team_achievements.md"
+      ],
+      "status": "DRAFT - HUMAN REVIEW REQUIRED"
+    }
+  },
+  "publication_status": "BLOCKED - APPROVAL REQUIRED",
+  "disclaimer": "CSV summaries are descriptive statistics, not validated KPIs. Timeline dates are taken from filenames. All case studies require source-level verification and human review."
+}

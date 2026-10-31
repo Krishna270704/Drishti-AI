@@ -1,0 +1,18 @@
+{
+  "project": "An Indian cement manufacturer safety analytics pilot",
+  "challenge": "Safety teams needed more consistent visibility into PPE and restricted-zone events.",
+  "solution": "An on-premises, AI-assisted alert workflow using existing camera feeds, with human review.",
+  "implementation": "The pilot ran from 11 May to 3 July 2026 across 40 cameras and was accepted with conditions.",
+  "outcomes": "PPE compliance increased from 68.9% to 91.1%; restricted-zone breaches fell from 5.58 to 3.00 per 1,000 camera-hours.",
+  "limitations": [
+    "The restricted-zone reduction target was missed.",
+    "Acknowledgement remained above target and is reported as a proxy.",
+    "Financial savings and causal safety outcomes are not established.",
+    "Face recognition was removed for legal and privacy reasons."
+  ],
+  "source_references": {
+    "acceptance": "Project_Drishti_Library/04_delivery/pilot_acceptance_certificate_2026-07-06.md",
+    "privacy": "Project_Drishti_Library/01_contract/MSA_confidentiality_and_publicity_extract.md",
+    "timeline_event_count": 491
+  }
+}

@@ -1,0 +1,22 @@
+month,man_hours_worked,lost_time_injuries,lti_description,first_aid_cases,near_miss_reports,notes
+2025-01,416765,0,,3,10,
+2025-02,414020,0,,8,9,
+2025-03,400433,1,"Hand crushed at packer spout, contract worker, 11 days lost",9,10,
+2025-04,411771,0,,9,14,
+2025-05,403645,0,,6,14,
+2025-06,412470,0,,5,15,
+2025-07,403893,0,,5,17,
+2025-08,427003,1,"Fall from conveyor walkway (no harness), 34 days lost",5,15,
+2025-09,427673,0,,7,17,
+2025-10,411498,0,,6,9,
+2025-11,406365,1,"Struck by reversing loader near stores, 19 days lost",6,17,
+2025-12,400863,1,"Fall near conveyor tail pulley, guard missing, 27 days lost",8,12,Conveyor tail pulley guard replaced 14 Jan 2026
+2026-01,415117,0,,4,17,
+2026-02,408727,1,"Burn at kiln inlet, no face shield, 16 days lost",9,17,
+2026-03,415057,0,,4,12,
+2026-04,409013,0,,5,22,New Head EHS joined 7 Apr; Suraksha Saptah 20-26 Apr
+2026-05,424977,0,,3,27,ViewOS pilot live 11 May; daily toolbox talks start
+2026-06,418352,0,,3,39,ViewOS alerts can be logged as near-miss from 15 Jun
+2026-07,467486,0,,5,38,Contract headcount up for cement mill 3 expansion
+2026-08,460819,0,,3,46,
+2026-09,452920,0,,2,47,

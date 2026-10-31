@@ -1,0 +1,127 @@
+{
+  "project": "Project Drishti",
+  "generated_at": "2026-10-31T12:55:59.179989",
+  "model": "openai/gpt-oss-120b",
+  "workflow": [
+    "Document Analysis Agent",
+    "Story and Evidence Agent",
+    "Results Reconciliation Agent",
+    "Exposure and Confidentiality Agent",
+    "Three-Audience Case Study Agent",
+    "Client Approval Agent"
+  ],
+  "agent_results": {
+    "document_analysis": "**Project Drishti – Evidence‑Based Summary**  \n\n| Item | Evidence‑based description | Source |\n|------|----------------------------|--------|\n| **1. Original project objective & scope** | • Goal: “AI safety compliance on existing CCTV” – use the plant’s 146 existing cameras to monitor Personal‑Protective‑Equipment (PPE) compliance and restricted‑zone breaches at the Bhadrapur cement unit.  <br>• Scope (as initially proposed): pilot on a subset of cameras, then full‑plant coverage, with KPI targets for PPE compliance (≥ 90 %) and restricted‑zone breaches per 1 000 camera‑weeks. | 02_scoping/2026-02-24_PredCo_proposal_v1.md |\n| **2. What was *proposed* (baseline plan)** | • Pilot: 40 cameras for an 8‑week period (11 May – 3 Jul 2026). <br>• Full‑plant rollout: configuration of all 146 cameras, addition of a third edge server, load‑balancing, and integration of ANPR, weigh‑bridge and queue‑view alerts (see changelog v2.0). | 04_delivery/pilot_acceptance_certificate_2026-07-06.md; 08_github/CHANGELOG.md |\n| **3. What was *actually delivered* (evidence)** | • Pilot phase completed and formally accepted on 6 Jul 2026 (certificate signed by Ardent). <br>• KPI results: PPE compliance reached 91.1 % (≥ 90 % target met). <br>• Restricted‑zone breach metric is incomplete in the certificate (table truncated), so the result cannot be verified. <br>• During the pilot, a loss‑of‑video incident affected 22 of the 40 pilot cameras for ~41 h (9 Jun – 11 Jun 2026). | 04_delivery/pilot_acceptance_certificate_2026-07-06.md; 04_delivery/incident_report_INC-0611.md |\n| **4. Scope changes (chronology & reasons)** | • **CR‑01 (22 Apr 2026)** – added “kiln platform hot‑zone detection” (8 extra cameras, new rule for face‑shield detection). Reason: PoC on 17 Apr showed unsafe entries during a February burn incident. <br>• **CR‑03 (reflected in changelog v2.0, 3 Aug 2026)** – added ANPR ingest, weigh‑bridge join, queue‑view alerts, and a pre‑zone warning for conveyor tail pulleys. Reason: expanded functional requirements after pilot review (not detailed in the provided files, but implied by changelog). | 03_commercial/change_requests_CR01-CR03.md; 08_github/CHANGELOG.md |\n| **5. Important decisions** | • Approval of CR‑01 by R",
+    "story_evidence": "**Project Drishti – Chronological Timeline (evidence‑based)**  \n\n| Date (as stated in source) | Event | Decision / Change resulting from the event | Source filename |\n|----------------------------|-------|--------------------------------------------|-----------------|\n| **24 Feb 2026** | PredCo submits the “AI safety compliance on existing CCTV – Bhadrapur Unit” proposal to Ardent Cement Works Ltd. | Formal response to RFQ ACWL‑BHD‑EHS‑2026‑07; initiates the scoping phase and provides the basis for the later contract. | `Project_Drishti_Library\\02_scoping\\2026-02-24_PredCo_proposal_v1.md` |\n| **2 Mar 2026** | Master Services Agreement (MSA) between Ardent Cement Works Ltd and Panscience Predictive Technologies Pvt Ltd becomes effective (Agreement no. ACWL/LGL/MSA/2026/0112). | Establishes the legal framework, confidentiality obligations and overall commercial relationship for Project Drishti. | `Project_Drishti_Library\\01_contract\\MSA_confidentiality_and_publicity_extract.md` |\n| **5 Mar 2026** | Business Requirements Document (BRD) v2.0 is signed by client and vendor. | Finalises KPI targets (e.g., PPE compliance ≥ 90 %) and supersedes the earlier draft (v1.0). Sets the technical scope that will be built and measured during the pilot. | `Project_Drishti_Library\\02_scoping\\2026-03-05_BRD_v2_signed.md` |\n| **22 Apr 2026** | Change Request CR‑01 – “Add kiln platform hot‑zone detection” is **raised** by Meenakshi Iyer (Head EHS). | Proposes to extend the detection area to the kiln platform (8 additional cameras) after a PoC review highlighted safety gaps. | `Project_Drishti_Library\\03_commercial\\change_requests_CR01-CR03.md` |\n| **28 Apr 2026** | Change Request CR‑01 is **approved** by R. Bhandari. | The BRD §3 is",
+    "results": "**Results‑Reconciliation – Project Drishti (Pilot)**  \n*All observations are drawn only from the documents that have been supplied. Where a piece of information is not present, the gap is flagged explicitly. No numbers have been invented or recalculated.*\n\n---\n\n## 1. Metric K1 – PPE Compliance  \n\n| Item | Evidence / Comment |\n|------|--------------------|\n| **Definition** | The Business Requirements Document (BRD v2 §4) lists “PPE compliance” as a KPI. The exact wording of the definition is **not** reproduced in the supplied files, but the context (EHS safety walks, camera‑based detection) indicates it measures the proportion of workers captured on camera who are wearing the required personal‑protective equipment (hard‑hat, safety‑vest, eye‑protection, etc.) at the time of the safety‑walk recordings. |\n| **Baseline** | – Pilot acceptance certificate (pilot‑acceptance‑certificate_2026‑07‑06.md) – “Baseline (pilot weeks 1–2) = **68.9 %**”.  <br>– Email summary (E_2026‑07‑01_pilot_results_numbers.md) – “PPE compliance up from **74 %** …”.  <br>**Conflict:** two different baseline values are reported (68.9 % vs 74 %). No source is provided that explains which figure is the official baseline for the KPI. |\n| **Measurement window** | – Pilot period: **11 May 2026 – 3 Jul 2026** (8 weeks).  <br>– The acceptance certificate states the result is taken from the **“last 4 weeks”** of the pilot.  <br>– The email does not specify a window; it merely reports a “summary for the capex note”.  <br>**Missing evidence:** the exact dates that constitute the “last 4 weeks” (e.g., 12 Jun – 3 Jul) are not listed. |\n| **Method / Data source** | – The BRD (v2) describes the use of the existing 146 CCTV cameras (re‑purposed for AI‑based safety monitoring) to detect PPE.  <br>– No detailed algorithmic description, sampling frequency, or validation procedure is included in the supplied excerpts.  <br>**Missing evidence:** a concrete “methodology” section (e.g., model precision, manual audit sampling) is not present. |\n| **Final result** | – Acceptance certificate: **91.1 %** (average over the last 4 weeks).  <br>– Email: **96.6 %** (no time‑frame indicated).  <br>**Conflict:** two different reported results. |\n| **Target achievement** | – Target in the acceptance certificate table: **≥ 90 %**.",
+    "exposure": "**Exposure & Confidentiality Assessment – Project Drishti (fictional hack‑athon data)**  \n\nBelow is a **source‑by‑source** breakdown of every identifiable element that appears in the supplied artefacts, the re‑identification risk that each creates (alone or when combined with other artefacts), a **safe‑replacement wording** that removes the exposure while preserving the factual meaning, and the **contractual / legal constraints** that the Master Services Agreement (MSA) imposes on any further use or publication of the material.  \n\n> **Key**  \n> • **Direct identifier** – information that on its own can uniquely identify a natural person, legal entity, or a uniquely‑referenced document.  \n> • **Indirect identifier** – information that does not identify on its own but can do so when combined with other data (e.g., dates, locations, job titles, reference numbers).  \n> • **Combined re‑identification risk** – the specific way two or more identifiers from the same or different files could be linked to reveal a person, a corporate unit, or a proprietary document.  \n> • **Safe‑replacement language** – a minimal‑change anonymisation that removes the exposure but keeps the business‑logic intact.  \n> • **Contractual restriction** – the clause(s) in the MSA that limit disclosure, publication, or further processing of the identified data.  \n\n---\n\n## 1.  `Project_Drishti_Library\\04_delivery\\pilot_acceptance_certificate_2026-07-06.md`\n\n| Item | Direct identifiers | Ind",
+    "case_study": "**CASE‑STUDY DRAFT – PROJECT “DRISHTI” (Ardent Cement Works Ltd – Bhadrapur Unit)**  \n*All data are taken from the internal artefacts listed in the Project Drishti library. The material is subject to the confidentiality clauses of the Master Services Agreement (see MSA confidentiality extract) and must not be published externally without explicit permission.*  \n\n---\n\n## 1️⃣ GATEKEEPER VERSION  \n*Audience: Procurement, IT Security, Legal & Compliance*  \n\n### Problem  \n- **Procurement:** The plant relied on manual safety‑walk observations (two walks per day) to monitor Personal‑Protective‑Equipment (PPE) compliance, leading to high labour cost and limited coverage of the 146 existing CCTV cameras.  \n- **IT Security / Compliance:** Existing camera streams were not integrated with a secure edge‑analytics platform; there was no guaranteed confidentiality of video data and no systematic health‑monitoring of streams.  \n- **Legal:** The company needed to demonstrate compliance with Indian occupational‑health regulations (e.g., PPE usage ≥ 90 %) and to protect confidential operational footage per the Master Services Agreement (MSA §14).  \n\n### Solution (as scoped & delivered)  \n| Component | Description | Evidence |\n|-----------|-------------|----------|\n| **AI‑enabled safety analytics layer** built on the vendor’s ViewOS edge servers, ingesting live feeds from the plant’s CCTV network. | – Uses existing 146 cameras; pilot initially deployed on 40 cameras (8 weeks",
+    "approval": "**CLIENT APPROVAL REQUEST**  \n*Prepared for: Ardent Cement Works Ltd – Bhadrapur Unit*  \n*Prepared by: PredCo – Project Drishti – Delivery Team*  \n*Date: 31 Oct 2026*  \n\n---\n\n### 1. Purpose  \nTo obtain the required **written client approvals** before any external publication or external communication of Project Drishti results, case‑study material, or commercial value statements. Publication must remain **blocked** until all listed approvals are received in writing and the confidentiality obligations of the Master Services Agreement (MSA §14) are satisfied.\n\n---\n\n### 2. Materials & Media that Require Review & Approval  \n\n| # | Item (internal reference) | Description / Content | Evidence (file) |\n|---|---------------------------|-----------------------|-----------------|\n| 1 | **Pilot Acceptance Certificate** | Signed acceptance of pilot (8 weeks, 40 cameras) with KPI table (PPE compliance, restricted‑zone breaches, etc.) | `Project_Drishti_Library\\04_delivery\\pilot_acceptance_certificate_2026-07-06.md` |\n| 2 | **Pilot Results Summary Email** | Summary of KPI improvements (PPE ↑ 74 % → 96.6 %, restricted‑zone entries ↓ 50 %, alert latency < 4 min) prepared for internal capex note | `Project_Drishti_Library\\06_email\\E_2026-07-01_pilot_results_numbers.md` |\n| 3 | **Incident Report – Camera Stream Loss (INC‑0611)** | Technical incident description (22 cameras offline for 41 h) and impact assessment | `Project_Drishti_Library\\04_delivery\\incident_report_INC-0611.md` |\n| 4 | **Change Request CR‑01 (Kiln‑platform hot‑zone detection)** | Scope amendment adding 8 cameras & new rule; cost + ₹2,40,000 | `Project_Drishti_Library\\03_commercial\\change_requests_CR01-CR03.md` |\n| 5 | **Software Changelog v2.0** | Release notes showing plant‑wide camera"
+  },
+  "deliverables": {
+    "1_project_story_spine": {
+      "content": "**Project Drishti – Chronological Timeline (evidence‑based)**  \n\n| Date (as stated in source) | Event | Decision / Change resulting from the event | Source filename |\n|----------------------------|-------|--------------------------------------------|-----------------|\n| **24 Feb 2026** | PredCo submits the “AI safety compliance on existing CCTV – Bhadrapur Unit” proposal to Ardent Cement Works Ltd. | Formal response to RFQ ACWL‑BHD‑EHS‑2026‑07; initiates the scoping phase and provides the basis for the later contract. | `Project_Drishti_Library\\02_scoping\\2026-02-24_PredCo_proposal_v1.md` |\n| **2 Mar 2026** | Master Services Agreement (MSA) between Ardent Cement Works Ltd and Panscience Predictive Technologies Pvt Ltd becomes effective (Agreement no. ACWL/LGL/MSA/2026/0112). | Establishes the legal framework, confidentiality obligations and overall commercial relationship for Project Drishti. | `Project_Drishti_Library\\01_contract\\MSA_confidentiality_and_publicity_extract.md` |\n| **5 Mar 2026** | Business Requirements Document (BRD) v2.0 is signed by client and vendor. | Finalises KPI targets (e.g., PPE compliance ≥ 90 %) and supersedes the earlier draft (v1.0). Sets the technical scope that will be built and measured during the pilot. | `Project_Drishti_Library\\02_scoping\\2026-03-05_BRD_v2_signed.md` |\n| **22 Apr 2026** | Change Request CR‑01 – “Add kiln platform hot‑zone detection” is **raised** by Meenakshi Iyer (Head EHS). | Proposes to extend the detection area to the kiln platform (8 additional cameras) after a PoC review highlighted safety gaps. | `Project_Drishti_Library\\03_commercial\\change_requests_CR01-CR03.md` |\n| **28 Apr 2026** | Change Request CR‑01 is **approved** by R. Bhandari. | The BRD §3 is",
+      "status": "DRAFT"
+    },
+    "2_results_sheet": {
+      "kpi_engine_output": {
+        "source": "viewos_weekly_zone_metrics.csv",
+        "measurement_method": "Aggregated pilot cohort rows from the ViewOS weekly export. Acceptance-period data is restricted to 11 May–3 July 2026. This calculated summary is not a replacement for the signed acceptance certificate.",
+        "baseline": {
+          "weeks": [
+            "2026-05-11",
+            "2026-05-18"
+          ],
+          "rows": 8,
+          "persons_observed": 14486,
+          "ppe_compliant": 9978,
+          "ppe_compliance_pct": 68.88,
+          "camera_hours": 13440.0,
+          "restricted_breaches": 75,
+          "breaches_per_1000_camera_hours": 5.58,
+          "alerts_raised": 571,
+          "false_verified_alerts": 113,
+          "false_alert_pct": 19.79
+        },
+        "final_period": {
+          "weeks": [
+            "2026-06-08",
+            "2026-06-15",
+            "2026-06-22",
+            "2026-06-29"
+          ],
+          "rows": 16,
+          "persons_observed": 28634,
+          "ppe_compliant": 26081,
+          "ppe_compliance_pct": 91.08,
+          "camera_hours": 25978.0,
+          "restricted_breaches": 78,
+          "breaches_per_1000_camera_hours": 3.0,
+          "alerts_raised": 357,
+          "false_verified_alerts": 44,
+          "false_alert_pct": 12.32
+        },
+        "false_alarm_period": {
+          "weeks": [
+            "2026-06-22",
+            "2026-06-29"
+          ],
+          "rows": 8,
+          "persons_observed": 15057,
+          "ppe_compliant": 13957,
+          "ppe_compliance_pct": 92.69,
+          "camera_hours": 13440.0,
+          "restricted_breaches": 35,
+          "breaches_per_1000_camera_hours": 2.6,
+          "alerts_raised": 155,
+          "false_verified_alerts": 15,
+          "false_alert_pct": 9.68
+        },
+        "kpis": {
+          "ppe_change_percentage_points": 22.2,
+          "restricted_breach_reduction_pct": 46.24,
+          "false_alarm_pct": 9.68,
+          "weighted_ack_minutes_proxy": 4.9,
+          "ack_metric_warning": "Weighted average of zone-level medians; not the exact overall median."
+        },
+        "limitations": [
+          "Compare calculated results with the signed acceptance certificate.",
+          "Do not mix manual safety-walk baseline with camera-measured baseline.",
+          "Do not claim causation from before/after differences alone.",
+          "The outage may affect weekly results.",
+          "The calculated acknowledgement proxy is not an exact median."
+        ]
+      },
+      "analysis": "**Results‑Reconciliation – Project Drishti (Pilot)**  \n*All observations are drawn only from the documents that have been supplied. Where a piece of information is not present, the gap is flagged explicitly. No numbers have been invented or recalculated.*\n\n---\n\n## 1. Metric K1 – PPE Compliance  \n\n| Item | Evidence / Comment |\n|------|--------------------|\n| **Definition** | The Business Requirements Document (BRD v2 §4) lists “PPE compliance” as a KPI. The exact wording of the definition is **not** reproduced in the supplied files, but the context (EHS safety walks, camera‑based detection) indicates it measures the proportion of workers captured on camera who are wearing the required personal‑protective equipment (hard‑hat, safety‑vest, eye‑protection, etc.) at the time of the safety‑walk recordings. |\n| **Baseline** | – Pilot acceptance certificate (pilot‑acceptance‑certificate_2026‑07‑06.md) – “Baseline (pilot weeks 1–2) = **68.9 %**”.  <br>– Email summary (E_2026‑07‑01_pilot_results_numbers.md) – “PPE compliance up from **74 %** …”.  <br>**Conflict:** two different baseline values are reported (68.9 % vs 74 %). No source is provided that explains which figure is the official baseline for the KPI. |\n| **Measurement window** | – Pilot period: **11 May 2026 – 3 Jul 2026** (8 weeks).  <br>– The acceptance certificate states the result is taken from the **“last 4 weeks”** of the pilot.  <br>– The email does not specify a window; it merely reports a “summary for the capex note”.  <br>**Missing evidence:** the exact dates that constitute the “last 4 weeks” (e.g., 12 Jun – 3 Jul) are not listed. |\n| **Method / Data source** | – The BRD (v2) describes the use of the existing 146 CCTV cameras (re‑purposed for AI‑based safety monitoring) to detect PPE.  <br>– No detailed algorithmic description, sampling frequency, or validation procedure is included in the supplied excerpts.  <br>**Missing evidence:** a concrete “methodology” section (e.g., model precision, manual audit sampling) is not present. |\n| **Final result** | – Acceptance certificate: **91.1 %** (average over the last 4 weeks).  <br>– Email: **96.6 %** (no time‑frame indicated).  <br>**Conflict:** two different reported results. |\n| **Target achievement** | – Target in the acceptance certificate table: **≥ 90 %**.",
+      "status": "DRAFT"
+    },
+    "3_exposure_report": {
+      "content": "**Exposure & Confidentiality Assessment – Project Drishti (fictional hack‑athon data)**  \n\nBelow is a **source‑by‑source** breakdown of every identifiable element that appears in the supplied artefacts, the re‑identification risk that each creates (alone or when combined with other artefacts), a **safe‑replacement wording** that removes the exposure while preserving the factual meaning, and the **contractual / legal constraints** that the Master Services Agreement (MSA) imposes on any further use or publication of the material.  \n\n> **Key**  \n> • **Direct identifier** – information that on its own can uniquely identify a natural person, legal entity, or a uniquely‑referenced document.  \n> • **Indirect identifier** – information that does not identify on its own but can do so when combined with other data (e.g., dates, locations, job titles, reference numbers).  \n> • **Combined re‑identification risk** – the specific way two or more identifiers from the same or different files could be linked to reveal a person, a corporate unit, or a proprietary document.  \n> • **Safe‑replacement language** – a minimal‑change anonymisation that removes the exposure but keeps the business‑logic intact.  \n> • **Contractual restriction** – the clause(s) in the MSA that limit disclosure, publication, or further processing of the identified data.  \n\n---\n\n## 1.  `Project_Drishti_Library\\04_delivery\\pilot_acceptance_certificate_2026-07-06.md`\n\n| Item | Direct identifiers | Ind",
+      "status": "REVIEW REQUIRED"
+    },
+    "4_three_case_studies": {
+      "content": "**CASE‑STUDY DRAFT – PROJECT “DRISHTI” (Ardent Cement Works Ltd – Bhadrapur Unit)**  \n*All data are taken from the internal artefacts listed in the Project Drishti library. The material is subject to the confidentiality clauses of the Master Services Agreement (see MSA confidentiality extract) and must not be published externally without explicit permission.*  \n\n---\n\n## 1️⃣ GATEKEEPER VERSION  \n*Audience: Procurement, IT Security, Legal & Compliance*  \n\n### Problem  \n- **Procurement:** The plant relied on manual safety‑walk observations (two walks per day) to monitor Personal‑Protective‑Equipment (PPE) compliance, leading to high labour cost and limited coverage of the 146 existing CCTV cameras.  \n- **IT Security / Compliance:** Existing camera streams were not integrated with a secure edge‑analytics platform; there was no guaranteed confidentiality of video data and no systematic health‑monitoring of streams.  \n- **Legal:** The company needed to demonstrate compliance with Indian occupational‑health regulations (e.g., PPE usage ≥ 90 %) and to protect confidential operational footage per the Master Services Agreement (MSA §14).  \n\n### Solution (as scoped & delivered)  \n| Component | Description | Evidence |\n|-----------|-------------|----------|\n| **AI‑enabled safety analytics layer** built on the vendor’s ViewOS edge servers, ingesting live feeds from the plant’s CCTV network. | – Uses existing 146 cameras; pilot initially deployed on 40 cameras (8 weeks",
+      "status": "DRAFT"
+    },
+    "5_media_pack": {
+      "assets": [
+        "C:\\Users\\KRISHNA\\OneDrive\\Desktop\\Drishti AI\\outputs\\drishti_workflow.svg",
+        "C:\\Users\\KRISHNA\\OneDrive\\Desktop\\Drishti AI\\outputs\\drishti_evidence_loop.svg"
+      ],
+      "status": "CONCEPTUAL ASSETS CREATED"
+    },
+    "6_approval_request": {
+      "content": "**CLIENT APPROVAL REQUEST**  \n*Prepared for: Ardent Cement Works Ltd – Bhadrapur Unit*  \n*Prepared by: PredCo – Project Drishti – Delivery Team*  \n*Date: 31 Oct 2026*  \n\n---\n\n### 1. Purpose  \nTo obtain the required **written client approvals** before any external publication or external communication of Project Drishti results, case‑study material, or commercial value statements. Publication must remain **blocked** until all listed approvals are received in writing and the confidentiality obligations of the Master Services Agreement (MSA §14) are satisfied.\n\n---\n\n### 2. Materials & Media that Require Review & Approval  \n\n| # | Item (internal reference) | Description / Content | Evidence (file) |\n|---|---------------------------|-----------------------|-----------------|\n| 1 | **Pilot Acceptance Certificate** | Signed acceptance of pilot (8 weeks, 40 cameras) with KPI table (PPE compliance, restricted‑zone breaches, etc.) | `Project_Drishti_Library\\04_delivery\\pilot_acceptance_certificate_2026-07-06.md` |\n| 2 | **Pilot Results Summary Email** | Summary of KPI improvements (PPE ↑ 74 % → 96.6 %, restricted‑zone entries ↓ 50 %, alert latency < 4 min) prepared for internal capex note | `Project_Drishti_Library\\06_email\\E_2026-07-01_pilot_results_numbers.md` |\n| 3 | **Incident Report – Camera Stream Loss (INC‑0611)** | Technical incident description (22 cameras offline for 41 h) and impact assessment | `Project_Drishti_Library\\04_delivery\\incident_report_INC-0611.md` |\n| 4 | **Change Request CR‑01 (Kiln‑platform hot‑zone detection)** | Scope amendment adding 8 cameras & new rule; cost + ₹2,40,000 | `Project_Drishti_Library\\03_commercial\\change_requests_CR01-CR03.md` |\n| 5 | **Software Changelog v2.0** | Release notes showing plant‑wide camera",
+      "status": "PENDING HUMAN AND CLIENT APPROVAL"
+    }
+  },
+  "publication_allowed": false,
+  "status": "DRAFT - HUMAN REVIEW REQUIRED",
+  "limitations": [
+    "Only the selected source excerpts were supplied to the agents.",
+    "All claims require source-level verification.",
+    "Conceptual SVGs are not actual project photographs.",
+    "Client publication requires written permission.",
+    "Human review is mandatory."
+  ]
+}

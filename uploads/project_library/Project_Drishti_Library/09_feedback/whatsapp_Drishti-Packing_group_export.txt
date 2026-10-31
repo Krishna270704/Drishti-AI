@@ -1,0 +1,27 @@
+FICTIONAL HACKATHON MATERIAL. All names, numbers and events are invented.
+WhatsApp chat export: "Drishti-Packing" (members: shift in-charges, gang leaders, EHS officers, PredCo field engineer). Excerpts.
+
+12/05/26, 10:42 - Drishti Bot: ALERT No helmet | Packer 2B | PK2-07 | 10:42 | open console to view
+12/05/26, 10:44 - Dinesh Patel (Shift A): dekh rahe hain
+12/05/26, 10:51 - Dinesh Patel (Shift A): closed. contract gang Mahto ji ka banda. warning diya
+12/05/26, 14:03 - Drishti Bot: ALERT No vest | Packer 1A | PK1-02 | 14:03
+12/05/26, 14:05 - Ravi K (Gang leader): sir ye bori ki patti hai, aadmi nahi hai 😅
+12/05/26, 14:06 - S. Verma (EHS): marked false. @Vivek PredCo note karo
+12/05/26, 14:07 - Vivek PredCo: noted sir, pallet strips again. retrain mein daal rahe hain
+19/05/26, 23:18 - Drishti Bot: ALERT No helmet | Packer 3 | PK3-01 | 23:18
+19/05/26, 23:41 - Drishti Bot: ALERT No helmet | Packer 3 | PK3-01 | 23:40
+19/05/26, 23:58 - S. Verma (EHS): night shift koi dekh raha hai?
+20/05/26, 00:14 - Manoj (Shift C): sorry sir, packer jam tha. dekh liya ab
+02/06/26, 08:30 - Meenakshi Iyer (EHS): Team, last week packing compliance 86% on camera. Night shift 79%. Night in-charges please meet me 3 pm.
+16/06/26, 11:20 - Ravi K (Gang leader): naya version mein bori wala alert nahi aa raha 👍
+16/06/26, 11:22 - Dinesh Patel (Shift A): haan, kal se ek bhi false nahi
+29/06/26, 08:15 - Meenakshi Iyer (EHS): Packing 96.6% last week. Best in plant. Well done Shift A and B. Night 91%.
+29/06/26, 08:17 - Ravi K (Gang leader): madam hamare ladke ab shift se pehle khud check karte hain. photo group mein nahi chahiye kisi ko 😂
+29/06/26, 09:02 - Dinesh Patel (Shift A): 🙏
+10/07/26, 15:40 - Manoj (Shift C): alerts bahut aa rahe hain shift change pe, 14:55-15:10. log helmet utaar ke locker jaate hain
+10/07/26, 15:52 - Meenakshi Iyer (EHS): @Neha PredCo locker area ko zone se bahar kar sakte ho shift change mein?
+10/07/26, 16:30 - Neha PredCo: Ma'am locker corridor can be excluded 14:50-15:15 and 22:50-23:15. Is that ok for audit?
+10/07/26, 16:41 - Meenakshi Iyer (EHS): Yes but log it as a rule change. I don't want hidden exceptions.
+21/08/26, 09:05 - Dinesh Patel (Shift A): Jharsa unit ke EHS wale aaye the aaj, Drishti dekhne. bole hamare yahan kab lagega
+14/09/26, 18:20 - Ravi K (Gang leader): sir bonus ka kya hua? jo gang 95 ke upar hai unko bola tha
+14/09/26, 18:44 - Meenakshi Iyer (EHS): Approved for Shift A gangs, September payroll. Thank you all.

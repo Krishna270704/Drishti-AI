@@ -1,0 +1,31 @@
+id,phase,task,owner,planned_start,planned_end,actual_start,actual_end,status,notes
+T01,Scoping,Discovery call,A. Malhotra,2026-02-06,2026-02-06,2026-02-06,2026-02-06,Done,
+T02,Scoping,Security pack and architecture note to IT-OT,N. Sharma,2026-02-16,2026-02-20,2026-02-17,2026-03-02,Done,"3 review rounds with F. Siddiqui; jump host design changed"
+T03,Scoping,Proposal v1,A. Malhotra,2026-02-20,2026-02-24,2026-02-21,2026-02-24,Done,
+T04,Scoping,BRD v2 sign-off,N. Sharma,2026-02-27,2026-03-03,2026-02-27,2026-03-05,Done,KPI targets revised by EHS
+T05,PoC,Edge server install (loan unit) in server room,V. Anand,2026-03-12,2026-03-13,2026-03-12,2026-03-16,Done,Server room access card delay
+T06,PoC,Connect 12 camera streams,V. Anand,2026-03-13,2026-03-16,2026-03-16,2026-03-19,Done,"2 cameras 352x288 only, replaced by PK2-07 and PK2-09"
+T07,PoC,Zone polygons for tail pulley,N. Sharma,2026-03-16,2026-03-17,2026-03-17,2026-03-18,Done,
+T08,PoC,PoC run,K. Raman,2026-03-16,2026-04-24,2026-03-19,2026-04-24,Done,False alarms 23% in PoC (dust + reflective sacks)
+T09,PoC,PoC review with client,A. Malhotra,2026-04-17,2026-04-17,2026-04-17,2026-04-17,Done,New Head EHS M. Iyer attends
+T10,Pilot,CR-01 kiln hot-zone rule,N. Sharma,2026-04-28,2026-05-08,2026-04-29,2026-05-12,Done,Face-shield class needs 600 more site images
+T11,Pilot,Scale to 40 cameras + 2nd edge server,V. Anand,2026-05-04,2026-05-08,2026-05-04,2026-05-10,Done,
+T12,Pilot,Pilot go-live,K. Raman,2026-05-11,2026-05-11,2026-05-11,2026-05-11,Done,
+T13,Pilot,Face module for R8,K. Raman,2026-05-11,2026-05-29,2026-05-12,2026-05-20,Cancelled,CR-02 (Legal)
+T14,Pilot,Remove face module from build + written confirmation,K. Raman,2026-05-27,2026-05-29,2026-05-27,2026-06-02,Done,Release v1.2
+T15,Pilot,Daily false-alarm sample review with EHS,M. Iyer / K. Raman,2026-05-12,2026-07-03,2026-05-12,2026-07-03,Done,
+T16,Pilot,Retrain on site images (4200 frames),K. Raman,2026-06-01,2026-06-12,2026-06-01,2026-06-14,Done,Release v1.3 deployed 15 Jun
+T17,Pilot,INC-0611 stream outage recovery,V. Anand,2026-06-09,2026-06-11,2026-06-09,2026-06-11,Done,Client NVR firmware; see incident report
+T18,Pilot,Stream health monitor,K. Raman,2026-06-12,2026-06-19,2026-06-12,2026-06-24,Done,Release v1.4 (deployed with scale)
+T19,Pilot,Steering committee,A. Malhotra,2026-06-26,2026-06-26,2026-06-26,2026-06-26,Done,
+T20,Pilot,Pilot acceptance,M. Iyer,2026-07-03,2026-07-03,2026-07-06,2026-07-06,Done,Accepted with conditions (K2/K3 remediation)
+T21,Scale,3rd edge server + cameras batch 1 (packing, conveyor),V. Anand,2026-07-06,2026-07-17,2026-07-06,2026-07-24,Done,"Batch 1 slipped 1 week: PoE switch failure, client IT"
+T22,Scale,Cameras batch 2 (kiln, raw mill, cement mill),V. Anand,2026-07-20,2026-07-31,2026-07-20,2026-08-07,Done,
+T23,Scale,ANPR cameras G1-G4 + weighbridge feed (CR-03),N. Sharma,2026-07-20,2026-08-01,2026-07-21,2026-08-03,Done,Gate analytics live 3 Aug
+T24,Scale,Cameras batch 3 (gate yard, stores),V. Anand,2026-08-03,2026-08-14,2026-08-03,2026-08-21,Done,
+T25,Scale,Control room escalation: phone call if alert not acked in 5 min,S. Qureshi,2026-07-27,2026-07-31,2026-07-27,2026-08-04,Done,Remediation for K3
+T26,Scale,Conveyor tail pulley physical guards (client),Ardent maintenance,2026-07-06,2026-07-31,2026-07-13,2026-08-12,Done,Remediation for K2 (client action)
+T27,Scale,All 146 cameras live,V. Anand,2026-08-28,2026-08-28,2026-08-31,2026-08-31,Done,
+T28,Scale,Go-live sign-off plant-wide,S. Qureshi,2026-09-12,2026-09-12,2026-09-12,2026-09-12,Done,
+T29,Scale,QBR,A. Malhotra,2026-09-18,2026-09-18,2026-09-18,2026-09-18,Done,
+T30,Scale,60-day stabilisation,S. Qureshi,2026-09-12,2026-11-11,2026-09-12,,In progress,

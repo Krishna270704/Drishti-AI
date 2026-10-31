@@ -1,0 +1,10 @@
+{
+  "agent": "Case Study Agent",
+  "status": "draft_generated",
+  "versions": {
+    "gatekeeper": "A manufacturer piloted AI-assisted safety monitoring using existing CCTV. PPE compliance increased from 68.9% to 91.1%; restricted-zone breach rate fell 46%. The restricted-zone target was not fully met, acknowledgement remained 4.9 minutes, and privacy/legal review removed face recognition.",
+    "user": "The pilot helped safety teams review PPE and restricted-zone events through an alert workflow. PPE compliance reached 91.1% from 68.9%; restricted-zone breach rate fell from 5.58 to 3.00 per 1,000 camera hours. Human review remains essential.",
+    "buyer": "The pilot produced measurable improvements, including a 22.2 percentage-point PPE compliance increase and a 46% restricted-zone breach reduction. Two targets remained open; no unverified financial ROI is claimed."
+  },
+  "disclaimer": "Anonymised drafts only; source and client review required before publication."
+}

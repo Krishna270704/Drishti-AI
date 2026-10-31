@@ -1,0 +1,940 @@
+{
+  "agent": "Evidence Agent",
+  "status": "completed",
+  "documents_indexed": 39,
+  "evidence_records": 105,
+  "records": [
+    {
+      "claim": "It is messy on purpose, as real projects are: documents disagree, scope changed, people changed, numbers were measured",
+      "source": "Project_Drishti_Library/00_README.md",
+      "excerpt": "It is messy on purpose, as real projects are: documents disagree, scope changed, people changed, numbers were measured",
+      "category": "scope",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "| 02_scoping | Discovery call, RFQ, proposal, signed requirements (BRD v2) |",
+      "source": "Project_Drishti_Library/00_README.md",
+      "excerpt": "| 02_scoping | Discovery call, RFQ, proposal, signed requirements (BRD v2) |",
+      "category": "scope",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "Company's premises or network, except anonymised training samples approved in writing by the Head, IT and OT Security.",
+      "source": "Project_Drishti_Library/01_contract/MSA_confidentiality_and_publicity_extract.md",
+      "excerpt": "Company's premises or network, except anonymised training samples approved in writing by the Head, IT and OT Security.",
+      "category": "decision",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "approved under the Company's privacy policy and applicable law.",
+      "source": "Project_Drishti_Library/01_contract/MSA_confidentiality_and_publicity_extract.md",
+      "excerpt": "approved under the Company's privacy policy and applicable law.",
+      "category": "decision",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "## 14. Confidential Information",
+      "source": "Project_Drishti_Library/01_contract/MSA_confidentiality_and_publicity_extract.md",
+      "excerpt": "## 14. Confidential Information",
+      "category": "privacy",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "14.1 \"Confidential Information\" includes all information disclosed by the Company in any form, including plant layouts,",
+      "source": "Project_Drishti_Library/01_contract/MSA_confidentiality_and_publicity_extract.md",
+      "excerpt": "14.1 \"Confidential Information\" includes all information disclosed by the Company in any form, including plant layouts,",
+      "category": "privacy",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "14.2 The Vendor shall use Confidential Information solely to perform the Services and shall not disclose it to any third",
+      "source": "Project_Drishti_Library/01_contract/MSA_confidentiality_and_publicity_extract.md",
+      "excerpt": "14.2 The Vendor shall use Confidential Information solely to perform the Services and shall not disclose it to any third",
+      "category": "privacy",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "[00:22:31] Rajiv Bhandari: Put it in the proposal anyway. Third thing, not safety: my trucks. The gate is a mess. Trucks wait one and a half hours, sometimes more, transporters charge me detention. Twelve lakh a month I'm paying. Can your cameras tell me where the queue is stuck?",
+      "source": "Project_Drishti_Library/02_scoping/2026-02-06_discovery_call_transcript.txt",
+      "excerpt": "[00:22:31] Rajiv Bhandari: Put it in the proposal anyway. Third thing, not safety: my trucks. The gate is a mess. Trucks wait one and a half hours, sometimes more, transporters charge me detention. Twelve lakh a month I'm paying. Can your cameras tell me where the queue is stuck?",
+      "category": "scope",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "[00:55:30] Aarav Malhotra: Summary from our side: PoC on about twelve cameras in packing and conveyor, helmet, vest and the tail pulley zone, six weeks, on-prem. Proposal by the 24th once your RFQ is out.",
+      "source": "Project_Drishti_Library/02_scoping/2026-02-06_discovery_call_transcript.txt",
+      "excerpt": "[00:55:30] Aarav Malhotra: Summary from our side: PoC on about twelve cameras in packing and conveyor, helmet, vest and the tail pulley zone, six weeks, on-prem. Proposal by the 24th once your RFQ is out.",
+      "category": "scope",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "[00:40:12] Farhan Siddiqui: Hi all, Farhan from IT and OT security. I'll keep it short. Nothing goes to cloud. No internet from the OT network, no exceptions. Your boxes sit in our server room, your people come in through our jump host when I approve. And no footage leaves the plant. If that's a problem, we can stop here.",
+      "source": "Project_Drishti_Library/02_scoping/2026-02-06_discovery_call_transcript.txt",
+      "excerpt": "[00:40:12] Farhan Siddiqui: Hi all, Farhan from IT and OT security. I'll keep it short. Nothing goes to cloud. No internet from the OT network, no exceptions. Your boxes sit in our server room, your people come in through our jump host when I approve. And no footage leaves the plant. If that's a problem, we can stop here.",
+      "category": "decision",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "[00:00:41] Aarav Malhotra: Thanks for making time, Arvind ji. You wrote to us after the LinkedIn post on PPE detection. Before we show anything, can you tell us what's going on at the plant?",
+      "source": "Project_Drishti_Library/02_scoping/2026-02-06_discovery_call_transcript.txt",
+      "excerpt": "[00:00:41] Aarav Malhotra: Thanks for making time, Arvind ji. You wrote to us after the LinkedIn post on PPE detection. Before we show anything, can you tell us what's going on at the plant?",
+      "category": "kpi",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "[00:22:31] Rajiv Bhandari: Put it in the proposal anyway. Third thing, not safety: my trucks. The gate is a mess. Trucks wait one and a half hours, sometimes more, transporters charge me detention. Twelve lakh a month I'm paying. Can your cameras tell me where the queue is stuck?",
+      "source": "Project_Drishti_Library/02_scoping/2026-02-06_discovery_call_transcript.txt",
+      "excerpt": "[00:22:31] Rajiv Bhandari: Put it in the proposal anyway. Third thing, not safety: my trucks. The gate is a mess. Trucks wait one and a half hours, sometimes more, transporters charge me detention. Twelve lakh a month I'm paying. Can your cameras tell me where the queue is stuck?",
+      "category": "finance",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "[00:21:52] Rajiv Bhandari: Okay. Second thing. Can the same cameras do attendance for contract workers? Face recognition. We have proxy attendance problems, I lose lakhs.",
+      "source": "Project_Drishti_Library/02_scoping/2026-02-06_discovery_call_transcript.txt",
+      "excerpt": "[00:21:52] Rajiv Bhandari: Okay. Second thing. Can the same cameras do attendance for contract workers? Face recognition. We have proxy attendance problems, I lose lakhs.",
+      "category": "privacy",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "[00:22:10] Neha Sharma: Technically yes. But it brings consent and privacy obligations under the new data protection law, and your legal team will need to be involved. I'd suggest we park it and you check internally.",
+      "source": "Project_Drishti_Library/02_scoping/2026-02-06_discovery_call_transcript.txt",
+      "excerpt": "[00:22:10] Neha Sharma: Technically yes. But it brings consent and privacy obligations under the new data protection law, and your legal team will need to be involved. I'd suggest we park it and you check internally.",
+      "category": "privacy",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "## Scope requirements",
+      "source": "Project_Drishti_Library/02_scoping/2026-02-14_RFQ_ACWL-BHD-EHS-2026-07.md",
+      "excerpt": "## Scope requirements",
+      "category": "scope",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "| R8 | Face recognition based attendance for contract workers at 4 entry points | Optional, quote separately |",
+      "source": "Project_Drishti_Library/02_scoping/2026-02-14_RFQ_ACWL-BHD-EHS-2026-07.md",
+      "excerpt": "| R8 | Face recognition based attendance for contract workers at 4 entry points | Optional, quote separately |",
+      "category": "privacy",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "# Proposal: AI safety compliance on existing CCTV — Bhadrapur Unit",
+      "source": "Project_Drishti_Library/02_scoping/2026-02-24_PredCo_proposal_v1.md",
+      "excerpt": "# Proposal: AI safety compliance on existing CCTV — Bhadrapur Unit",
+      "category": "scope",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "| Phase | Scope | Duration | Price (excl. GST) |",
+      "source": "Project_Drishti_Library/02_scoping/2026-02-24_PredCo_proposal_v1.md",
+      "excerpt": "| Phase | Scope | Duration | Price (excl. GST) |",
+      "category": "scope",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "Bhadrapur records PPE compliance through two announced safety walks a day. 146 existing cameras record but are not watched",
+      "source": "Project_Drishti_Library/02_scoping/2026-02-24_PredCo_proposal_v1.md",
+      "excerpt": "Bhadrapur records PPE compliance through two announced safety walks a day. 146 existing cameras record but are not watched",
+      "category": "kpi",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "camera streams. No new cameras are required for helmet, vest and restricted-zone detection. Alerts go to the control room",
+      "source": "Project_Drishti_Library/02_scoping/2026-02-24_PredCo_proposal_v1.md",
+      "excerpt": "camera streams. No new cameras are required for helmet, vest and restricted-zone detection. Alerts go to the control room",
+      "category": "kpi",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "| PPE compliance (helmet and vest) | 95% by end of pilot |",
+      "source": "Project_Drishti_Library/02_scoping/2026-02-24_PredCo_proposal_v1.md",
+      "excerpt": "| PPE compliance (helmet and vest) | 95% by end of pilot |",
+      "category": "kpi",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "| 1.0 | 27 Feb | Draft from proposal PC/PROP/2026/019 |",
+      "source": "Project_Drishti_Library/02_scoping/2026-03-05_BRD_v2_signed.md",
+      "excerpt": "| 1.0 | 27 Feb | Draft from proposal PC/PROP/2026/019 |",
+      "category": "scope",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "## 3. In scope (pilot)",
+      "source": "Project_Drishti_Library/02_scoping/2026-03-05_BRD_v2_signed.md",
+      "excerpt": "## 3. In scope (pilot)",
+      "category": "scope",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "| 2.0 | 5 Mar | KPI targets revised after EHS review: PPE target 95% → 90%; restricted zone −70% → −50%; response time 2 → 3 min; false alarms 5% → 10%. Baseline changed from manual safety walks to camera-measured weeks 1–2 (see §4). Face-recognition option retained as optional pending Legal. |",
+      "source": "Project_Drishti_Library/02_scoping/2026-03-05_BRD_v2_signed.md",
+      "excerpt": "| 2.0 | 5 Mar | KPI targets revised after EHS review: PPE target 95% → 90%; restricted zone −70% → −50%; response time 2 → 3 min; false alarms 5% → 10%. Baseline changed from manual safety walks to camera-measured weeks 1–2 (see §4). Face-recognition option retained as optional pending Legal. |",
+      "category": "kpi",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "Raise real-world PPE compliance and cut restricted-zone entries at Bhadrapur before the group safety audit in October 2026,",
+      "source": "Project_Drishti_Library/02_scoping/2026-03-05_BRD_v2_signed.md",
+      "excerpt": "Raise real-world PPE compliance and cut restricted-zone entries at Bhadrapur before the group safety audit in October 2026,",
+      "category": "kpi",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "Detection classes: person, helmet, high-visibility vest, restricted-zone polygon entry.",
+      "source": "Project_Drishti_Library/02_scoping/2026-03-05_BRD_v2_signed.md",
+      "excerpt": "Detection classes: person, helmet, high-visibility vest, restricted-zone polygon entry.",
+      "category": "kpi",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "| Rajiv Bhandari | Unit Head (sponsor, capex approver) | Audit rating, no LTIs, cost |",
+      "source": "Project_Drishti_Library/02_scoping/2026-03-05_BRD_v2_signed.md",
+      "excerpt": "| Rajiv Bhandari | Unit Head (sponsor, capex approver) | Audit rating, no LTIs, cost |",
+      "category": "finance",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "Face recognition (R8) only after written clearance from Corporate Legal.",
+      "source": "Project_Drishti_Library/02_scoping/2026-03-05_BRD_v2_signed.md",
+      "excerpt": "Face recognition (R8) only after written clearance from Corporate Legal.",
+      "category": "privacy",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "Change: the \"area to be confirmed\" in BRD §3 becomes the kiln platform (8 cameras). New rule: entry into the hot zone",
+      "source": "Project_Drishti_Library/03_commercial/change_requests_CR01-CR03.md",
+      "excerpt": "Change: the \"area to be confirmed\" in BRD §3 becomes the kiln platform (8 cameras). New rule: entry into the hot zone",
+      "category": "scope",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "Raised: 22 Apr 2026 by Meenakshi Iyer (Head EHS) | Approved: 28 Apr by R. Bhandari | Cost: +₹2,40,000",
+      "source": "Project_Drishti_Library/03_commercial/change_requests_CR01-CR03.md",
+      "excerpt": "Raised: 22 Apr 2026 by Meenakshi Iyer (Head EHS) | Approved: 28 Apr by R. Bhandari | Cost: +₹2,40,000",
+      "category": "decision",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "Raised: 20 May 2026 by Pooja Menon (Corporate Legal) | Approved: 26 May | Cost: −₹1,10,000 credit",
+      "source": "Project_Drishti_Library/03_commercial/change_requests_CR01-CR03.md",
+      "excerpt": "Raised: 20 May 2026 by Pooja Menon (Corporate Legal) | Approved: 26 May | Cost: −₹1,10,000 credit",
+      "category": "decision",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "Data Protection Act, 2023, and a data protection impact assessment. Corporate decided not to proceed in 2026.",
+      "source": "Project_Drishti_Library/03_commercial/change_requests_CR01-CR03.md",
+      "excerpt": "Data Protection Act, 2023, and a data protection impact assessment. Corporate decided not to proceed in 2026.",
+      "category": "decision",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "within 3 m of the kiln inlet without a face shield. Heat shimmer may raise false alarms; vendor to report kiln separately.",
+      "source": "Project_Drishti_Library/03_commercial/change_requests_CR01-CR03.md",
+      "excerpt": "within 3 m of the kiln inlet without a face shield. Heat shimmer may raise false alarms; vendor to report kiln separately.",
+      "category": "kpi",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "Detection of PPE remains person-level, with no identification of individuals.",
+      "source": "Project_Drishti_Library/03_commercial/change_requests_CR01-CR03.md",
+      "excerpt": "Detection of PPE remains person-level, with no identification of individuals.",
+      "category": "kpi",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "Raised: 22 Apr 2026 by Meenakshi Iyer (Head EHS) | Approved: 28 Apr by R. Bhandari | Cost: +₹2,40,000",
+      "source": "Project_Drishti_Library/03_commercial/change_requests_CR01-CR03.md",
+      "excerpt": "Raised: 22 Apr 2026 by Meenakshi Iyer (Head EHS) | Approved: 28 Apr by R. Bhandari | Cost: +₹2,40,000",
+      "category": "finance",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "Raised: 20 May 2026 by Pooja Menon (Corporate Legal) | Approved: 26 May | Cost: −₹1,10,000 credit",
+      "source": "Project_Drishti_Library/03_commercial/change_requests_CR01-CR03.md",
+      "excerpt": "Raised: 20 May 2026 by Pooja Menon (Corporate Legal) | Approved: 26 May | Cost: −₹1,10,000 credit",
+      "category": "finance",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "Raised: 2 Jul 2026 by Rajiv Bhandari | Approved: 9 Jul (with plant-wide capex) | Cost: +₹6,80,000",
+      "source": "Project_Drishti_Library/03_commercial/change_requests_CR01-CR03.md",
+      "excerpt": "Raised: 2 Jul 2026 by Rajiv Bhandari | Approved: 9 Jul (with plant-wide capex) | Cost: +₹6,80,000",
+      "category": "finance",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "Reason: Processing faces of contract workers for attendance needs specific consent and notices under the Digital Personal",
+      "source": "Project_Drishti_Library/03_commercial/change_requests_CR01-CR03.md",
+      "excerpt": "Reason: Processing faces of contract workers for attendance needs specific consent and notices under the Digital Personal",
+      "category": "privacy",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "| 10 | AI video analytics PoC, 12 cameras, 6 weeks, per proposal PC/PROP/2026/019 | 1 lot | 6,50,000 |",
+      "source": "Project_Drishti_Library/03_commercial/purchase_orders.md",
+      "excerpt": "| 10 | AI video analytics PoC, 12 cameras, 6 weeks, per proposal PC/PROP/2026/019 | 1 lot | 6,50,000 |",
+      "category": "scope",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "Payment: 100% on completion, 30 days after GRN. Cost centre: BHD-EHS-4410. Approved: A. Rao (within delegation).",
+      "source": "Project_Drishti_Library/03_commercial/purchase_orders.md",
+      "excerpt": "Payment: 100% on completion, 30 days after GRN. Cost centre: BHD-EHS-4410. Approved: A. Rao (within delegation).",
+      "category": "decision",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "Payment: 40% on go-live, 60% on acceptance, 30 days after GRN. Approved: R. Bhandari.",
+      "source": "Project_Drishti_Library/03_commercial/purchase_orders.md",
+      "excerpt": "Payment: 40% on go-live, 60% on acceptance, 30 days after GRN. Approved: R. Bhandari.",
+      "category": "decision",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "Payment: 30% advance, 60% on go-live, 10% on 60-day stabilisation. Capex approval: CAPEX/BHD/26-27/014 (corporate approved 9 Jul).",
+      "source": "Project_Drishti_Library/03_commercial/purchase_orders.md",
+      "excerpt": "Payment: 30% advance, 60% on go-live, 10% on 60-day stabilisation. Capex approval: CAPEX/BHD/26-27/014 (corporate approved 9 Jul).",
+      "category": "decision",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "Payment: 100% on completion, 30 days after GRN. Cost centre: BHD-EHS-4410. Approved: A. Rao (within delegation).",
+      "source": "Project_Drishti_Library/03_commercial/purchase_orders.md",
+      "excerpt": "Payment: 100% on completion, 30 days after GRN. Cost centre: BHD-EHS-4410. Approved: A. Rao (within delegation).",
+      "category": "finance",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "- Median alert acknowledgement time rose that week, as in-charges were reassigned to manual rounds.",
+      "source": "Project_Drishti_Library/04_delivery/incident_report_INC-0611.md",
+      "excerpt": "- Median alert acknowledgement time rose that week, as in-charges were reassigned to manual rounds.",
+      "category": "kpi",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "| KPI (BRD v2 §4) | Baseline (pilot weeks 1–2) | Result (BRD window) | Target | Status |",
+      "source": "Project_Drishti_Library/04_delivery/pilot_acceptance_certificate_2026-07-06.md",
+      "excerpt": "| KPI (BRD v2 §4) | Baseline (pilot weeks 1–2) | Result (BRD window) | Target | Status |",
+      "category": "scope",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "Decision: accepted with conditions under BRD §5.",
+      "source": "Project_Drishti_Library/04_delivery/pilot_acceptance_certificate_2026-07-06.md",
+      "excerpt": "Decision: accepted with conditions under BRD §5.",
+      "category": "scope",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "| K1 PPE compliance | 68.9% | 91.1% (last 4 weeks) | ≥ 90% | Met |",
+      "source": "Project_Drishti_Library/04_delivery/pilot_acceptance_certificate_2026-07-06.md",
+      "excerpt": "| K1 PPE compliance | 68.9% | 91.1% (last 4 weeks) | ≥ 90% | Met |",
+      "category": "kpi",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "| K2 Restricted-zone breaches per 1,000 camera-hours | 5.58 | 3.00 (last 4 weeks), −46% | −50% | Not met |",
+      "source": "Project_Drishti_Library/04_delivery/pilot_acceptance_certificate_2026-07-06.md",
+      "excerpt": "| K2 Restricted-zone breaches per 1,000 camera-hours | 5.58 | 3.00 (last 4 weeks), −46% | −50% | Not met |",
+      "category": "kpi",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "| K3 Median alert acknowledgement | n/a | 4.9 min (last 4 weeks); 3.5 min in final week | ≤ 3.0 min | Not met |",
+      "source": "Project_Drishti_Library/04_delivery/pilot_acceptance_certificate_2026-07-06.md",
+      "excerpt": "| K3 Median alert acknowledgement | n/a | 4.9 min (last 4 weeks); 3.5 min in final week | ≤ 3.0 min | Not met |",
+      "category": "kpi",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "T03,Scoping,Proposal v1,A. Malhotra,2026-02-20,2026-02-24,2026-02-21,2026-02-24,Done,",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "excerpt": "T03,Scoping,Proposal v1,A. Malhotra,2026-02-20,2026-02-24,2026-02-21,2026-02-24,Done,",
+      "category": "scope",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "T04,Scoping,BRD v2 sign-off,N. Sharma,2026-02-27,2026-03-03,2026-02-27,2026-03-05,Done,KPI targets revised by EHS",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "excerpt": "T04,Scoping,BRD v2 sign-off,N. Sharma,2026-02-27,2026-03-03,2026-02-27,2026-03-05,Done,KPI targets revised by EHS",
+      "category": "scope",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "T08,PoC,PoC run,K. Raman,2026-03-16,2026-04-24,2026-03-19,2026-04-24,Done,False alarms 23% in PoC (dust + reflective sacks)",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "excerpt": "T08,PoC,PoC run,K. Raman,2026-03-16,2026-04-24,2026-03-19,2026-04-24,Done,False alarms 23% in PoC (dust + reflective sacks)",
+      "category": "kpi",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "[00:06:02] Neha Sharma: The measures in the BRD: compliance over 90% on camera, restricted-zone entries halved, alerts closed in three minutes. These are leading indicators. The LTI number is what you are judged on, but at one injury every few months, eight weeks of data can't prove anything about it.",
+      "source": "Project_Drishti_Library/05_meetings/2026-04-17_poc_review_transcript.txt",
+      "excerpt": "[00:06:02] Neha Sharma: The measures in the BRD: compliance over 90% on camera, restricted-zone entries halved, alerts closed in three minutes. These are leading indicators. The LTI number is what you are judged on, but at one injury every few months, eight weeks of data can't prove anything about it.",
+      "category": "scope",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "[00:00:20] Rajiv Bhandari: Meenakshi joined us ten days ago from our Jharsa unit. Arvind started this; she will decide if it continues. Go ahead.",
+      "source": "Project_Drishti_Library/05_meetings/2026-04-17_poc_review_transcript.txt",
+      "excerpt": "[00:00:20] Rajiv Bhandari: Meenakshi joined us ten days ago from our Jharsa unit. Arvind started this; she will decide if it continues. Go ahead.",
+      "category": "decision",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "[00:07:24] Neha Sharma: Face shield is a new class. Heat shimmer will be harder. We'll raise a change request.",
+      "source": "Project_Drishti_Library/05_meetings/2026-04-17_poc_review_transcript.txt",
+      "excerpt": "[00:07:24] Neha Sharma: Face shield is a new class. Heat shimmer will be harder. We'll raise a change request.",
+      "category": "decision",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "[00:58:30] Rajiv Bhandari: Okay. Pilot approved, with kiln. Meenakshi owns it. Aarav, I want the gate problem on paper by June.",
+      "source": "Project_Drishti_Library/05_meetings/2026-04-17_poc_review_transcript.txt",
+      "excerpt": "[00:58:30] Rajiv Bhandari: Okay. Pilot approved, with kiln. Meenakshi owns it. Aarav, I want the gate problem on paper by June.",
+      "category": "decision",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "[00:02:14] Karthik Raman: That's correct. False alarms in the PoC were 23%. Two causes: reflective strips on the sack pallets read as vests, and dust at the packer spouts hides helmets. We have about 1,100 site frames labelled now; we need more for a retrain.",
+      "source": "Project_Drishti_Library/05_meetings/2026-04-17_poc_review_transcript.txt",
+      "excerpt": "[00:02:14] Karthik Raman: That's correct. False alarms in the PoC were 23%. Two causes: reflective strips on the sack pallets read as vests, and dust at the packer spouts hides helmets. We have about 1,100 site frames labelled now; we need more for a retrain.",
+      "category": "kpi",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "[00:02:40] Meenakshi Iyer: Twenty-three percent is how a system dies. In my last plant we had a gas detection system with false alarms. In three months the operators taped over the buzzer. I will not put my name on a toy.",
+      "source": "Project_Drishti_Library/05_meetings/2026-04-17_poc_review_transcript.txt",
+      "excerpt": "[00:02:40] Meenakshi Iyer: Twenty-three percent is how a system dies. In my last plant we had a gas detection system with false alarms. In three months the operators taped over the buzzer. I will not put my name on a toy.",
+      "category": "kpi",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "[00:06:02] Neha Sharma: The measures in the BRD: compliance over 90% on camera, restricted-zone entries halved, alerts closed in three minutes. These are leading indicators. The LTI number is what you are judged on, but at one injury every few months, eight weeks of data can't prove anything about it.",
+      "source": "Project_Drishti_Library/05_meetings/2026-04-17_poc_review_transcript.txt",
+      "excerpt": "[00:06:02] Neha Sharma: The measures in the BRD: compliance over 90% on camera, restricted-zone entries halved, alerts closed in three minutes. These are leading indicators. The LTI number is what you are judged on, but at one injury every few months, eight weeks of data can't prove anything about it.",
+      "category": "kpi",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "[00:00:30] Sana Qureshi: Seven weeks of pilot done. I'll give the KPIs the way the BRD defines them, then problems.",
+      "source": "Project_Drishti_Library/05_meetings/2026-06-26_steering_committee_transcript.txt",
+      "excerpt": "[00:00:30] Sana Qureshi: Seven weeks of pilot done. I'll give the KPIs the way the BRD defines them, then problems.",
+      "category": "scope",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "[00:00:52] Sana Qureshi: K1, PPE compliance. Weeks one and two averaged 68.9%. Last three weeks: 88.6, 90.0, 91.8. On track for 90.",
+      "source": "Project_Drishti_Library/05_meetings/2026-06-26_steering_committee_transcript.txt",
+      "excerpt": "[00:00:52] Sana Qureshi: K1, PPE compliance. Weeks one and two averaged 68.9%. Last three weeks: 88.6, 90.0, 91.8. On track for 90.",
+      "category": "kpi",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "[00:01:20] Sana Qureshi: K2, restricted zone, per thousand camera-hours. Started at 5.6. Now 2.7. That's about minus 50%, borderline. Conveyor is the problem zone — people still step over to clear spillage.",
+      "source": "Project_Drishti_Library/05_meetings/2026-06-26_steering_committee_transcript.txt",
+      "excerpt": "[00:01:20] Sana Qureshi: K2, restricted zone, per thousand camera-hours. Started at 5.6. Now 2.7. That's about minus 50%, borderline. Conveyor is the problem zone — people still step over to clear spillage.",
+      "category": "kpi",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "[00:01:48] Sana Qureshi: K3, acknowledgement. Started at over nine minutes. Last week 3.9. We'll likely miss three minutes by end of pilot. And the week of 8 June was bad because of the outage.",
+      "source": "Project_Drishti_Library/05_meetings/2026-06-26_steering_committee_transcript.txt",
+      "excerpt": "[00:01:48] Sana Qureshi: K3, acknowledgement. Started at over nine minutes. Last week 3.9. We'll likely miss three minutes by end of pilot. And the week of 8 June was bad because of the outage.",
+      "category": "kpi",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "[00:04:33] Aarav Malhotra: Industry benchmarks for the cost of an LTI, times the reduction —",
+      "source": "Project_Drishti_Library/05_meetings/2026-06-26_steering_committee_transcript.txt",
+      "excerpt": "[00:04:33] Aarav Malhotra: Industry benchmarks for the cost of an LTI, times the reduction —",
+      "category": "finance",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "[00:04:40] Sunil Kedia: Our LTIs. We had four last year. Our own cost per LTI is about 22 lakh, from the 2025 claims and lost production. Even if you prevent all four, that is 88 lakh, and nobody can prove you prevented them. I won't put two crore in a capex note.",
+      "source": "Project_Drishti_Library/05_meetings/2026-06-26_steering_committee_transcript.txt",
+      "excerpt": "[00:04:40] Sunil Kedia: Our LTIs. We had four last year. Our own cost per LTI is about 22 lakh, from the 2025 claims and lost production. Even if you prevent all four, that is 88 lakh, and nobody can prove you prevented them. I won't put two crore in a capex note.",
+      "category": "finance",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "[00:05:30] Rajiv Bhandari: And the gate. Twelve lakh a month in detention. If the gate analytics cuts that by even a third, the capex note writes itself.",
+      "source": "Project_Drishti_Library/05_meetings/2026-06-26_steering_committee_transcript.txt",
+      "excerpt": "[00:05:30] Rajiv Bhandari: And the gate. Twelve lakh a month in detention. If the gate analytics cuts that by even a third, the capex note writes itself.",
+      "category": "finance",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "[00:00:40] Sana Qureshi: All 146 cameras live since 31 August, gate analytics since 3 August. I'll start with the hard part. If you look at the all-camera PPE line on the dashboard, it dropped from 93.6% at the end of the pilot to about 86% in August.",
+      "source": "Project_Drishti_Library/05_meetings/2026-09-18_QBR_transcript.txt",
+      "excerpt": "[00:00:40] Sana Qureshi: All 146 cameras live since 31 August, gate analytics since 3 August. I'll start with the hard part. If you look at the all-camera PPE line on the dashboard, it dropped from 93.6% at the end of the pilot to about 86% in August.",
+      "category": "kpi",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "[00:02:30] Sana Qureshi: Restricted zone: pilot cameras now 1.26 per thousand camera-hours, against 5.58 at the start of the pilot. That's minus 77%, after the tail-pulley guards went in on 12 August. Acknowledgement: 2.2 to 2.5 minutes since the control-room phone rule. Both conditions from July are now met.",
+      "source": "Project_Drishti_Library/05_meetings/2026-09-18_QBR_transcript.txt",
+      "excerpt": "[00:02:30] Sana Qureshi: Restricted zone: pilot cameras now 1.26 per thousand camera-hours, against 5.58 at the start of the pilot. That's minus 77%, after the tail-pulley guards went in on 12 August. Acknowledgement: 2.2 to 2.5 minutes since the control-room phone rule. Both conditions from July are now met.",
+      "category": "kpi",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "[00:03:10] Sunil Kedia: Gate. My numbers from SAP: detention paid — June 11.8 lakh, July 12.4, August 8.1, September till yesterday 2.6, so it will land near 3.9.",
+      "source": "Project_Drishti_Library/05_meetings/2026-09-18_QBR_transcript.txt",
+      "excerpt": "[00:03:10] Sunil Kedia: Gate. My numbers from SAP: detention paid — June 11.8 lakh, July 12.4, August 8.1, September till yesterday 2.6, so it will land near 3.9.",
+      "category": "finance",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "**Subject:** PPE detection on existing CCTV — cement plant",
+      "source": "Project_Drishti_Library/06_email/A_2026-01-28_inbound_and_first_reply.md",
+      "excerpt": "**Subject:** PPE detection on existing CCTV — cement plant",
+      "category": "kpi",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "**Subject:** RE: PPE detection on existing CCTV — cement plant",
+      "source": "Project_Drishti_Library/06_email/A_2026-01-28_inbound_and_first_reply.md",
+      "excerpt": "**Subject:** RE: PPE detection on existing CCTV — cement plant",
+      "category": "kpi",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "2. \"Vendor support via VPN\" — no. Jump host only, session recorded, access approved per session by my team.",
+      "source": "Project_Drishti_Library/06_email/B_2026-02-17_to_03-02_security_review.md",
+      "excerpt": "2. \"Vendor support via VPN\" — no. Jump host only, session recorded, access approved per session by my team.",
+      "category": "decision",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "1. Removed. Updates delivered as signed packages through your jump host; your team runs the install. Revised diagram attached.",
+      "source": "Project_Drishti_Library/06_email/B_2026-02-17_to_03-02_security_review.md",
+      "excerpt": "1. Removed. Updates delivered as signed packages through your jump host; your team runs the install. Revised diagram attached.",
+      "category": "decision",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "Option A approved. Checklist reviewed, two comments resolved. Cleared from IT-OT for PoC. Plant-wide will need a re-review.",
+      "source": "Project_Drishti_Library/06_email/B_2026-02-17_to_03-02_security_review.md",
+      "excerpt": "Option A approved. Checklist reviewed, two comments resolved. Cleared from IT-OT for PoC. Plant-wide will need a re-review.",
+      "category": "decision",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "I have read the BRD and the PoC weekly notes. Before the review on 17 April, please send me:",
+      "source": "Project_Drishti_Library/06_email/C_2026-03-31_EHS_handover.md",
+      "excerpt": "I have read the BRD and the PoC weekly notes. Before the review on 17 April, please send me:",
+      "category": "scope",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "good for you. I have told her the PoC is promising, and I have also told her about the false alarms. Please don't oversell",
+      "source": "Project_Drishti_Library/06_email/C_2026-03-31_EHS_handover.md",
+      "excerpt": "good for you. I have told her the PoC is promising, and I have also told her about the false alarms. Please don't oversell",
+      "category": "kpi",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "- every false alarm from the last two weeks with snapshots (on the console is fine),",
+      "source": "Project_Drishti_Library/06_email/C_2026-03-31_EHS_handover.md",
+      "excerpt": "- every false alarm from the last two weeks with snapshots (on the console is fine),",
+      "category": "kpi",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "contract workers we would need a clear notice, consent that is genuinely free (difficult when attendance decides pay),",
+      "source": "Project_Drishti_Library/06_email/D_2026-05-14_to_06-02_face_recognition_privacy.md",
+      "excerpt": "contract workers we would need a clear notice, consent that is genuinely free (difficult when attendance decides pay),",
+      "category": "decision",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "stored. The attendance module is not deployed; work had just started on 12 May. We will stop it until you decide.",
+      "source": "Project_Drishti_Library/06_email/D_2026-05-14_to_06-02_face_recognition_privacy.md",
+      "excerpt": "stored. The attendance module is not deployed; work had just started on 12 May. We will stop it until you decide.",
+      "category": "decision",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "Decision: we will not proceed with face recognition in 2026. Please raise a change request to remove it, and confirm in",
+      "source": "Project_Drishti_Library/06_email/D_2026-05-14_to_06-02_face_recognition_privacy.md",
+      "excerpt": "Decision: we will not proceed with face recognition in 2026. Please raise a change request to remove it, and confirm in",
+      "category": "decision",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "Thank you. Confirming: the safety analytics detects people and PPE but does not identify anyone. No face templates are",
+      "source": "Project_Drishti_Library/06_email/D_2026-05-14_to_06-02_face_recognition_privacy.md",
+      "excerpt": "Thank you. Confirming: the safety analytics detects people and PPE but does not identify anyone. No face templates are",
+      "category": "kpi",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "**Subject:** Face recognition attendance — Bhadrapur (PO line 30)",
+      "source": "Project_Drishti_Library/06_email/D_2026-05-14_to_06-02_face_recognition_privacy.md",
+      "excerpt": "**Subject:** Face recognition attendance — Bhadrapur (PO line 30)",
+      "category": "privacy",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "contract workers we would need a clear notice, consent that is genuinely free (difficult when attendance decides pay),",
+      "source": "Project_Drishti_Library/06_email/D_2026-05-14_to_06-02_face_recognition_privacy.md",
+      "excerpt": "contract workers we would need a clear notice, consent that is genuinely free (difficult when attendance decides pay),",
+      "category": "privacy",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "**Subject:** RE: Face recognition attendance — Bhadrapur (PO line 30)",
+      "source": "Project_Drishti_Library/06_email/D_2026-05-14_to_06-02_face_recognition_privacy.md",
+      "excerpt": "**Subject:** RE: Face recognition attendance — Bhadrapur (PO line 30)",
+      "category": "privacy",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "The BRD baseline is the camera-measured first two weeks, 68.9%, and the BRD result is the last four weeks on all 40 pilot cameras.",
+      "source": "Project_Drishti_Library/06_email/E_2026-07-01_pilot_results_numbers.md",
+      "excerpt": "The BRD baseline is the camera-measured first two weeks, 68.9%, and the BRD result is the last four weeks on all 40 pilot cameras.",
+      "category": "scope",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "Neha, please send me the BRD-format table after Friday's data. I will write the capex justification myself.",
+      "source": "Project_Drishti_Library/06_email/E_2026-07-01_pilot_results_numbers.md",
+      "excerpt": "Neha, please send me the BRD-format table after Friday's data. I will write the capex justification myself.",
+      "category": "scope",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "Final pilot numbers in BRD format are in the acceptance certificate draft attached. K1 91.1% (met), K2 −46% (not met),",
+      "source": "Project_Drishti_Library/06_email/E_2026-07-01_pilot_results_numbers.md",
+      "excerpt": "Final pilot numbers in BRD format are in the acceptance certificate draft attached. K1 91.1% (met), K2 −46% (not met),",
+      "category": "scope",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "- PPE compliance up from 74% to 96.6% — a 31% improvement",
+      "source": "Project_Drishti_Library/06_email/E_2026-07-01_pilot_results_numbers.md",
+      "excerpt": "- PPE compliance up from 74% to 96.6% — a 31% improvement",
+      "category": "kpi",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "- Restricted zone entries down by half",
+      "source": "Project_Drishti_Library/06_email/E_2026-07-01_pilot_results_numbers.md",
+      "excerpt": "- Restricted zone entries down by half",
+      "category": "kpi",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "- Alerts acknowledged in under 4 minutes, from 9+",
+      "source": "Project_Drishti_Library/06_email/E_2026-07-01_pilot_results_numbers.md",
+      "excerpt": "- Alerts acknowledged in under 4 minutes, from 9+",
+      "category": "kpi",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "Leading indicators per EHS: PPE compliance on camera, restricted-zone breaches, response times.",
+      "source": "Project_Drishti_Library/06_email/G_2026-09-22_finance_value_estimate.md",
+      "excerpt": "Leading indicators per EHS: PPE compliance on camera, restricted-zone breaches, response times.",
+      "category": "kpi",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "Transporter detention paid (SAP, all transporters): Jun ₹11.8 L, Jul ₹12.4 L, Aug ₹8.1 L, Sep ₹3.9 L (estimate to month end).",
+      "source": "Project_Drishti_Library/06_email/G_2026-09-22_finance_value_estimate.md",
+      "excerpt": "Transporter detention paid (SAP, all transporters): Jun ₹11.8 L, Jul ₹12.4 L, Aug ₹8.1 L, Sep ₹3.9 L (estimate to month end).",
+      "category": "finance",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "No LTI since Feb 2026 (7 months). 2025: 4 LTIs; our average cost ₹22 L per LTI. We should not claim avoided LTIs as savings.",
+      "source": "Project_Drishti_Library/06_email/G_2026-09-22_finance_value_estimate.md",
+      "excerpt": "No LTI since Feb 2026 (7 months). 2025: 4 LTIs; our average cost ₹22 L per LTI. We should not claim avoided LTIs as savings.",
+      "category": "finance",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "**4. Cost**",
+      "source": "Project_Drishti_Library/06_email/G_2026-09-22_finance_value_estimate.md",
+      "excerpt": "**4. Cost**",
+      "category": "finance",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "Draft headline: \"How a leading Indian cement major raised PPE compliance from 74% to 97% and achieved zero LTIs with AI\".",
+      "source": "Project_Drishti_Library/06_email/H_2026-09-24_to_09-30_case_study_permission.md",
+      "excerpt": "Draft headline: \"How a leading Indian cement major raised PPE compliance from 74% to 97% and achieved zero LTIs with AI\".",
+      "category": "kpi",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "| median_ack_minutes | Median minutes from alert to acknowledgement |",
+      "source": "Project_Drishti_Library/07_data/data_dictionary.md",
+      "excerpt": "| median_ack_minutes | Median minutes from alert to acknowledgement |",
+      "category": "kpi",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "- REMOVED face module (`attendance/`), its model files and the `face_attendance.enabled` key (CR-02). Not just disabled.",
+      "source": "Project_Drishti_Library/08_github/CHANGELOG.md",
+      "excerpt": "- REMOVED face module (`attendance/`), its model files and the `face_attendance.enabled` key (CR-02). Not just disabled.",
+      "category": "decision",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "- Escalation hook: control-room call if alert not acknowledged in 5 minutes (enabled 4 Aug).",
+      "source": "Project_Drishti_Library/08_github/CHANGELOG.md",
+      "excerpt": "- Escalation hook: control-room call if alert not acknowledged in 5 minutes (enabled 4 Aug).",
+      "category": "kpi",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "- `zones/` — restricted-zone and hot-zone polygons per camera (`configs/zones_bhadrapur.yaml`)",
+      "source": "Project_Drishti_Library/08_github/README.md",
+      "excerpt": "- `zones/` — restricted-zone and hot-zone polygons per camera (`configs/zones_bhadrapur.yaml`)",
+      "category": "kpi",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "- Restricted-zone breach = a tracked person whose feet point enters a zone polygon for more than 2 seconds.",
+      "source": "Project_Drishti_Library/08_github/README.md",
+      "excerpt": "- Restricted-zone breach = a tracked person whose feet point enters a zone polygon for more than 2 seconds.",
+      "category": "kpi",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "14/09/26, 18:44 - Meenakshi Iyer (EHS): Approved for Shift A gangs, September payroll. Thank you all.",
+      "source": "Project_Drishti_Library/09_feedback/whatsapp_Drishti-Packing_group_export.txt",
+      "excerpt": "14/09/26, 18:44 - Meenakshi Iyer (EHS): Approved for Shift A gangs, September payroll. Thank you all.",
+      "category": "decision",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "Title: \"Leading cement major: 97% PPE compliance, zero accidents, ₹2.3 Cr saved\"",
+      "source": "Project_Drishti_Library/12_vendor/sales_deck_draft_notes_2026-09-23.md",
+      "excerpt": "Title: \"Leading cement major: 97% PPE compliance, zero accidents, ₹2.3 Cr saved\"",
+      "category": "kpi",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "- PPE compliance 74% → 97% (+31%)",
+      "source": "Project_Drishti_Library/12_vendor/sales_deck_draft_notes_2026-09-23.md",
+      "excerpt": "- PPE compliance 74% → 97% (+31%)",
+      "category": "kpi",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "- Restricted-zone violations −77%",
+      "source": "Project_Drishti_Library/12_vendor/sales_deck_draft_notes_2026-09-23.md",
+      "excerpt": "- Restricted-zone violations −77%",
+      "category": "kpi",
+      "confidence": "source_present"
+    },
+    {
+      "claim": "- ₹2.3 Cr annual savings: ₹98 L gate detention + ₹88 L avoided LTIs (4 × ₹22 L) + ₹12 L insurance + ₹30 L productivity (benchmark)",
+      "source": "Project_Drishti_Library/12_vendor/sales_deck_draft_notes_2026-09-23.md",
+      "excerpt": "- ₹2.3 Cr annual savings: ₹98 L gate detention + ₹88 L avoided LTIs (4 × ₹22 L) + ₹12 L insurance + ₹30 L productivity (benchmark)",
+      "category": "finance",
+      "confidence": "source_present"
+    }
+  ],
+  "file_manifest": [
+    {
+      "path": "Project_Drishti_Library/00_README.md",
+      "chars": 2149,
+      "sha256": "3de52f01fd0d97ffb53d0485c2ceca97ab07a685d2ad778caf3a953627096577"
+    },
+    {
+      "path": "Project_Drishti_Library/01_contract/MSA_confidentiality_and_publicity_extract.md",
+      "chars": 2914,
+      "sha256": "0533be99d1119f9aef4e3975c0fa7570a02b47bfe74f9065b1380fcca5ea52d4"
+    },
+    {
+      "path": "Project_Drishti_Library/02_scoping/2026-02-06_discovery_call_transcript.txt",
+      "chars": 5943,
+      "sha256": "640599911699ff821533f7e7ee0102bfbfa7737f1d15f6c1f4131e9fae43e4f4"
+    },
+    {
+      "path": "Project_Drishti_Library/02_scoping/2026-02-14_RFQ_ACWL-BHD-EHS-2026-07.md",
+      "chars": 1607,
+      "sha256": "6221fc7184c279926f48b545f9c4c2f4139bb7abd424d582fc52b8607859e62c"
+    },
+    {
+      "path": "Project_Drishti_Library/02_scoping/2026-02-24_PredCo_proposal_v1.md",
+      "chars": 2496,
+      "sha256": "7cea3f4c994530327d1c02f955ec559d45b8d86f1c482e27e36792945c86b66d"
+    },
+    {
+      "path": "Project_Drishti_Library/02_scoping/2026-03-05_BRD_v2_signed.md",
+      "chars": 3171,
+      "sha256": "f108e4bc527cd6381d457379d194a62497e56fbf8ea33d169a36d317cf48cfe0"
+    },
+    {
+      "path": "Project_Drishti_Library/03_commercial/change_requests_CR01-CR03.md",
+      "chars": 1915,
+      "sha256": "72cb624092eef41ade1069f1e5d60ba4f29bd70012c05684b8602d2985464088"
+    },
+    {
+      "path": "Project_Drishti_Library/03_commercial/purchase_orders.md",
+      "chars": 1879,
+      "sha256": "6cb78fb76ed0a3160b6bdfc59fef28491ba18d81c3d8af0d2a1e213906c18d50"
+    },
+    {
+      "path": "Project_Drishti_Library/04_delivery/incident_report_INC-0611.md",
+      "chars": 1615,
+      "sha256": "4cf2c1690ab884291f84e9d4ac636e6764f90b75072aa6d3132a9104a6b1cd93"
+    },
+    {
+      "path": "Project_Drishti_Library/04_delivery/pilot_acceptance_certificate_2026-07-06.md",
+      "chars": 1319,
+      "sha256": "22841a62bb76d6fdb49e449ae7ccb20cbda6bf4bd604fcddacd35eb87f1562ef"
+    },
+    {
+      "path": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "chars": 3697,
+      "sha256": "5acd21fd3c1e3fec08fe13de4e7533245f44cde5a9e18f658834b9b74a0a8b6f"
+    },
+    {
+      "path": "Project_Drishti_Library/05_meetings/2026-04-17_poc_review_transcript.txt",
+      "chars": 3870,
+      "sha256": "25144704c1f2277564ef10f7f39330828f26bb7395a6333d8cf3eedb4d2c1864"
+    },
+    {
+      "path": "Project_Drishti_Library/05_meetings/2026-06-26_steering_committee_transcript.txt",
+      "chars": 3558,
+      "sha256": "21485443bbb5ea7459de3d6345a39ae0e9791051f6879618db3dc6334fc6ff8a"
+    },
+    {
+      "path": "Project_Drishti_Library/05_meetings/2026-09-18_QBR_transcript.txt",
+      "chars": 4073,
+      "sha256": "fcb203f75ab95542eedf0e47529bef77178fe466fa585cdcc101d3d269ac0c89"
+    },
+    {
+      "path": "Project_Drishti_Library/06_email/A_2026-01-28_inbound_and_first_reply.md",
+      "chars": 1406,
+      "sha256": "7064fcbc2e8e3bb6ea6cd57be8a4381eddbbc2f7a897cb09ff18c0e32ad054a4"
+    },
+    {
+      "path": "Project_Drishti_Library/06_email/B_2026-02-17_to_03-02_security_review.md",
+      "chars": 1819,
+      "sha256": "3e0392e63a3305cbaf0559cebd4eaf79eb936ddd8847000b9734e5979d37eebb"
+    },
+    {
+      "path": "Project_Drishti_Library/06_email/C_2026-03-31_EHS_handover.md",
+      "chars": 1224,
+      "sha256": "43f669f3d34a2870dd0e31037bdc9c0ccb71a7a593898b8be1b72569c458ba8f"
+    },
+    {
+      "path": "Project_Drishti_Library/06_email/D_2026-05-14_to_06-02_face_recognition_privacy.md",
+      "chars": 2068,
+      "sha256": "321b11c5429660e884dfed903651b205567201797b8c3e5768e8097584137386"
+    },
+    {
+      "path": "Project_Drishti_Library/06_email/E_2026-07-01_pilot_results_numbers.md",
+      "chars": 2058,
+      "sha256": "ccfe9aca404a6e973c9acb1b6a0f538f3ef47158c0588be527322c0fb368fa1e"
+    },
+    {
+      "path": "Project_Drishti_Library/06_email/F_2026-08-21_to_09-03_payment_GRN.md",
+      "chars": 1180,
+      "sha256": "16058e745a416ae765ac2449dbe7e1dddcfa93d334234ea88a0da2da9154e6ba"
+    },
+    {
+      "path": "Project_Drishti_Library/06_email/G_2026-09-22_finance_value_estimate.md",
+      "chars": 1825,
+      "sha256": "7db49a65116d998b98061b3fc94191a2482f48a4b297a5aee3933ff2bc263d72"
+    },
+    {
+      "path": "Project_Drishti_Library/06_email/H_2026-09-24_to_09-30_case_study_permission.md",
+      "chars": 2287,
+      "sha256": "99f837437af3d9e0be64076f9e3d2b2492fbd0491a38c55efcc650b8ef4127d0"
+    },
+    {
+      "path": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "chars": 7802,
+      "sha256": "fc54dbef623e1a1b951ce0f6cb95e38cb3fa0636a5f1b18c5f653f58edfe14a0"
+    },
+    {
+      "path": "Project_Drishti_Library/07_data/data_dictionary.md",
+      "chars": 2031,
+      "sha256": "6aacf62c77940603b21d4bbb060c32d5462ae3d976a494f785a43a470cbb6fb1"
+    },
+    {
+      "path": "Project_Drishti_Library/07_data/ehs_register_monthly_2025_2026.csv",
+      "chars": 1132,
+      "sha256": "cef9ff93d0130ceaba5ffbb1a36b961e34a7f683ca137b342b7d8a951d24ab4a"
+    },
+    {
+      "path": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "chars": 7353,
+      "sha256": "42636baf6bc40e19893e70ea67dae8a8ce1e9f3e9e8b245fb7ab7bf8680a16b0"
+    },
+    {
+      "path": "Project_Drishti_Library/07_data/invoices_and_payments.csv",
+      "chars": 626,
+      "sha256": "ba77a8313226401438d8c428c3838421d5b7ac12c40e375c3301689491b10398"
+    },
+    {
+      "path": "Project_Drishti_Library/07_data/supervisor_survey_sep2026.csv",
+      "chars": 1591,
+      "sha256": "dc6a664c1a0272752c9a77a170ead3bc289685513152ef3d7ad0f6afbea59195"
+    },
+    {
+      "path": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "chars": 8702,
+      "sha256": "90f156a87ba098e43c267294088f976d66bfc4de015024b2701cea5a5b37fb61"
+    },
+    {
+      "path": "Project_Drishti_Library/08_github/CHANGELOG.md",
+      "chars": 1339,
+      "sha256": "a874313c807ece6904c76cfd119d1d4cd5d402c11ac0c4d0da92d0949a755bd3"
+    },
+    {
+      "path": "Project_Drishti_Library/08_github/configs/site_bhadrapur.yaml",
+      "chars": 1291,
+      "sha256": "a5c143928093a44c20ec8393f62356a6ede0c5ea933b4218553b9b43ef6c8d05"
+    },
+    {
+      "path": "Project_Drishti_Library/08_github/docs/model_eval_report.md",
+      "chars": 1200,
+      "sha256": "0021f442fc7c5e7f19ca9ddb122584f34b0cd7dd54e4e796da7ff19506b823f9"
+    },
+    {
+      "path": "Project_Drishti_Library/08_github/git_log.txt",
+      "chars": 2066,
+      "sha256": "d14eb748f7d2bc54ef60490b7472cb1f43698f4c0bb1194e1f0edb9fffd918ef"
+    },
+    {
+      "path": "Project_Drishti_Library/08_github/README.md",
+      "chars": 1468,
+      "sha256": "6ee06db96819fc3cd9467e028d687c3d5bd87d56777e1c673247dfdee46cc9cb"
+    },
+    {
+      "path": "Project_Drishti_Library/09_feedback/linkedin_post_2026-09-30_Meenakshi_Iyer.md",
+      "chars": 1049,
+      "sha256": "00e10504199b2a21f4fc1794b3b43efbb892d7028e1cb6a6618deee6ed8e62dd"
+    },
+    {
+      "path": "Project_Drishti_Library/09_feedback/whatsapp_Drishti-Packing_group_export.txt",
+      "chars": 2469,
+      "sha256": "5a32815a28c731fad0e38979df6fec8a73760b1b75093a959eba7921d507536a"
+    },
+    {
+      "path": "Project_Drishti_Library/11_public/ardent_public_profile.md",
+      "chars": 1147,
+      "sha256": "4c1e94dc5a47b15387ad7dbed662770779213d8592b56abcea566a9850621d3f"
+    },
+    {
+      "path": "Project_Drishti_Library/12_vendor/sales_deck_draft_notes_2026-09-23.md",
+      "chars": 746,
+      "sha256": "02509c87847ca9fe2c6dcb606c9a573edd959ac7f0494a8fade9d60ec8b9f7ce"
+    },
+    {
+      "path": "Project_Drishti_Library/12_vendor/vendor_profile_team_achievements.md",
+      "chars": 1408,
+      "sha256": "bc576a7ca9eb9d8fa671da71d932c3780af7658e0f7a71a7829831143dbd4404"
+    }
+  ]
+}

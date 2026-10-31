@@ -1,0 +1,66 @@
+FICTIONAL HACKATHON MATERIAL. All names, numbers and events are invented.
+
+Auto-transcript (Teams) — "Ardent x PredCo | Safety analytics discovery"
+Friday 6 Feb 2026, 11:02–11:58 IST. Recording consented by all participants.
+Attendees: Arvind Rao (Head EHS, Ardent Bhadrapur), Rajiv Bhandari (Unit Head, Bhadrapur; joined 11:21), Farhan Siddiqui (Head IT & OT Security, Ardent; 11:40–11:52),
+Aarav Malhotra (Account Director, PredCo), Neha Sharma (Solution Architect, PredCo)
+
+[00:00:41] Aarav Malhotra: Thanks for making time, Arvind ji. You wrote to us after the LinkedIn post on PPE detection. Before we show anything, can you tell us what's going on at the plant?
+
+[00:01:05] Arvind Rao: Sure. Very honestly, last year was bad for us. We had four lost-time injuries at Bhadrapur. Two of them in the last quarter. One fall near the conveyor tail pulley in December, guard was missing, the man was off for almost a month. Corporate safety council is now watching us every month.
+
+[00:01:39] Neha Sharma: Sorry to hear that. When you say watching, what do they look at?
+
+[00:01:44] Arvind Rao: LTI frequency, near-miss reporting, and the safety walk scores. We do safety walks twice a day, ten o'clock and three o'clock. My officers go area by area and count who is wearing helmet and vest. Last quarter we were around seventy-something percent compliance. Corporate target is ninety.
+
+[00:02:20] Aarav Malhotra: And the cameras? Your email said you have a lot of CCTV already.
+
+[00:02:26] Arvind Rao: Hundred and forty-six cameras. Mix of Hikvision and CP Plus, put in for security, theft of bags mainly. Two security guards watch the screens in the control room. Practically nobody watches the conveyor or kiln cameras. They're recording, that's all.
+
+[00:02:51] Neha Sharma: Do the walks happen at fixed times every day?
+
+[00:02:54] Arvind Rao: Yes. (laughs) And everybody knows it. Shift in-charges put a message on the group, "safety walk coming". So the number is... let's say it is the best-case number.
+
+[00:03:15] Neha Sharma: That's useful to know. If cameras measure the whole day, the first number you see from us will probably look worse than your walk score, not better. I'd rather say that now than in April.
+
+[00:03:31] Arvind Rao: Fair. I'd rather know the real number.
+
+[00:04:02] Aarav Malhotra: What would success look like for you by, say, October?
+
+[00:04:09] Arvind Rao: October is the group safety audit. Last year Bhadrapur got a C rating. If we get B or above, that's... that matters for me personally, I'll be honest. And no more LTIs. And the contractors — sixty percent of people on site are contract labour, they rotate, training doesn't stick.
+
+[00:05:20] Neha Sharma: Which areas worry you most?
+
+[00:05:23] Arvind Rao: Packing plant — most people, most violations, helmets off because of heat. Conveyor gallery — the tail pulley zone, people step over the barrier to clear spillage. Kiln platform — face shields and heat. Raw mill also. And working at height, harness, but I know that's harder for cameras.
+
+[00:06:10] Neha Sharma: Harness is possible but needs closer camera angles than you probably have. I'd keep it out of a first phase. Helmet, vest, restricted zones — those work on existing cameras, if the image quality holds up with the dust.
+
+[00:21:14] Rajiv Bhandari: Sorry, sorry, I was on the kiln. Arvind has briefed me. Let me be direct: I've bought two dashboards in three years that nobody opens. What is different?
+
+[00:21:31] Aarav Malhotra: Fair question, sir. The difference we'd want to prove is that an alert reaches a person in the area within minutes and gets closed, not that a chart exists. We'd measure response time, not logins.
+
+[00:21:52] Rajiv Bhandari: Okay. Second thing. Can the same cameras do attendance for contract workers? Face recognition. We have proxy attendance problems, I lose lakhs.
+
+[00:22:10] Neha Sharma: Technically yes. But it brings consent and privacy obligations under the new data protection law, and your legal team will need to be involved. I'd suggest we park it and you check internally.
+
+[00:22:31] Rajiv Bhandari: Put it in the proposal anyway. Third thing, not safety: my trucks. The gate is a mess. Trucks wait one and a half hours, sometimes more, transporters charge me detention. Twelve lakh a month I'm paying. Can your cameras tell me where the queue is stuck?
+
+[00:23:02] Aarav Malhotra: That's our Data Core side — gate and weighbridge data with number-plate cameras. Different problem, but yes, we've done similar. Can we keep it as a later phase so the safety pilot stays focused?
+
+[00:23:20] Rajiv Bhandari: Fine. But don't forget it. Our 6.2 million-tonne line is choking at the gate, not in the kiln.
+
+[00:31:45] Neha Sharma: On budget — how do approvals work for something like this?
+
+[00:31:52] Arvind Rao: I have about ten lakh in EHS budget this year for a trial. Anything bigger goes as capex to Rajiv sir and then corporate. Procurement will send an RFQ, Lokesh handles it.
+
+[00:40:12] Farhan Siddiqui: Hi all, Farhan from IT and OT security. I'll keep it short. Nothing goes to cloud. No internet from the OT network, no exceptions. Your boxes sit in our server room, your people come in through our jump host when I approve. And no footage leaves the plant. If that's a problem, we can stop here.
+
+[00:40:44] Neha Sharma: Not a problem. Our deployments are on-prem by default. We'll send our security pack — we're SOC 2 and ISO 27001 — and an architecture note.
+
+[00:41:03] Farhan Siddiqui: Send it before the RFQ closes. I'll review.
+
+[00:55:30] Aarav Malhotra: Summary from our side: PoC on about twelve cameras in packing and conveyor, helmet, vest and the tail pulley zone, six weeks, on-prem. Proposal by the 24th once your RFQ is out.
+
+[00:55:52] Rajiv Bhandari: And keep the gate thing in mind.
+
+[00:56:01] Arvind Rao: Thank you both. Neha, I liked that you told me the number will look worse first. Nobody says that.

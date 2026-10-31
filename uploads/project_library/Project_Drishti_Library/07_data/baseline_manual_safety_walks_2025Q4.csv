@@ -1,0 +1,104 @@
+date,shift,walk_time,area,auditor,people_observed,without_helmet,without_vest,fully_compliant,remarks
+2025-10-01,A,10:00,Packing plant,R. Kujur (EHS),6,2,1,4,
+2025-10-01,B,15:00,Raw mill,S. Verma (EHS),5,2,1,3,"Contract labour gang, new joinees"
+2025-10-02,A,10:00,Cement mill,R. Kujur (EHS),8,0,2,6,
+2025-10-02,B,15:00,Conveyor gallery,R. Kujur (EHS),12,3,1,9,Walk announced on shift WhatsApp group
+2025-10-03,A,10:00,Conveyor gallery,S. Verma (EHS),8,2,1,6,"Dust heavy, visibility low"
+2025-10-03,B,15:00,Kiln platform,S. Verma (EHS),9,1,2,6,
+2025-10-04,A,10:00,Cement mill,S. Verma (EHS),5,1,1,4,
+2025-10-04,B,15:00,Raw mill,R. Kujur (EHS),12,5,1,6,"Dust heavy, visibility low"
+2025-10-07,A,10:00,Conveyor gallery,S. Verma (EHS),8,2,0,6,"Contract labour gang, new joinees"
+2025-10-08,A,10:00,Kiln platform,S. Verma (EHS),6,1,1,5,
+2025-10-08,B,15:00,Conveyor gallery,A. Rao (Head EHS),5,2,1,2,Supervisor accompanied
+2025-10-09,A,10:00,Conveyor gallery,R. Kujur (EHS),11,2,1,9,"Dust heavy, visibility low"
+2025-10-09,B,15:00,Conveyor gallery,R. Kujur (EHS),7,0,1,6,
+2025-10-10,A,10:00,Cement mill,S. Verma (EHS),13,0,1,12,Walk announced on shift WhatsApp group
+2025-10-10,B,15:00,Packing plant,S. Verma (EHS),11,2,1,8,"Dust heavy, visibility low"
+2025-10-11,A,10:00,Raw mill,A. Rao (Head EHS),9,0,4,5,Walk announced on shift WhatsApp group
+2025-10-13,A,10:00,Cement mill,A. Rao (Head EHS),8,0,2,6,"Contract labour gang, new joinees"
+2025-10-13,B,15:00,Raw mill,S. Verma (EHS),6,0,0,6,
+2025-10-16,A,10:00,Kiln platform,S. Verma (EHS),11,3,1,8,"Contract labour gang, new joinees"
+2025-10-16,B,15:00,Packing plant,S. Verma (EHS),9,2,0,7,"Dust heavy, visibility low"
+2025-10-20,A,10:00,Cement mill,S. Verma (EHS),7,1,2,5,
+2025-10-20,B,15:00,Cement mill,S. Verma (EHS),8,2,1,6,Walk announced on shift WhatsApp group
+2025-10-22,A,10:00,Conveyor gallery,S. Verma (EHS),6,1,1,5,Walk announced on shift WhatsApp group
+2025-10-22,B,15:00,Packing plant,S. Verma (EHS),13,1,4,9,
+2025-10-23,A,10:00,Raw mill,S. Verma (EHS),10,2,3,7,
+2025-10-23,B,15:00,Kiln platform,R. Kujur (EHS),8,1,2,6,
+2025-10-24,A,10:00,Kiln platform,S. Verma (EHS),9,2,1,6,
+2025-10-24,B,15:00,Kiln platform,R. Kujur (EHS),9,1,1,8,Walk announced on shift WhatsApp group
+2025-10-29,A,10:00,Raw mill,R. Kujur (EHS),12,3,2,8,Supervisor accompanied
+2025-10-29,B,15:00,Packing plant,R. Kujur (EHS),6,1,0,5,"Contract labour gang, new joinees"
+2025-10-30,B,15:00,Kiln platform,R. Kujur (EHS),5,1,1,4,
+2025-10-31,A,10:00,Cement mill,S. Verma (EHS),6,0,0,6,Supervisor accompanied
+2025-10-31,B,15:00,Cement mill,R. Kujur (EHS),7,2,2,5,Walk announced on shift WhatsApp group
+2025-11-01,A,10:00,Raw mill,R. Kujur (EHS),10,3,1,7,
+2025-11-01,B,15:00,Raw mill,R. Kujur (EHS),5,1,1,3,Supervisor accompanied
+2025-11-03,A,10:00,Packing plant,R. Kujur (EHS),6,1,0,5,"Dust heavy, visibility low"
+2025-11-03,B,15:00,Conveyor gallery,S. Verma (EHS),8,1,2,5,Walk announced on shift WhatsApp group
+2025-11-06,A,10:00,Raw mill,S. Verma (EHS),8,1,0,7,
+2025-11-06,B,15:00,Conveyor gallery,A. Rao (Head EHS),6,1,2,4,
+2025-11-07,A,10:00,Cement mill,S. Verma (EHS),9,3,1,5,Walk announced on shift WhatsApp group
+2025-11-07,B,15:00,Packing plant,S. Verma (EHS),11,3,1,8,"Dust heavy, visibility low"
+2025-11-08,A,10:00,Kiln platform,S. Verma (EHS),12,4,2,8,Supervisor accompanied
+2025-11-08,B,15:00,Conveyor gallery,S. Verma (EHS),8,2,1,6,Walk announced on shift WhatsApp group
+2025-11-10,A,10:00,Kiln platform,A. Rao (Head EHS),11,1,2,8,
+2025-11-10,B,15:00,Cement mill,A. Rao (Head EHS),6,2,0,4,"Dust heavy, visibility low"
+2025-11-11,A,10:00,Conveyor gallery,S. Verma (EHS),6,0,0,6,
+2025-11-11,B,15:00,Conveyor gallery,R. Kujur (EHS),11,3,1,8,Walk announced on shift WhatsApp group
+2025-11-12,A,10:00,Packing plant,S. Verma (EHS),9,2,3,5,
+2025-11-12,B,15:00,Cement mill,R. Kujur (EHS),8,3,2,4,
+2025-11-13,A,10:00,Cement mill,R. Kujur (EHS),13,4,2,9,Walk announced on shift WhatsApp group
+2025-11-13,B,15:00,Raw mill,S. Verma (EHS),7,2,0,5,Supervisor accompanied
+2025-11-17,A,10:00,Conveyor gallery,S. Verma (EHS),9,1,2,7,
+2025-11-17,B,15:00,Raw mill,S. Verma (EHS),6,3,3,2,"Dust heavy, visibility low"
+2025-11-18,A,10:00,Cement mill,R. Kujur (EHS),6,0,2,4,Walk announced on shift WhatsApp group
+2025-11-18,B,15:00,Packing plant,S. Verma (EHS),8,1,1,6,
+2025-11-19,A,10:00,Packing plant,S. Verma (EHS),9,2,0,7,
+2025-11-20,A,10:00,Cement mill,R. Kujur (EHS),6,1,1,5,
+2025-11-21,A,10:00,Cement mill,S. Verma (EHS),5,1,0,4,Walk announced on shift WhatsApp group
+2025-11-21,B,15:00,Conveyor gallery,S. Verma (EHS),13,3,3,10,Walk announced on shift WhatsApp group
+2025-11-24,A,10:00,Kiln platform,S. Verma (EHS),12,2,1,10,"Dust heavy, visibility low"
+2025-11-24,B,15:00,Raw mill,S. Verma (EHS),5,0,0,5,"Contract labour gang, new joinees"
+2025-11-25,A,10:00,Conveyor gallery,S. Verma (EHS),13,1,2,10,Walk announced on shift WhatsApp group
+2025-11-26,A,10:00,Raw mill,S. Verma (EHS),12,1,1,10,Supervisor accompanied
+2025-11-26,B,15:00,Kiln platform,S. Verma (EHS),8,2,1,6,
+2025-11-27,A,10:00,Packing plant,S. Verma (EHS),7,0,1,6,Walk announced on shift WhatsApp group
+2025-11-27,B,15:00,Cement mill,S. Verma (EHS),6,0,3,3,"Contract labour gang, new joinees"
+2025-11-28,A,10:00,Conveyor gallery,R. Kujur (EHS),10,1,2,8,
+2025-11-28,B,15:00,Kiln platform,R. Kujur (EHS),10,0,0,10,Supervisor accompanied
+2025-11-29,B,15:00,Cement mill,R. Kujur (EHS),11,2,1,8,Supervisor accompanied
+2025-12-01,B,15:00,Kiln platform,S. Verma (EHS),13,2,2,11,
+2025-12-02,A,10:00,Packing plant,S. Verma (EHS),8,3,1,5,
+2025-12-02,B,15:00,Packing plant,R. Kujur (EHS),5,2,1,3,Walk announced on shift WhatsApp group
+2025-12-03,A,10:00,Packing plant,S. Verma (EHS),10,1,1,9,Walk announced on shift WhatsApp group
+2025-12-03,B,15:00,Cement mill,A. Rao (Head EHS),8,1,1,7,
+2025-12-04,A,10:00,Raw mill,S. Verma (EHS),11,0,1,10,
+2025-12-04,B,15:00,Kiln platform,S. Verma (EHS),10,0,3,7,"Dust heavy, visibility low"
+2025-12-05,A,10:00,Raw mill,A. Rao (Head EHS),7,3,1,3,
+2025-12-05,B,15:00,Conveyor gallery,R. Kujur (EHS),6,1,1,5,
+2025-12-06,A,10:00,Raw mill,S. Verma (EHS),5,2,0,3,
+2025-12-06,B,15:00,Conveyor gallery,S. Verma (EHS),12,3,3,8,Supervisor accompanied
+2025-12-08,B,15:00,Conveyor gallery,A. Rao (Head EHS),9,2,1,7,Walk announced on shift WhatsApp group
+2025-12-12,A,10:00,Conveyor gallery,S. Verma (EHS),5,1,0,4,
+2025-12-12,B,15:00,Raw mill,S. Verma (EHS),8,0,1,7,
+2025-12-13,A,10:00,Raw mill,S. Verma (EHS),5,0,2,3,"Contract labour gang, new joinees"
+2025-12-13,B,15:00,Kiln platform,S. Verma (EHS),5,2,1,3,Supervisor accompanied
+2025-12-16,B,15:00,Packing plant,R. Kujur (EHS),12,5,1,7,"Dust heavy, visibility low"
+2025-12-17,A,10:00,Raw mill,S. Verma (EHS),7,0,2,5,
+2025-12-17,B,15:00,Conveyor gallery,S. Verma (EHS),10,1,2,8,Walk announced on shift WhatsApp group
+2025-12-18,A,10:00,Packing plant,S. Verma (EHS),5,0,4,1,
+2025-12-18,B,15:00,Kiln platform,S. Verma (EHS),10,3,2,7,Supervisor accompanied
+2025-12-19,B,15:00,Raw mill,R. Kujur (EHS),12,2,2,10,Supervisor accompanied
+2025-12-20,A,10:00,Kiln platform,R. Kujur (EHS),10,2,2,7,
+2025-12-22,A,10:00,Raw mill,A. Rao (Head EHS),12,1,0,11,
+2025-12-22,B,15:00,Cement mill,R. Kujur (EHS),12,1,2,10,Supervisor accompanied
+2025-12-23,A,10:00,Conveyor gallery,A. Rao (Head EHS),10,1,0,9,Supervisor accompanied
+2025-12-23,B,15:00,Raw mill,R. Kujur (EHS),5,1,0,4,
+2025-12-26,A,10:00,Conveyor gallery,R. Kujur (EHS),11,3,3,7,
+2025-12-26,B,15:00,Raw mill,R. Kujur (EHS),5,1,0,4,Walk announced on shift WhatsApp group
+2025-12-29,A,10:00,Cement mill,S. Verma (EHS),8,3,1,5,
+2025-12-29,B,15:00,Raw mill,S. Verma (EHS),8,2,0,6,Walk announced on shift WhatsApp group
+2025-12-30,B,15:00,Raw mill,R. Kujur (EHS),13,1,4,8,
+2025-12-31,A,10:00,Cement mill,S. Verma (EHS),9,1,0,8,Supervisor accompanied
+2025-12-31,B,15:00,Conveyor gallery,S. Verma (EHS),11,4,1,7,

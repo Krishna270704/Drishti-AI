@@ -1,0 +1,73 @@
+{
+  "kpis": [
+    {
+      "kpi_name": "PPE compliance",
+      "definition": "Compliant observed persons divided by persons observed",
+      "baseline": 68.88,
+      "final_value": 91.08,
+      "measurement_period": "Pilot weeks 1-2 baseline; last 4 weeks result",
+      "unit": "%",
+      "formula": "compliant / persons_observed * 100",
+      "recalculated_result": 22.2,
+      "target": ">= 90%",
+      "target_status": "MET",
+      "evidence_source": "Project_Drishti_Library/04_delivery/pilot_acceptance_certificate_2026-07-06.md",
+      "confounders": [
+        "Camera-measured cohorts only"
+      ],
+      "validation_status": "VALIDATED_AGAINST_ACCEPTANCE_CERTIFICATE"
+    },
+    {
+      "kpi_name": "Restricted-zone breach rate",
+      "definition": "Breaches per 1,000 camera-hours",
+      "baseline": 5.58,
+      "final_value": 3.0,
+      "measurement_period": "Pilot weeks 1-2 baseline; last 4 weeks result",
+      "unit": "breaches / 1,000 camera-hours",
+      "formula": "(baseline - final) / baseline * 100",
+      "recalculated_result": 46.24,
+      "target": "50% reduction",
+      "target_status": "MISSED",
+      "evidence_source": "Project_Drishti_Library/04_delivery/pilot_acceptance_certificate_2026-07-06.md",
+      "confounders": [
+        "41-hour stream outage on 22 cameras during the pilot"
+      ],
+      "validation_status": "VALIDATED_TARGET_MISSED"
+    },
+    {
+      "kpi_name": "False alarm rate",
+      "definition": "False verified alerts divided by alerts raised",
+      "baseline": null,
+      "final_value": 9.68,
+      "measurement_period": "Final 2 pilot weeks",
+      "unit": "%",
+      "formula": "false_verified_alerts / alerts_raised * 100",
+      "recalculated_result": 9.68,
+      "target": "< 10%",
+      "target_status": "MET",
+      "evidence_source": "Project_Drishti_Library/04_delivery/pilot_acceptance_certificate_2026-07-06.md",
+      "confounders": [
+        "No comparable baseline established"
+      ],
+      "validation_status": "VALIDATED_WITHOUT_COMPARABLE_BASELINE"
+    },
+    {
+      "kpi_name": "Alert acknowledgement proxy",
+      "definition": "Weighted average of zone-level median acknowledgement values",
+      "baseline": null,
+      "final_value": 4.9,
+      "measurement_period": "Last 4 pilot weeks",
+      "unit": "minutes",
+      "formula": "sum(zone median * alerts) / sum(alerts)",
+      "recalculated_result": 4.9,
+      "target": "<= 3 minutes",
+      "target_status": "MISSED",
+      "evidence_source": "Project_Drishti_Library/04_delivery/pilot_acceptance_certificate_2026-07-06.md",
+      "confounders": [
+        "Proxy is not the exact overall median"
+      ],
+      "validation_status": "VALIDATED_PROXY_ONLY"
+    }
+  ],
+  "source": "Project_Drishti_Library/04_delivery/pilot_acceptance_certificate_2026-07-06.md"
+}

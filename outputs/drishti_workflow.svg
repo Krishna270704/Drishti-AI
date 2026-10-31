@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+width="1000" height="450" viewBox="0 0 1000 450">
+
+<rect width="1000" height="450" fill="#101827"/>
+
+<text x="500" y="65" fill="white"
+font-size="30" text-anchor="middle">
+AI Safety Analytics Workflow
+</text>
+
+<g fill="#1d3557" stroke="#60a5fa" stroke-width="2">
+<rect x="50" y="160" width="200" height="100" rx="15"/>
+<rect x="280" y="160" width="200" height="100" rx="15"/>
+<rect x="510" y="160" width="200" height="100" rx="15"/>
+<rect x="740" y="160" width="200" height="100" rx="15"/>
+</g>
+
+<g fill="white" font-size="19" text-anchor="middle">
+<text x="150" y="205">Existing CCTV</text>
+<text x="150" y="230">Streams</text>
+<text x="380" y="205">Edge AI</text>
+<text x="380" y="230">Detection</text>
+<text x="610" y="205">Alert</text>
+<text x="610" y="230">Review</text>
+<text x="840" y="205">Human</text>
+<text x="840" y="230">Response</text>
+</g>
+
+<g stroke="#93c5fd" stroke-width="4">
+<path d="M250 210 H280"/>
+<path d="M480 210 H510"/>
+<path d="M710 210 H740"/>
+</g>
+
+<text x="500" y="350" fill="#cbd5e1"
+font-size="17" text-anchor="middle">
+Conceptual illustration — not actual project photography
+</text>
+
+</svg>

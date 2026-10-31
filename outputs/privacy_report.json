@@ -1,0 +1,676 @@
+{
+  "agent": "Privacy Agent",
+  "status": "review_required",
+  "findings": [
+    {
+      "source": "Project_Drishti_Library/00_README.md",
+      "risk_type": "personal_identifiers",
+      "match_count": 104,
+      "sample": [
+        "Project library",
+        "Jan to",
+        "FICTIONAL HACKATHON"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/01_contract/MSA_confidentiality_and_publicity_extract.md",
+      "risk_type": "personal_identifiers",
+      "match_count": 171,
+      "sample": [
+        "FICTIONAL HACKATHON",
+        "All names",
+        "numbers and"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/01_contract/MSA_confidentiality_and_publicity_extract.md",
+      "risk_type": "face_or_video",
+      "match_count": 3,
+      "sample": [
+        "video footage",
+        "Video footage",
+        "facial"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/01_contract/MSA_confidentiality_and_publicity_extract.md",
+      "risk_type": "confidentiality",
+      "match_count": 5,
+      "sample": [
+        "Confidential",
+        "Confidential",
+        "commercial terms"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/02_scoping/2026-02-06_discovery_call_transcript.txt",
+      "risk_type": "personal_identifiers",
+      "match_count": 400,
+      "sample": [
+        "FICTIONAL HACKATHON",
+        "All names",
+        "numbers and"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/02_scoping/2026-02-06_discovery_call_transcript.txt",
+      "risk_type": "face_or_video",
+      "match_count": 1,
+      "sample": [
+        "Face recognition"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/02_scoping/2026-02-14_RFQ_ACWL-BHD-EHS-2026-07.md",
+      "risk_type": "personal_identifiers",
+      "match_count": 80,
+      "sample": [
+        "FICTIONAL HACKATHON",
+        "All names",
+        "numbers and"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/02_scoping/2026-02-14_RFQ_ACWL-BHD-EHS-2026-07.md",
+      "risk_type": "email_addresses",
+      "match_count": 1,
+      "sample": [
+        "lokesh.jain@ardentcement.example"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/02_scoping/2026-02-14_RFQ_ACWL-BHD-EHS-2026-07.md",
+      "risk_type": "face_or_video",
+      "match_count": 1,
+      "sample": [
+        "Face recognition"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/02_scoping/2026-02-24_PredCo_proposal_v1.md",
+      "risk_type": "personal_identifiers",
+      "match_count": 119,
+      "sample": [
+        "FICTIONAL HACKATHON",
+        "All names",
+        "numbers and"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/02_scoping/2026-02-24_PredCo_proposal_v1.md",
+      "risk_type": "confidentiality",
+      "match_count": 1,
+      "sample": [
+        "Commercial terms"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/02_scoping/2026-03-05_BRD_v2_signed.md",
+      "risk_type": "personal_identifiers",
+      "match_count": 154,
+      "sample": [
+        "FICTIONAL HACKATHON",
+        "All names",
+        "numbers and"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/02_scoping/2026-03-05_BRD_v2_signed.md",
+      "risk_type": "face_or_video",
+      "match_count": 1,
+      "sample": [
+        "Face recognition"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/03_commercial/change_requests_CR01-CR03.md",
+      "risk_type": "personal_identifiers",
+      "match_count": 101,
+      "sample": [
+        "FICTIONAL HACKATHON",
+        "All names",
+        "numbers and"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/03_commercial/purchase_orders.md",
+      "risk_type": "personal_identifiers",
+      "match_count": 50,
+      "sample": [
+        "FICTIONAL HACKATHON",
+        "All names",
+        "numbers and"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/03_commercial/purchase_orders.md",
+      "risk_type": "phone_numbers",
+      "match_count": 4,
+      "sample": [
+        "4500128773",
+        "4500131902",
+        "4500131902"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/04_delivery/incident_report_INC-0611.md",
+      "risk_type": "personal_identifiers",
+      "match_count": 93,
+      "sample": [
+        "FICTIONAL HACKATHON",
+        "All names",
+        "numbers and"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/04_delivery/pilot_acceptance_certificate_2026-07-06.md",
+      "risk_type": "personal_identifiers",
+      "match_count": 53,
+      "sample": [
+        "FICTIONAL HACKATHON",
+        "All names",
+        "numbers and"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/04_delivery/pilot_acceptance_certificate_2026-07-06.md",
+      "risk_type": "phone_numbers",
+      "match_count": 1,
+      "sample": [
+        "4500131902"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "risk_type": "personal_identifiers",
+      "match_count": 77,
+      "sample": [
+        "Discovery call",
+        "Security pack",
+        "and architecture"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "risk_type": "phone_numbers",
+      "match_count": 119,
+      "sample": [
+        "2026-02-06",
+        "2026-02-06",
+        "2026-02-06"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/05_meetings/2026-04-17_poc_review_transcript.txt",
+      "risk_type": "personal_identifiers",
+      "match_count": 255,
+      "sample": [
+        "FICTIONAL HACKATHON",
+        "All names",
+        "numbers and"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/05_meetings/2026-06-26_steering_committee_transcript.txt",
+      "risk_type": "personal_identifiers",
+      "match_count": 205,
+      "sample": [
+        "FICTIONAL HACKATHON",
+        "All names",
+        "numbers and"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/05_meetings/2026-09-18_QBR_transcript.txt",
+      "risk_type": "personal_identifiers",
+      "match_count": 242,
+      "sample": [
+        "FICTIONAL HACKATHON",
+        "All names",
+        "numbers and"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/06_email/A_2026-01-28_inbound_and_first_reply.md",
+      "risk_type": "personal_identifiers",
+      "match_count": 76,
+      "sample": [
+        "FICTIONAL HACKATHON",
+        "All names",
+        "numbers and"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/06_email/A_2026-01-28_inbound_and_first_reply.md",
+      "risk_type": "email_addresses",
+      "match_count": 4,
+      "sample": [
+        "arvind.rao@ardentcement.example",
+        "hello@predco.ai",
+        "aarav.m@predco.ai"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/06_email/B_2026-02-17_to_03-02_security_review.md",
+      "risk_type": "personal_identifiers",
+      "match_count": 89,
+      "sample": [
+        "FICTIONAL HACKATHON",
+        "All names",
+        "numbers and"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/06_email/B_2026-02-17_to_03-02_security_review.md",
+      "risk_type": "email_addresses",
+      "match_count": 1,
+      "sample": [
+        "farhan.s@ardentcement.example"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/06_email/C_2026-03-31_EHS_handover.md",
+      "risk_type": "personal_identifiers",
+      "match_count": 69,
+      "sample": [
+        "FICTIONAL HACKATHON",
+        "All names",
+        "numbers and"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/06_email/C_2026-03-31_EHS_handover.md",
+      "risk_type": "email_addresses",
+      "match_count": 2,
+      "sample": [
+        "arvind.rao@ardentcement.example",
+        "meenakshi.iyer@ardentcement.example"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/06_email/D_2026-05-14_to_06-02_face_recognition_privacy.md",
+      "risk_type": "personal_identifiers",
+      "match_count": 110,
+      "sample": [
+        "FICTIONAL HACKATHON",
+        "All names",
+        "numbers and"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/06_email/D_2026-05-14_to_06-02_face_recognition_privacy.md",
+      "risk_type": "email_addresses",
+      "match_count": 2,
+      "sample": [
+        "pooja.menon@ardentcement.example",
+        "karthik.r@predco.ai"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/06_email/D_2026-05-14_to_06-02_face_recognition_privacy.md",
+      "risk_type": "face_or_video",
+      "match_count": 6,
+      "sample": [
+        "Face recognition",
+        "Facial",
+        "Face recognition"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/06_email/E_2026-07-01_pilot_results_numbers.md",
+      "risk_type": "personal_identifiers",
+      "match_count": 122,
+      "sample": [
+        "FICTIONAL HACKATHON",
+        "All names",
+        "numbers and"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/06_email/E_2026-07-01_pilot_results_numbers.md",
+      "risk_type": "email_addresses",
+      "match_count": 1,
+      "sample": [
+        "aarav.m@predco.ai"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/06_email/F_2026-08-21_to_09-03_payment_GRN.md",
+      "risk_type": "personal_identifiers",
+      "match_count": 58,
+      "sample": [
+        "FICTIONAL HACKATHON",
+        "All names",
+        "numbers and"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/06_email/F_2026-08-21_to_09-03_payment_GRN.md",
+      "risk_type": "email_addresses",
+      "match_count": 1,
+      "sample": [
+        "sana.q@predco.ai"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/06_email/G_2026-09-22_finance_value_estimate.md",
+      "risk_type": "personal_identifiers",
+      "match_count": 89,
+      "sample": [
+        "FICTIONAL HACKATHON",
+        "All names",
+        "numbers and"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/06_email/G_2026-09-22_finance_value_estimate.md",
+      "risk_type": "email_addresses",
+      "match_count": 1,
+      "sample": [
+        "sunil.kedia@ardentcement.example"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/06_email/H_2026-09-24_to_09-30_case_study_permission.md",
+      "risk_type": "personal_identifiers",
+      "match_count": 138,
+      "sample": [
+        "FICTIONAL HACKATHON",
+        "All names",
+        "numbers and"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/06_email/H_2026-09-24_to_09-30_case_study_permission.md",
+      "risk_type": "email_addresses",
+      "match_count": 1,
+      "sample": [
+        "aarav.m@predco.ai"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "risk_type": "personal_identifiers",
+      "match_count": 239,
+      "sample": [
+        "Packing plant",
+        "Raw mill",
+        "Contract labour"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "risk_type": "phone_numbers",
+      "match_count": 103,
+      "sample": [
+        "2025-10-01",
+        "2025-10-01",
+        "2025-10-02"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/07_data/data_dictionary.md",
+      "risk_type": "personal_identifiers",
+      "match_count": 84,
+      "sample": [
+        "FICTIONAL HACKATHON",
+        "All names",
+        "numbers and"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/07_data/ehs_register_monthly_2025_2026.csv",
+      "risk_type": "personal_identifiers",
+      "match_count": 35,
+      "sample": [
+        "Hand crushed",
+        "at packer",
+        "contract worker"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "risk_type": "personal_identifiers",
+      "match_count": 194,
+      "sample": [
+        "Manual gate",
+        "Manual gate",
+        "Manual gate"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "risk_type": "phone_numbers",
+      "match_count": 122,
+      "sample": [
+        "2026-06-01",
+        "2026-06-02",
+        "2026-06-03"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/07_data/invoices_and_payments.csv",
+      "risk_type": "personal_identifiers",
+      "match_count": 10,
+      "sample": [
+        "PoC completion",
+        "on go",
+        "on acceptance"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/07_data/invoices_and_payments.csv",
+      "risk_type": "phone_numbers",
+      "match_count": 19,
+      "sample": [
+        "2026-04-30",
+        "4500128773",
+        "2026-05-30"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/07_data/supervisor_survey_sep2026.csv",
+      "risk_type": "personal_identifiers",
+      "match_count": 87,
+      "sample": [
+        "Section engineer",
+        "Kiln alerts",
+        "at night"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "risk_type": "phone_numbers",
+      "match_count": 146,
+      "sample": [
+        "2026-05-11",
+        "2026-05-11",
+        "2026-05-11"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/08_github/CHANGELOG.md",
+      "risk_type": "personal_identifiers",
+      "match_count": 58,
+      "sample": [
+        "FICTIONAL HACKATHON",
+        "All names",
+        "numbers and"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/08_github/CHANGELOG.md",
+      "risk_type": "phone_numbers",
+      "match_count": 7,
+      "sample": [
+        "2026-08-03",
+        "2026-07-20",
+        "2026-06-15"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/08_github/configs/site_bhadrapur.yaml",
+      "risk_type": "personal_identifiers",
+      "match_count": 6,
+      "sample": [
+        "FICTIONAL HACKATHON",
+        "All names",
+        "numbers and"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/08_github/docs/model_eval_report.md",
+      "risk_type": "personal_identifiers",
+      "match_count": 58,
+      "sample": [
+        "FICTIONAL HACKATHON",
+        "All names",
+        "numbers and"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/08_github/git_log.txt",
+      "risk_type": "personal_identifiers",
+      "match_count": 69,
+      "sample": [
+        "FICTIONAL HACKATHON",
+        "All names",
+        "numbers and"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/08_github/git_log.txt",
+      "risk_type": "phone_numbers",
+      "match_count": 21,
+      "sample": [
+        "2026-09-16",
+        "2026-09-11",
+        "2026-08-31"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/08_github/README.md",
+      "risk_type": "personal_identifiers",
+      "match_count": 74,
+      "sample": [
+        "FICTIONAL HACKATHON",
+        "All names",
+        "numbers and"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/09_feedback/linkedin_post_2026-09-30_Meenakshi_Iyer.md",
+      "risk_type": "personal_identifiers",
+      "match_count": 67,
+      "sample": [
+        "FICTIONAL HACKATHON",
+        "All names",
+        "numbers and"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/09_feedback/whatsapp_Drishti-Packing_group_export.txt",
+      "risk_type": "personal_identifiers",
+      "match_count": 121,
+      "sample": [
+        "FICTIONAL HACKATHON",
+        "All names",
+        "numbers and"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/11_public/ardent_public_profile.md",
+      "risk_type": "personal_identifiers",
+      "match_count": 59,
+      "sample": [
+        "FICTIONAL HACKATHON",
+        "All names",
+        "numbers and"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/12_vendor/sales_deck_draft_notes_2026-09-23.md",
+      "risk_type": "personal_identifiers",
+      "match_count": 34,
+      "sample": [
+        "FICTIONAL HACKATHON",
+        "All names",
+        "numbers and"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    },
+    {
+      "source": "Project_Drishti_Library/12_vendor/vendor_profile_team_achievements.md",
+      "risk_type": "personal_identifiers",
+      "match_count": 65,
+      "sample": [
+        "FICTIONAL HACKATHON",
+        "Vendor details",
+        "below are"
+      ],
+      "action": "redact_or_exclude_and_request_human_review"
+    }
+  ],
+  "publication_rule": "BLOCK unless authorised written client approval is recorded"
+}

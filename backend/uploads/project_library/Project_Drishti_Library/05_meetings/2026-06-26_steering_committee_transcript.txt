@@ -1,0 +1,52 @@
+FICTIONAL HACKATHON MATERIAL. All names, numbers and events are invented.
+
+Transcript — "Drishti pilot steering committee" — Teams
+Friday 26 Jun 2026, 11:00–12:05 IST
+Present: Rajiv Bhandari, Meenakshi Iyer, Farhan Siddiqui, Sunil Kedia (AGM Finance, Bhadrapur), Dinesh Patel,
+Aarav Malhotra, Neha Sharma, Sana Qureshi (Delivery Manager) — PredCo
+
+[00:00:30] Sana Qureshi: Seven weeks of pilot done. I'll give the KPIs the way the BRD defines them, then problems.
+
+[00:00:52] Sana Qureshi: K1, PPE compliance. Weeks one and two averaged 68.9%. Last three weeks: 88.6, 90.0, 91.8. On track for 90.
+
+[00:01:20] Sana Qureshi: K2, restricted zone, per thousand camera-hours. Started at 5.6. Now 2.7. That's about minus 50%, borderline. Conveyor is the problem zone — people still step over to clear spillage.
+
+[00:01:48] Sana Qureshi: K3, acknowledgement. Started at over nine minutes. Last week 3.9. We'll likely miss three minutes by end of pilot. And the week of 8 June was bad because of the outage.
+
+[00:02:05] Farhan Siddiqui: Which was our contractor's firmware. I've put change control in place.
+
+[00:02:12] Sana Qureshi: And our software should have caught it in five minutes, not fifteen hours. That's fixed in 1.4.
+
+[00:02:30] Sana Qureshi: K4, false alarms. Before the retrain, about 20%. After release 1.3 on 15 June, 8% from Meenakshi ma'am's sample. Kiln is still the worst, around 12 to 13%.
+
+[00:03:01] Meenakshi Iyer: Confirmed from my sample. I'll say this clearly: the behaviour change is real. But part of it is not the cameras. Suraksha Saptah in April, daily toolbox talks since May, and I suspended two contractor gangs in May. Don't give the software all the credit.
+
+[00:03:24] Aarav Malhotra: Fair. Though the gangs were identified from the snapshots, ma'am.
+
+[00:03:29] Meenakshi Iyer: Yes. That I'll give you.
+
+[00:04:10] Sunil Kedia: From finance, I need a money number for the capex note. Seventy-four lakh plus the gate thing. What is the return?
+
+[00:04:22] Aarav Malhotra: We estimate around ₹2 crore a year in avoided injury costs and productivity —
+
+[00:04:30] Sunil Kedia: How?
+
+[00:04:33] Aarav Malhotra: Industry benchmarks for the cost of an LTI, times the reduction —
+
+[00:04:40] Sunil Kedia: Our LTIs. We had four last year. Our own cost per LTI is about 22 lakh, from the 2025 claims and lost production. Even if you prevent all four, that is 88 lakh, and nobody can prove you prevented them. I won't put two crore in a capex note.
+
+[00:05:05] Meenakshi Iyer: Put the audit and the insurance. The broker said a better audit rating can bring 3 to 5% off the premium.
+
+[00:05:15] Sunil Kedia: Premium is 2.4 crore. So 7 to 12 lakh, if it happens, from January. That I can write as "possible".
+
+[00:05:30] Rajiv Bhandari: And the gate. Twelve lakh a month in detention. If the gate analytics cuts that by even a third, the capex note writes itself.
+
+[00:05:45] Sunil Kedia: The gate saving I can measure. Detention is in SAP, transporter-wise. Give me that and I'll sign.
+
+[00:06:20] Dinesh Patel: From the floor: in packing, the gang leaders now check helmets themselves before the shift starts, because they don't want the photo on the group. Night shift is still weak.
+
+[00:44:10] Rajiv Bhandari: Decision. Plant-wide, all 146 cameras, plus the gate. Capex note goes this week with Sunil's numbers, not the benchmark numbers. Aarav, understood?
+
+[00:44:22] Aarav Malhotra: Understood, sir.
+
+[00:44:30] Meenakshi Iyer: And pilot acceptance only after the final week's data. I'll sign with conditions if K2 or K3 misses.

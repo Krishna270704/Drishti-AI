@@ -1,0 +1,27 @@
+# FICTIONAL HACKATHON MATERIAL. All names, numbers and events are invented.
+site:
+  customer: Ardent Cement Works Ltd
+  unit: Bhadrapur
+  timezone: Asia/Kolkata
+  clinker_line_capacity_mtpa: 6.2
+edge_servers:
+  - {name: drishti-edge-01, ip: 10.20.4.11, gpu: "RTX A4000"}
+  - {name: drishti-edge-02, ip: 10.20.4.12, gpu: "RTX A4000"}
+  - {name: drishti-edge-03, ip: 10.20.4.13, gpu: "RTX A4000"}
+console: {url: "http://10.20.4.15:8080/drishti"}
+nvr:
+  - {name: NVR-2, ip: 192.168.40.2, vendor: Hikvision}
+  - {name: NVR-3, ip: 192.168.40.3, vendor: Hikvision}
+cameras:
+  - {id: PK2-07, rtsp: "rtsp://drishti:${NVR_PASS}@192.168.40.27:554/Streaming/Channels/102", area: packing, zones: []}
+  - {id: CV-TP-03, rtsp: "rtsp://drishti:${NVR_PASS}@192.168.40.63:554/Streaming/Channels/102", area: conveyor, zones: [tail_pulley_3]}
+  - {id: KL-IN-01, rtsp: "rtsp://drishti:${NVR_PASS}@192.168.40.81:554/Streaming/Channels/102", area: kiln, zones: [kiln_inlet_hot]}
+  # ... 143 more
+alerts:
+  whatsapp_gateway: {mode: text_only, groups: ["Drishti-Packing", "Drishti-Conveyor", "Drishti-Kiln", "Drishti-RM", "Drishti-CM", "Drishti-Gate"]}
+  escalation_minutes: 5
+gate:
+  anpr_cameras: [G1, G2, G3, G4]
+  weighbridge_feed: "sap-pi://BHD-WB/01,02"
+  queue_alert_trucks: 25
+  max_turnaround_minutes: 120

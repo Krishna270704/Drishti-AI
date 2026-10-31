@@ -1,0 +1,2953 @@
+{
+  "agent": "Timeline Agent",
+  "status": "completed",
+  "events_found": 491,
+  "events": [
+    {
+      "date": "2025-10-01",
+      "event_text": "2025-10-01,A,10:00,Packing plant,R. Kujur (EHS),6,2,1,4,",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-10-01",
+      "event_text": "2025-10-01,B,15:00,Raw mill,S. Verma (EHS),5,2,1,3,\"Contract labour gang, new joinees\"",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-10-02",
+      "event_text": "2025-10-02,A,10:00,Cement mill,R. Kujur (EHS),8,0,2,6,",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-10-02",
+      "event_text": "2025-10-02,B,15:00,Conveyor gallery,R. Kujur (EHS),12,3,1,9,Walk announced on shift WhatsApp group",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-10-03",
+      "event_text": "2025-10-03,A,10:00,Conveyor gallery,S. Verma (EHS),8,2,1,6,\"Dust heavy, visibility low\"",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-10-03",
+      "event_text": "2025-10-03,B,15:00,Kiln platform,S. Verma (EHS),9,1,2,6,",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-10-04",
+      "event_text": "2025-10-04,A,10:00,Cement mill,S. Verma (EHS),5,1,1,4,",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-10-04",
+      "event_text": "2025-10-04,B,15:00,Raw mill,R. Kujur (EHS),12,5,1,6,\"Dust heavy, visibility low\"",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-10-07",
+      "event_text": "2025-10-07,A,10:00,Conveyor gallery,S. Verma (EHS),8,2,0,6,\"Contract labour gang, new joinees\"",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-10-08",
+      "event_text": "2025-10-08,A,10:00,Kiln platform,S. Verma (EHS),6,1,1,5,",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-10-08",
+      "event_text": "2025-10-08,B,15:00,Conveyor gallery,A. Rao (Head EHS),5,2,1,2,Supervisor accompanied",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-10-09",
+      "event_text": "2025-10-09,A,10:00,Conveyor gallery,R. Kujur (EHS),11,2,1,9,\"Dust heavy, visibility low\"",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-10-09",
+      "event_text": "2025-10-09,B,15:00,Conveyor gallery,R. Kujur (EHS),7,0,1,6,",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-10-10",
+      "event_text": "2025-10-10,A,10:00,Cement mill,S. Verma (EHS),13,0,1,12,Walk announced on shift WhatsApp group",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-10-10",
+      "event_text": "2025-10-10,B,15:00,Packing plant,S. Verma (EHS),11,2,1,8,\"Dust heavy, visibility low\"",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-10-11",
+      "event_text": "2025-10-11,A,10:00,Raw mill,A. Rao (Head EHS),9,0,4,5,Walk announced on shift WhatsApp group",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-10-13",
+      "event_text": "2025-10-13,A,10:00,Cement mill,A. Rao (Head EHS),8,0,2,6,\"Contract labour gang, new joinees\"",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-10-13",
+      "event_text": "2025-10-13,B,15:00,Raw mill,S. Verma (EHS),6,0,0,6,",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-10-16",
+      "event_text": "2025-10-16,A,10:00,Kiln platform,S. Verma (EHS),11,3,1,8,\"Contract labour gang, new joinees\"",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-10-16",
+      "event_text": "2025-10-16,B,15:00,Packing plant,S. Verma (EHS),9,2,0,7,\"Dust heavy, visibility low\"",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-10-20",
+      "event_text": "2025-10-20,A,10:00,Cement mill,S. Verma (EHS),7,1,2,5,",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-10-20",
+      "event_text": "2025-10-20,B,15:00,Cement mill,S. Verma (EHS),8,2,1,6,Walk announced on shift WhatsApp group",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-10-22",
+      "event_text": "2025-10-22,A,10:00,Conveyor gallery,S. Verma (EHS),6,1,1,5,Walk announced on shift WhatsApp group",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-10-22",
+      "event_text": "2025-10-22,B,15:00,Packing plant,S. Verma (EHS),13,1,4,9,",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-10-23",
+      "event_text": "2025-10-23,A,10:00,Raw mill,S. Verma (EHS),10,2,3,7,",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-10-23",
+      "event_text": "2025-10-23,B,15:00,Kiln platform,R. Kujur (EHS),8,1,2,6,",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-10-24",
+      "event_text": "2025-10-24,A,10:00,Kiln platform,S. Verma (EHS),9,2,1,6,",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-10-24",
+      "event_text": "2025-10-24,B,15:00,Kiln platform,R. Kujur (EHS),9,1,1,8,Walk announced on shift WhatsApp group",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-10-29",
+      "event_text": "2025-10-29,A,10:00,Raw mill,R. Kujur (EHS),12,3,2,8,Supervisor accompanied",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-10-29",
+      "event_text": "2025-10-29,B,15:00,Packing plant,R. Kujur (EHS),6,1,0,5,\"Contract labour gang, new joinees\"",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-10-30",
+      "event_text": "2025-10-30,B,15:00,Kiln platform,R. Kujur (EHS),5,1,1,4,",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-10-31",
+      "event_text": "2025-10-31,A,10:00,Cement mill,S. Verma (EHS),6,0,0,6,Supervisor accompanied",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-10-31",
+      "event_text": "2025-10-31,B,15:00,Cement mill,R. Kujur (EHS),7,2,2,5,Walk announced on shift WhatsApp group",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-11-01",
+      "event_text": "2025-11-01,A,10:00,Raw mill,R. Kujur (EHS),10,3,1,7,",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-11-01",
+      "event_text": "2025-11-01,B,15:00,Raw mill,R. Kujur (EHS),5,1,1,3,Supervisor accompanied",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-11-03",
+      "event_text": "2025-11-03,A,10:00,Packing plant,R. Kujur (EHS),6,1,0,5,\"Dust heavy, visibility low\"",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-11-03",
+      "event_text": "2025-11-03,B,15:00,Conveyor gallery,S. Verma (EHS),8,1,2,5,Walk announced on shift WhatsApp group",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-11-06",
+      "event_text": "2025-11-06,A,10:00,Raw mill,S. Verma (EHS),8,1,0,7,",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-11-06",
+      "event_text": "2025-11-06,B,15:00,Conveyor gallery,A. Rao (Head EHS),6,1,2,4,",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-11-07",
+      "event_text": "2025-11-07,A,10:00,Cement mill,S. Verma (EHS),9,3,1,5,Walk announced on shift WhatsApp group",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-11-07",
+      "event_text": "2025-11-07,B,15:00,Packing plant,S. Verma (EHS),11,3,1,8,\"Dust heavy, visibility low\"",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-11-08",
+      "event_text": "2025-11-08,A,10:00,Kiln platform,S. Verma (EHS),12,4,2,8,Supervisor accompanied",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-11-08",
+      "event_text": "2025-11-08,B,15:00,Conveyor gallery,S. Verma (EHS),8,2,1,6,Walk announced on shift WhatsApp group",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-11-10",
+      "event_text": "2025-11-10,A,10:00,Kiln platform,A. Rao (Head EHS),11,1,2,8,",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-11-10",
+      "event_text": "2025-11-10,B,15:00,Cement mill,A. Rao (Head EHS),6,2,0,4,\"Dust heavy, visibility low\"",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-11-11",
+      "event_text": "2025-11-11,A,10:00,Conveyor gallery,S. Verma (EHS),6,0,0,6,",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-11-11",
+      "event_text": "2025-11-11,B,15:00,Conveyor gallery,R. Kujur (EHS),11,3,1,8,Walk announced on shift WhatsApp group",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-11-12",
+      "event_text": "2025-11-12,A,10:00,Packing plant,S. Verma (EHS),9,2,3,5,",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-11-12",
+      "event_text": "2025-11-12,B,15:00,Cement mill,R. Kujur (EHS),8,3,2,4,",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-11-13",
+      "event_text": "2025-11-13,A,10:00,Cement mill,R. Kujur (EHS),13,4,2,9,Walk announced on shift WhatsApp group",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-11-13",
+      "event_text": "2025-11-13,B,15:00,Raw mill,S. Verma (EHS),7,2,0,5,Supervisor accompanied",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-11-17",
+      "event_text": "2025-11-17,A,10:00,Conveyor gallery,S. Verma (EHS),9,1,2,7,",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-11-17",
+      "event_text": "2025-11-17,B,15:00,Raw mill,S. Verma (EHS),6,3,3,2,\"Dust heavy, visibility low\"",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-11-18",
+      "event_text": "2025-11-18,A,10:00,Cement mill,R. Kujur (EHS),6,0,2,4,Walk announced on shift WhatsApp group",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-11-18",
+      "event_text": "2025-11-18,B,15:00,Packing plant,S. Verma (EHS),8,1,1,6,",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-11-19",
+      "event_text": "2025-11-19,A,10:00,Packing plant,S. Verma (EHS),9,2,0,7,",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-11-20",
+      "event_text": "2025-11-20,A,10:00,Cement mill,R. Kujur (EHS),6,1,1,5,",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-11-21",
+      "event_text": "2025-11-21,A,10:00,Cement mill,S. Verma (EHS),5,1,0,4,Walk announced on shift WhatsApp group",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-11-21",
+      "event_text": "2025-11-21,B,15:00,Conveyor gallery,S. Verma (EHS),13,3,3,10,Walk announced on shift WhatsApp group",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-11-24",
+      "event_text": "2025-11-24,A,10:00,Kiln platform,S. Verma (EHS),12,2,1,10,\"Dust heavy, visibility low\"",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-11-24",
+      "event_text": "2025-11-24,B,15:00,Raw mill,S. Verma (EHS),5,0,0,5,\"Contract labour gang, new joinees\"",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-11-25",
+      "event_text": "2025-11-25,A,10:00,Conveyor gallery,S. Verma (EHS),13,1,2,10,Walk announced on shift WhatsApp group",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-11-26",
+      "event_text": "2025-11-26,A,10:00,Raw mill,S. Verma (EHS),12,1,1,10,Supervisor accompanied",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-11-26",
+      "event_text": "2025-11-26,B,15:00,Kiln platform,S. Verma (EHS),8,2,1,6,",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-11-27",
+      "event_text": "2025-11-27,A,10:00,Packing plant,S. Verma (EHS),7,0,1,6,Walk announced on shift WhatsApp group",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-11-27",
+      "event_text": "2025-11-27,B,15:00,Cement mill,S. Verma (EHS),6,0,3,3,\"Contract labour gang, new joinees\"",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-11-28",
+      "event_text": "2025-11-28,A,10:00,Conveyor gallery,R. Kujur (EHS),10,1,2,8,",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-11-28",
+      "event_text": "2025-11-28,B,15:00,Kiln platform,R. Kujur (EHS),10,0,0,10,Supervisor accompanied",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-11-29",
+      "event_text": "2025-11-29,B,15:00,Cement mill,R. Kujur (EHS),11,2,1,8,Supervisor accompanied",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-12-01",
+      "event_text": "2025-12-01,B,15:00,Kiln platform,S. Verma (EHS),13,2,2,11,",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-12-02",
+      "event_text": "2025-12-02,A,10:00,Packing plant,S. Verma (EHS),8,3,1,5,",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-12-02",
+      "event_text": "2025-12-02,B,15:00,Packing plant,R. Kujur (EHS),5,2,1,3,Walk announced on shift WhatsApp group",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-12-03",
+      "event_text": "2025-12-03,A,10:00,Packing plant,S. Verma (EHS),10,1,1,9,Walk announced on shift WhatsApp group",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-12-03",
+      "event_text": "2025-12-03,B,15:00,Cement mill,A. Rao (Head EHS),8,1,1,7,",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-12-04",
+      "event_text": "2025-12-04,A,10:00,Raw mill,S. Verma (EHS),11,0,1,10,",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-12-04",
+      "event_text": "2025-12-04,B,15:00,Kiln platform,S. Verma (EHS),10,0,3,7,\"Dust heavy, visibility low\"",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-12-05",
+      "event_text": "2025-12-05,A,10:00,Raw mill,A. Rao (Head EHS),7,3,1,3,",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-12-05",
+      "event_text": "2025-12-05,B,15:00,Conveyor gallery,R. Kujur (EHS),6,1,1,5,",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-12-06",
+      "event_text": "2025-12-06,A,10:00,Raw mill,S. Verma (EHS),5,2,0,3,",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-12-06",
+      "event_text": "2025-12-06,B,15:00,Conveyor gallery,S. Verma (EHS),12,3,3,8,Supervisor accompanied",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-12-08",
+      "event_text": "2025-12-08,B,15:00,Conveyor gallery,A. Rao (Head EHS),9,2,1,7,Walk announced on shift WhatsApp group",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-12-12",
+      "event_text": "2025-12-12,A,10:00,Conveyor gallery,S. Verma (EHS),5,1,0,4,",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-12-12",
+      "event_text": "2025-12-12,B,15:00,Raw mill,S. Verma (EHS),8,0,1,7,",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-12-13",
+      "event_text": "2025-12-13,A,10:00,Raw mill,S. Verma (EHS),5,0,2,3,\"Contract labour gang, new joinees\"",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-12-13",
+      "event_text": "2025-12-13,B,15:00,Kiln platform,S. Verma (EHS),5,2,1,3,Supervisor accompanied",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-12-16",
+      "event_text": "2025-12-16,B,15:00,Packing plant,R. Kujur (EHS),12,5,1,7,\"Dust heavy, visibility low\"",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-12-17",
+      "event_text": "2025-12-17,A,10:00,Raw mill,S. Verma (EHS),7,0,2,5,",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-12-17",
+      "event_text": "2025-12-17,B,15:00,Conveyor gallery,S. Verma (EHS),10,1,2,8,Walk announced on shift WhatsApp group",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-12-18",
+      "event_text": "2025-12-18,A,10:00,Packing plant,S. Verma (EHS),5,0,4,1,",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-12-18",
+      "event_text": "2025-12-18,B,15:00,Kiln platform,S. Verma (EHS),10,3,2,7,Supervisor accompanied",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-12-19",
+      "event_text": "2025-12-19,B,15:00,Raw mill,R. Kujur (EHS),12,2,2,10,Supervisor accompanied",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-12-20",
+      "event_text": "2025-12-20,A,10:00,Kiln platform,R. Kujur (EHS),10,2,2,7,",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-12-22",
+      "event_text": "2025-12-22,A,10:00,Raw mill,A. Rao (Head EHS),12,1,0,11,",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-12-22",
+      "event_text": "2025-12-22,B,15:00,Cement mill,R. Kujur (EHS),12,1,2,10,Supervisor accompanied",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-12-23",
+      "event_text": "2025-12-23,A,10:00,Conveyor gallery,A. Rao (Head EHS),10,1,0,9,Supervisor accompanied",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-12-23",
+      "event_text": "2025-12-23,B,15:00,Raw mill,R. Kujur (EHS),5,1,0,4,",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-12-26",
+      "event_text": "2025-12-26,A,10:00,Conveyor gallery,R. Kujur (EHS),11,3,3,7,",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-12-26",
+      "event_text": "2025-12-26,B,15:00,Raw mill,R. Kujur (EHS),5,1,0,4,Walk announced on shift WhatsApp group",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-12-29",
+      "event_text": "2025-12-29,A,10:00,Cement mill,S. Verma (EHS),8,3,1,5,",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-12-29",
+      "event_text": "2025-12-29,B,15:00,Raw mill,S. Verma (EHS),8,2,0,6,Walk announced on shift WhatsApp group",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-12-30",
+      "event_text": "2025-12-30,B,15:00,Raw mill,R. Kujur (EHS),13,1,4,8,",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-12-31",
+      "event_text": "2025-12-31,A,10:00,Cement mill,S. Verma (EHS),9,1,0,8,Supervisor accompanied",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2025-12-31",
+      "event_text": "2025-12-31,B,15:00,Conveyor gallery,S. Verma (EHS),11,4,1,7,",
+      "source": "Project_Drishti_Library/07_data/baseline_manual_safety_walks_2025Q4.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-02-06",
+      "event_text": "T01,Scoping,Discovery call,A. Malhotra,2026-02-06,2026-02-06,2026-02-06,2026-02-06,Done,",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-02-16",
+      "event_text": "T02,Scoping,Security pack and architecture note to IT-OT,N. Sharma,2026-02-16,2026-02-20,2026-02-17,2026-03-02,Done,\"3 review rounds with F. Siddiqui; jump host design changed\"",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-02-17",
+      "event_text": "T02,Scoping,Security pack and architecture note to IT-OT,N. Sharma,2026-02-16,2026-02-20,2026-02-17,2026-03-02,Done,\"3 review rounds with F. Siddiqui; jump host design changed\"",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-02-20",
+      "event_text": "T02,Scoping,Security pack and architecture note to IT-OT,N. Sharma,2026-02-16,2026-02-20,2026-02-17,2026-03-02,Done,\"3 review rounds with F. Siddiqui; jump host design changed\"",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-02-20",
+      "event_text": "T03,Scoping,Proposal v1,A. Malhotra,2026-02-20,2026-02-24,2026-02-21,2026-02-24,Done,",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-02-21",
+      "event_text": "T03,Scoping,Proposal v1,A. Malhotra,2026-02-20,2026-02-24,2026-02-21,2026-02-24,Done,",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-02-24",
+      "event_text": "T03,Scoping,Proposal v1,A. Malhotra,2026-02-20,2026-02-24,2026-02-21,2026-02-24,Done,",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-02-27",
+      "event_text": "T04,Scoping,BRD v2 sign-off,N. Sharma,2026-02-27,2026-03-03,2026-02-27,2026-03-05,Done,KPI targets revised by EHS",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-03-02",
+      "event_text": "T02,Scoping,Security pack and architecture note to IT-OT,N. Sharma,2026-02-16,2026-02-20,2026-02-17,2026-03-02,Done,\"3 review rounds with F. Siddiqui; jump host design changed\"",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-03-03",
+      "event_text": "T04,Scoping,BRD v2 sign-off,N. Sharma,2026-02-27,2026-03-03,2026-02-27,2026-03-05,Done,KPI targets revised by EHS",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-03-05",
+      "event_text": "T04,Scoping,BRD v2 sign-off,N. Sharma,2026-02-27,2026-03-03,2026-02-27,2026-03-05,Done,KPI targets revised by EHS",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-03-12",
+      "event_text": "T05,PoC,Edge server install (loan unit) in server room,V. Anand,2026-03-12,2026-03-13,2026-03-12,2026-03-16,Done,Server room access card delay",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-03-13",
+      "event_text": "T05,PoC,Edge server install (loan unit) in server room,V. Anand,2026-03-12,2026-03-13,2026-03-12,2026-03-16,Done,Server room access card delay",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-03-13",
+      "event_text": "T06,PoC,Connect 12 camera streams,V. Anand,2026-03-13,2026-03-16,2026-03-16,2026-03-19,Done,\"2 cameras 352x288 only, replaced by PK2-07 and PK2-09\"",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-03-16",
+      "event_text": "T05,PoC,Edge server install (loan unit) in server room,V. Anand,2026-03-12,2026-03-13,2026-03-12,2026-03-16,Done,Server room access card delay",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-03-16",
+      "event_text": "T06,PoC,Connect 12 camera streams,V. Anand,2026-03-13,2026-03-16,2026-03-16,2026-03-19,Done,\"2 cameras 352x288 only, replaced by PK2-07 and PK2-09\"",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-03-16",
+      "event_text": "T07,PoC,Zone polygons for tail pulley,N. Sharma,2026-03-16,2026-03-17,2026-03-17,2026-03-18,Done,",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-03-16",
+      "event_text": "T08,PoC,PoC run,K. Raman,2026-03-16,2026-04-24,2026-03-19,2026-04-24,Done,False alarms 23% in PoC (dust + reflective sacks)",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-03-16",
+      "event_text": "0c7e3f6 2026-03-16 Vivek Anand initial site config, PoC 12 cameras",
+      "source": "Project_Drishti_Library/08_github/git_log.txt",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-03-17",
+      "event_text": "T07,PoC,Zone polygons for tail pulley,N. Sharma,2026-03-16,2026-03-17,2026-03-17,2026-03-18,Done,",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-03-18",
+      "event_text": "T07,PoC,Zone polygons for tail pulley,N. Sharma,2026-03-16,2026-03-17,2026-03-17,2026-03-18,Done,",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-03-19",
+      "event_text": "T06,PoC,Connect 12 camera streams,V. Anand,2026-03-13,2026-03-16,2026-03-16,2026-03-19,Done,\"2 cameras 352x288 only, replaced by PK2-07 and PK2-09\"",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-03-19",
+      "event_text": "T08,PoC,PoC run,K. Raman,2026-03-16,2026-04-24,2026-03-19,2026-04-24,Done,False alarms 23% in PoC (dust + reflective sacks)",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-03-19",
+      "event_text": "## v0.9 — 2026-03-19",
+      "source": "Project_Drishti_Library/08_github/CHANGELOG.md",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-03-19",
+      "event_text": "58d1e4a 2026-03-19 Vivek Anand configs: swap PK1-03, PK1-05 (352x288) for PK2-07, PK2-09",
+      "source": "Project_Drishti_Library/08_github/git_log.txt",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-04-17",
+      "event_text": "T09,PoC,PoC review with client,A. Malhotra,2026-04-17,2026-04-17,2026-04-17,2026-04-17,Done,New Head EHS M. Iyer attends",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-04-22",
+      "event_text": "a3b9c17 2026-04-22 Neha Sharma docs: counting rules agreed with EHS (person-camera-10min)",
+      "source": "Project_Drishti_Library/08_github/git_log.txt",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-04-24",
+      "event_text": "T08,PoC,PoC run,K. Raman,2026-03-16,2026-04-24,2026-03-19,2026-04-24,Done,False alarms 23% in PoC (dust + reflective sacks)",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-04-28",
+      "event_text": "T10,Pilot,CR-01 kiln hot-zone rule,N. Sharma,2026-04-28,2026-05-08,2026-04-29,2026-05-12,Done,Face-shield class needs 600 more site images",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-04-29",
+      "event_text": "T10,Pilot,CR-01 kiln hot-zone rule,N. Sharma,2026-04-28,2026-05-08,2026-04-29,2026-05-12,Done,Face-shield class needs 600 more site images",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-04-29",
+      "event_text": "f6e2d8b 2026-04-29 Neha Sharma zones: kiln inlet hot-zone 3m (CR-01)",
+      "source": "Project_Drishti_Library/08_github/git_log.txt",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-04-30",
+      "event_text": "PC/26-27/0041,2026-04-30,4500128773,PoC completion (100%),650000,117000,2026-05-30,2026-06-04,Paid",
+      "source": "Project_Drishti_Library/07_data/invoices_and_payments.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-05-04",
+      "event_text": "T11,Pilot,Scale to 40 cameras + 2nd edge server,V. Anand,2026-05-04,2026-05-08,2026-05-04,2026-05-10,Done,",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-05-08",
+      "event_text": "T10,Pilot,CR-01 kiln hot-zone rule,N. Sharma,2026-04-28,2026-05-08,2026-04-29,2026-05-12,Done,Face-shield class needs 600 more site images",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-05-08",
+      "event_text": "T11,Pilot,Scale to 40 cameras + 2nd edge server,V. Anand,2026-05-04,2026-05-08,2026-05-04,2026-05-10,Done,",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-05-10",
+      "event_text": "T11,Pilot,Scale to 40 cameras + 2nd edge server,V. Anand,2026-05-04,2026-05-08,2026-05-04,2026-05-10,Done,",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-05-11",
+      "event_text": "T12,Pilot,Pilot go-live,K. Raman,2026-05-11,2026-05-11,2026-05-11,2026-05-11,Done,",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-05-11",
+      "event_text": "T13,Pilot,Face module for R8,K. Raman,2026-05-11,2026-05-29,2026-05-12,2026-05-20,Cancelled,CR-02 (Legal)",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-05-11",
+      "event_text": "2026-05-11,packing,pilot,14,2352,3638,2340,9,152,28,9.0,v1.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-05-11",
+      "event_text": "2026-05-11,conveyor,pilot,10,1680,1532,928,15,81,14,9.7,v1.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-05-11",
+      "event_text": "2026-05-11,kiln,pilot,8,1344,747,440,10,44,11,9.3,v1.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-05-11",
+      "event_text": "2026-05-11,raw_mill,pilot,8,1344,1034,700,6,43,8,9.3,v1.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-05-11",
+      "event_text": "## v1.0 — 2026-05-11",
+      "source": "Project_Drishti_Library/08_github/CHANGELOG.md",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-05-11",
+      "event_text": "71c5a3e 2026-05-11 Sana Qureshi release v1.0: pilot 40 cameras",
+      "source": "Project_Drishti_Library/08_github/git_log.txt",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-05-12",
+      "event_text": "T10,Pilot,CR-01 kiln hot-zone rule,N. Sharma,2026-04-28,2026-05-08,2026-04-29,2026-05-12,Done,Face-shield class needs 600 more site images",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-05-12",
+      "event_text": "T13,Pilot,Face module for R8,K. Raman,2026-05-11,2026-05-29,2026-05-12,2026-05-20,Cancelled,CR-02 (Legal)",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-05-12",
+      "event_text": "T15,Pilot,Daily false-alarm sample review with EHS,M. Iyer / K. Raman,2026-05-12,2026-07-03,2026-05-12,2026-07-03,Done,",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-05-12",
+      "event_text": "2b8e6f0 2026-05-12 Karthik Raman attendance: scaffold face enrolment for gates G1-G4",
+      "source": "Project_Drishti_Library/08_github/git_log.txt",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-05-15",
+      "event_text": "PC/26-27/0077,2026-05-15,4500131902,Pilot: 40% on go-live,816000,146880,2026-06-14,2026-06-20,Paid",
+      "source": "Project_Drishti_Library/07_data/invoices_and_payments.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-05-18",
+      "event_text": "2026-05-18,packing,pilot,14,2352,3851,2903,8,112,22,7.6,v1.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-05-18",
+      "event_text": "2026-05-18,conveyor,pilot,10,1680,1673,1193,12,65,13,8.2,v1.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-05-18",
+      "event_text": "2026-05-18,kiln,pilot,8,1344,760,520,9,35,10,7.5,v1.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-05-18",
+      "event_text": "2026-05-18,raw_mill,pilot,8,1344,1251,954,6,39,7,8.2,v1.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-05-20",
+      "event_text": "T13,Pilot,Face module for R8,K. Raman,2026-05-11,2026-05-29,2026-05-12,2026-05-20,Cancelled,CR-02 (Legal)",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-05-20",
+      "event_text": "d0f4c19 2026-05-20 Karthik Raman attendance: stop work per legal hold",
+      "source": "Project_Drishti_Library/08_github/git_log.txt",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-05-25",
+      "event_text": "2026-05-25,packing,pilot,14,2352,3717,3109,7,74,13,6.4,v1.1",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-05-25",
+      "event_text": "2026-05-25,conveyor,pilot,10,1680,1573,1235,10,47,9,7.0,v1.1",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-05-25",
+      "event_text": "2026-05-25,kiln,pilot,8,1344,915,702,9,32,9,6.6,v1.1",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-05-25",
+      "event_text": "2026-05-25,raw_mill,pilot,8,1344,1182,958,5,30,6,6.4,v1.1",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-05-25",
+      "event_text": "## v1.1 — 2026-05-25",
+      "source": "Project_Drishti_Library/08_github/CHANGELOG.md",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-05-27",
+      "event_text": "T14,Pilot,Remove face module from build + written confirmation,K. Raman,2026-05-27,2026-05-29,2026-05-27,2026-06-02,Done,Release v1.2",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-05-29",
+      "event_text": "T13,Pilot,Face module for R8,K. Raman,2026-05-11,2026-05-29,2026-05-12,2026-05-20,Cancelled,CR-02 (Legal)",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-05-29",
+      "event_text": "T14,Pilot,Remove face module from build + written confirmation,K. Raman,2026-05-27,2026-05-29,2026-05-27,2026-06-02,Done,Release v1.2",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-05-30",
+      "event_text": "PC/26-27/0041,2026-04-30,4500128773,PoC completion (100%),650000,117000,2026-05-30,2026-06-04,Paid",
+      "source": "Project_Drishti_Library/07_data/invoices_and_payments.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-01",
+      "event_text": "T16,Pilot,Retrain on site images (4200 frames),K. Raman,2026-06-01,2026-06-12,2026-06-01,2026-06-14,Done,Release v1.3 deployed 15 Jun",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-01",
+      "event_text": "2026-06-01,312,100,,Manual gate register (security),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-01",
+      "event_text": "2026-06-01,packing,pilot,14,2352,4430,3851,6,70,13,5.5,v1.2",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-01",
+      "event_text": "2026-06-01,conveyor,pilot,10,1680,1804,1501,10,43,9,5.6,v1.2",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-01",
+      "event_text": "2026-06-01,kiln,pilot,8,1344,880,704,6,25,7,5.8,v1.2",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-01",
+      "event_text": "2026-06-01,raw_mill,pilot,8,1344,1035,878,5,22,4,5.6,v1.2",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-02",
+      "event_text": "T14,Pilot,Remove face module from build + written confirmation,K. Raman,2026-05-27,2026-05-29,2026-05-27,2026-06-02,Done,Release v1.2",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-02",
+      "event_text": "2026-06-02,324,100,,Manual gate register (security),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-02",
+      "event_text": "## v1.2 — 2026-06-02",
+      "source": "Project_Drishti_Library/08_github/CHANGELOG.md",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-02",
+      "event_text": "3e7a2b8 2026-06-02 Karthik Raman release v1.2: remove attendance/ face module entirely (CR-02)",
+      "source": "Project_Drishti_Library/08_github/git_log.txt",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-03",
+      "event_text": "2026-06-03,336,90,,Manual gate register (security),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-03",
+      "event_text": "6ad9e01 2026-06-03 Karthik Raman report: K4 false-alarm % now from EHS sample labels, not model confidence",
+      "source": "Project_Drishti_Library/08_github/git_log.txt",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-04",
+      "event_text": "2026-06-04,320,90,,Manual gate register (security),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-04",
+      "event_text": "PC/26-27/0041,2026-04-30,4500128773,PoC completion (100%),650000,117000,2026-05-30,2026-06-04,Paid",
+      "source": "Project_Drishti_Library/07_data/invoices_and_payments.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-05",
+      "event_text": "2026-06-05,315,100,,Manual gate register (security),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-06",
+      "event_text": "2026-06-06,289,90,,Manual gate register (security),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-07",
+      "event_text": "2026-06-07,309,90,,Manual gate register (security),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-08",
+      "event_text": "2026-06-08,324,95,,Manual gate register (security),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-08",
+      "event_text": "2026-06-08,packing,pilot,14,1983,3563,3216,5,43,8,7.1,v1.2",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-08",
+      "event_text": "2026-06-08,conveyor,pilot,10,1393,1286,1120,7,25,5,7.2,v1.2",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-08",
+      "event_text": "2026-06-08,kiln,pilot,8,1344,742,608,5,20,5,7.3,v1.2",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-08",
+      "event_text": "2026-06-08,raw_mill,pilot,8,1098,999,895,3,14,3,7.5,v1.2",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-09",
+      "event_text": "T17,Pilot,INC-0611 stream outage recovery,V. Anand,2026-06-09,2026-06-11,2026-06-09,2026-06-11,Done,Client NVR firmware; see incident report",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-09",
+      "event_text": "2026-06-09,303,105,,Manual gate register (security),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-10",
+      "event_text": "2026-06-10,299,95,,Manual gate register (security),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-11",
+      "event_text": "T17,Pilot,INC-0611 stream outage recovery,V. Anand,2026-06-09,2026-06-11,2026-06-09,2026-06-11,Done,Client NVR firmware; see incident report",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-11",
+      "event_text": "2026-06-11,324,95,,Manual gate register (security),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-12",
+      "event_text": "T16,Pilot,Retrain on site images (4200 frames),K. Raman,2026-06-01,2026-06-12,2026-06-01,2026-06-14,Done,Release v1.3 deployed 15 Jun",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-12",
+      "event_text": "T18,Pilot,Stream health monitor,K. Raman,2026-06-12,2026-06-19,2026-06-12,2026-06-24,Done,Release v1.4 (deployed with scale)",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-12",
+      "event_text": "2026-06-12,308,95,,Manual gate register (security),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-13",
+      "event_text": "2026-06-13,303,90,,Manual gate register (security),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-14",
+      "event_text": "T16,Pilot,Retrain on site images (4200 frames),K. Raman,2026-06-01,2026-06-12,2026-06-01,2026-06-14,Done,Release v1.3 deployed 15 Jun",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-14",
+      "event_text": "2026-06-14,309,95,,Manual gate register (security),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-14",
+      "event_text": "PC/26-27/0077,2026-05-15,4500131902,Pilot: 40% on go-live,816000,146880,2026-06-14,2026-06-20,Paid",
+      "source": "Project_Drishti_Library/07_data/invoices_and_payments.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-15",
+      "event_text": "2026-06-15,328,95,,Manual gate register (security),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-15",
+      "event_text": "2026-06-15,packing,pilot,14,2352,3538,3265,5,35,3,4.2,v1.3",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-15",
+      "event_text": "2026-06-15,conveyor,pilot,10,1680,1489,1300,8,29,2,4.5,v1.3",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-15",
+      "event_text": "2026-06-15,kiln,pilot,8,1344,758,638,6,19,2,4.2,v1.3",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-15",
+      "event_text": "2026-06-15,raw_mill,pilot,8,1344,1202,1082,4,17,1,4.3,v1.3",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-15",
+      "event_text": "## v1.3 — 2026-06-15",
+      "source": "Project_Drishti_Library/08_github/CHANGELOG.md",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-15",
+      "event_text": "1c0d4e2 2026-06-15 Karthik Raman release v1.3: retrain on 4200 site frames",
+      "source": "Project_Drishti_Library/08_github/git_log.txt",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-16",
+      "event_text": "2026-06-16,327,90,,Manual gate register (security),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-17",
+      "event_text": "2026-06-17,286,100,,Manual gate register (security),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-18",
+      "event_text": "2026-06-18,330,90,,Manual gate register (security),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-19",
+      "event_text": "T18,Pilot,Stream health monitor,K. Raman,2026-06-12,2026-06-19,2026-06-12,2026-06-24,Done,Release v1.4 (deployed with scale)",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-19",
+      "event_text": "2026-06-19,280,100,,Manual gate register (security),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-20",
+      "event_text": "2026-06-20,319,95,,Manual gate register (security),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-20",
+      "event_text": "PC/26-27/0077,2026-05-15,4500131902,Pilot: 40% on go-live,816000,146880,2026-06-14,2026-06-20,Paid",
+      "source": "Project_Drishti_Library/07_data/invoices_and_payments.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-21",
+      "event_text": "2026-06-21,321,95,,Manual gate register (security),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-22",
+      "event_text": "2026-06-22,327,,,Manual gate register (security),Register page missing",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-22",
+      "event_text": "2026-06-22,packing,pilot,14,2352,4230,3976,4,32,3,3.9,v1.3",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-22",
+      "event_text": "2026-06-22,conveyor,pilot,10,1680,1489,1322,7,25,2,4.1,v1.3",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-22",
+      "event_text": "2026-06-22,kiln,pilot,8,1344,835,723,4,16,2,3.7,v1.3",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-22",
+      "event_text": "2026-06-22,raw_mill,pilot,8,1344,1047,954,3,13,1,3.9,v1.3",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-23",
+      "event_text": "2026-06-23,329,90,,Manual gate register (security),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-24",
+      "event_text": "T18,Pilot,Stream health monitor,K. Raman,2026-06-12,2026-06-19,2026-06-12,2026-06-24,Done,Release v1.4 (deployed with scale)",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-24",
+      "event_text": "2026-06-24,289,95,,Manual gate register (security),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-24",
+      "event_text": "9f13c55 2026-06-24 Karthik Raman health: frame-arrival check, separate from link status (INC-0611)",
+      "source": "Project_Drishti_Library/08_github/git_log.txt",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-25",
+      "event_text": "2026-06-25,334,100,,Manual gate register (security),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-26",
+      "event_text": "T19,Pilot,Steering committee,A. Malhotra,2026-06-26,2026-06-26,2026-06-26,2026-06-26,Done,",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-26",
+      "event_text": "2026-06-26,323,95,,Manual gate register (security),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-27",
+      "event_text": "2026-06-27,327,85,,Manual gate register (security),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-28",
+      "event_text": "2026-06-28,304,95,,Manual gate register (security),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-29",
+      "event_text": "2026-06-29,303,90,,Manual gate register (security),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-29",
+      "event_text": "2026-06-29,packing,pilot,14,2352,4058,3920,4,19,2,3.6,v1.3",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-29",
+      "event_text": "2026-06-29,conveyor,pilot,10,1680,1453,1326,6,20,2,3.4,v1.3",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-29",
+      "event_text": "2026-06-29,kiln,pilot,8,1344,882,761,4,17,2,3.6,v1.3",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-29",
+      "event_text": "2026-06-29,raw_mill,pilot,8,1344,1063,975,3,13,1,3.6,v1.3",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-06-30",
+      "event_text": "2026-06-30,338,95,,Manual gate register (security),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-01",
+      "event_text": "2026-07-01,282,,,Manual gate register (security),Register page missing",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-02",
+      "event_text": "2026-07-02,331,90,,Manual gate register (security),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-03",
+      "event_text": "T15,Pilot,Daily false-alarm sample review with EHS,M. Iyer / K. Raman,2026-05-12,2026-07-03,2026-05-12,2026-07-03,Done,",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-03",
+      "event_text": "T20,Pilot,Pilot acceptance,M. Iyer,2026-07-03,2026-07-03,2026-07-06,2026-07-06,Done,Accepted with conditions (K2/K3 remediation)",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-03",
+      "event_text": "2026-07-03,332,90,,Manual gate register (security),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-04",
+      "event_text": "2026-07-04,293,95,,Manual gate register (security),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-05",
+      "event_text": "2026-07-05,311,100,,Manual gate register (security),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-06",
+      "event_text": "T20,Pilot,Pilot acceptance,M. Iyer,2026-07-03,2026-07-03,2026-07-06,2026-07-06,Done,Accepted with conditions (K2/K3 remediation)",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-06",
+      "event_text": "T21,Scale,3rd edge server + cameras batch 1 (packing, conveyor),V. Anand,2026-07-06,2026-07-17,2026-07-06,2026-07-24,Done,\"Batch 1 slipped 1 week: PoE switch failure, client IT\"",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-06",
+      "event_text": "T26,Scale,Conveyor tail pulley physical guards (client),Ardent maintenance,2026-07-06,2026-07-31,2026-07-13,2026-08-12,Done,Remediation for K2 (client action)",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-06",
+      "event_text": "2026-07-06,320,,,Manual gate register (security),Register page missing",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-06",
+      "event_text": "PC/26-27/0131,2026-07-06,4500131902,\"Pilot: 60% on acceptance, less CR-02 credit\",1114000,200520,2026-08-05,2026-09-03,Paid late (GRN pending)",
+      "source": "Project_Drishti_Library/07_data/invoices_and_payments.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-06",
+      "event_text": "2026-07-06,packing,pilot,14,2352,4283,4055,3,28,2,3.2,v1.3",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-06",
+      "event_text": "2026-07-06,packing,scale,7,1176,2008,1445,5,67,6,5.0,v1.3",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-06",
+      "event_text": "2026-07-06,conveyor,pilot,10,1680,1632,1462,5,24,1,3.0,v1.3",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-06",
+      "event_text": "2026-07-06,kiln,pilot,8,1344,795,684,4,16,1,3.3,v1.3",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-06",
+      "event_text": "2026-07-06,raw_mill,pilot,8,1344,1120,1035,3,12,1,3.2,v1.3",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-07",
+      "event_text": "2026-07-07,324,95,,Manual gate register (security),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-08",
+      "event_text": "2026-07-08,288,95,,Manual gate register (security),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-09",
+      "event_text": "2026-07-09,282,95,,Manual gate register (security),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-10",
+      "event_text": "2026-07-10,310,95,,Manual gate register (security),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-11",
+      "event_text": "2026-07-11,333,95,,Manual gate register (security),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-12",
+      "event_text": "2026-07-12,333,90,,Manual gate register (security),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-13",
+      "event_text": "T26,Scale,Conveyor tail pulley physical guards (client),Ardent maintenance,2026-07-06,2026-07-31,2026-07-13,2026-08-12,Done,Remediation for K2 (client action)",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-13",
+      "event_text": "2026-07-13,322,,,Manual gate register (security),Register page missing",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-13",
+      "event_text": "2026-07-13,packing,pilot,14,2352,4058,3897,3,21,1,3.0,v1.3",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-13",
+      "event_text": "2026-07-13,packing,scale,13,2184,3615,2851,6,90,8,4.7,v1.3",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-13",
+      "event_text": "2026-07-13,conveyor,pilot,10,1680,1783,1622,5,23,1,3.0,v1.3",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-13",
+      "event_text": "2026-07-13,conveyor,scale,7,1176,1070,740,8,44,4,4.4,v1.3",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-13",
+      "event_text": "2026-07-13,kiln,pilot,8,1344,729,641,4,14,1,2.9,v1.3",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-13",
+      "event_text": "2026-07-13,raw_mill,pilot,8,1344,1231,1152,2,11,1,2.9,v1.3",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-14",
+      "event_text": "2026-07-14,325,95,,Manual gate register (security),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-15",
+      "event_text": "2026-07-15,301,,,Manual gate register (security),Register page missing",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-16",
+      "event_text": "2026-07-16,280,100,,Manual gate register (security),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-17",
+      "event_text": "T21,Scale,3rd edge server + cameras batch 1 (packing, conveyor),V. Anand,2026-07-06,2026-07-17,2026-07-06,2026-07-24,Done,\"Batch 1 slipped 1 week: PoE switch failure, client IT\"",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-17",
+      "event_text": "2026-07-17,290,80,,Manual gate register (security),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-18",
+      "event_text": "2026-07-18,280,90,,Manual gate register (security),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-19",
+      "event_text": "2026-07-19,292,90,,Manual gate register (security),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-20",
+      "event_text": "T22,Scale,Cameras batch 2 (kiln, raw mill, cement mill),V. Anand,2026-07-20,2026-07-31,2026-07-20,2026-08-07,Done,",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-20",
+      "event_text": "T23,Scale,ANPR cameras G1-G4 + weighbridge feed (CR-03),N. Sharma,2026-07-20,2026-08-01,2026-07-21,2026-08-03,Done,Gate analytics live 3 Aug",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-20",
+      "event_text": "2026-07-20,314,80,,Manual gate register (security),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-20",
+      "event_text": "PC/26-27/0158,2026-07-20,4500135510,Scale: 30% advance,2424000,436320,2026-08-19,2026-09-03,Paid late (GRN pending)",
+      "source": "Project_Drishti_Library/07_data/invoices_and_payments.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-20",
+      "event_text": "2026-07-20,packing,pilot,14,2352,3665,3540,3,17,1,2.6,v1.4",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-20",
+      "event_text": "2026-07-20,packing,scale,20,3360,5793,4880,8,108,8,3.8,v1.4",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-20",
+      "event_text": "2026-07-20,conveyor,pilot,10,1680,1616,1484,5,20,1,2.8,v1.4",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-20",
+      "event_text": "2026-07-20,conveyor,scale,13,2184,2302,1777,14,72,6,3.9,v1.4",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-20",
+      "event_text": "2026-07-20,kiln,pilot,8,1344,891,772,3,16,1,2.9,v1.4",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-20",
+      "event_text": "2026-07-20,kiln,scale,3,504,299,187,3,15,2,4.2,v1.4",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-20",
+      "event_text": "2026-07-20,raw_mill,pilot,8,1344,1018,951,2,9,1,2.7,v1.4",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-20",
+      "event_text": "2026-07-20,raw_mill,scale,5,840,758,544,4,28,2,4.3,v1.4",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-20",
+      "event_text": "## v1.4 — 2026-07-20",
+      "source": "Project_Drishti_Library/08_github/CHANGELOG.md",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-20",
+      "event_text": "4a2e7f9 2026-07-20 Karthik Raman release v1.4: stream health monitor",
+      "source": "Project_Drishti_Library/08_github/git_log.txt",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-21",
+      "event_text": "T23,Scale,ANPR cameras G1-G4 + weighbridge feed (CR-03),N. Sharma,2026-07-20,2026-08-01,2026-07-21,2026-08-03,Done,Gate analytics live 3 Aug",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-21",
+      "event_text": "2026-07-21,338,100,,Manual gate register (security),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-22",
+      "event_text": "2026-07-22,289,100,,Manual gate register (security),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-23",
+      "event_text": "2026-07-23,331,90,,Manual gate register (security),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-24",
+      "event_text": "T21,Scale,3rd edge server + cameras batch 1 (packing, conveyor),V. Anand,2026-07-06,2026-07-17,2026-07-06,2026-07-24,Done,\"Batch 1 slipped 1 week: PoE switch failure, client IT\"",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-24",
+      "event_text": "2026-07-24,326,90,,Manual gate register (security),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-25",
+      "event_text": "2026-07-25,316,90,,Manual gate register (security),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-26",
+      "event_text": "2026-07-26,303,90,,Manual gate register (security),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-27",
+      "event_text": "T25,Scale,Control room escalation: phone call if alert not acked in 5 min,S. Qureshi,2026-07-27,2026-07-31,2026-07-27,2026-08-04,Done,Remediation for K3",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-27",
+      "event_text": "2026-07-27,301,90,,Manual gate register (security),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-27",
+      "event_text": "2026-07-27,packing,pilot,14,2352,4072,3886,3,23,1,2.5,v1.4",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-27",
+      "event_text": "2026-07-27,packing,scale,20,3360,6259,5493,7,91,7,3.6,v1.4",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-27",
+      "event_text": "2026-07-27,conveyor,pilot,10,1680,1576,1429,5,21,1,2.5,v1.4",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-27",
+      "event_text": "2026-07-27,conveyor,scale,20,3360,3232,2596,18,88,7,3.5,v1.4",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-27",
+      "event_text": "2026-07-27,kiln,pilot,8,1344,771,672,3,14,1,2.6,v1.4",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-27",
+      "event_text": "2026-07-27,kiln,scale,7,1176,767,534,6,32,4,3.6,v1.4",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-27",
+      "event_text": "2026-07-27,raw_mill,pilot,8,1344,1034,949,2,11,1,2.6,v1.4",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-27",
+      "event_text": "2026-07-27,raw_mill,scale,9,1512,1351,1047,5,38,3,3.7,v1.4",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-27",
+      "event_text": "2026-07-27,cement_mill,scale,7,1176,1089,714,6,47,4,3.5,v1.4",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-27",
+      "event_text": "b51a0d8 2026-07-27 Karthik Raman report: add camera_cohort column (pilot/scale) to weekly export after QBR prep question",
+      "source": "Project_Drishti_Library/08_github/git_log.txt",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-28",
+      "event_text": "2026-07-28,320,,,Manual gate register (security),Register page missing",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-29",
+      "event_text": "2026-07-29,292,95,,Manual gate register (security),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-30",
+      "event_text": "2026-07-30,289,85,,Manual gate register (security),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-31",
+      "event_text": "T22,Scale,Cameras batch 2 (kiln, raw mill, cement mill),V. Anand,2026-07-20,2026-07-31,2026-07-20,2026-08-07,Done,",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-31",
+      "event_text": "T25,Scale,Control room escalation: phone call if alert not acked in 5 min,S. Qureshi,2026-07-27,2026-07-31,2026-07-27,2026-08-04,Done,Remediation for K3",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-31",
+      "event_text": "T26,Scale,Conveyor tail pulley physical guards (client),Ardent maintenance,2026-07-06,2026-07-31,2026-07-13,2026-08-12,Done,Remediation for K2 (client action)",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-07-31",
+      "event_text": "2026-07-31,303,100,,Manual gate register (security),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-01",
+      "event_text": "T23,Scale,ANPR cameras G1-G4 + weighbridge feed (CR-03),N. Sharma,2026-07-20,2026-08-01,2026-07-21,2026-08-03,Done,Gate analytics live 3 Aug",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-01",
+      "event_text": "2026-08-01,295,90,,Manual gate register (security),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-02",
+      "event_text": "2026-08-02,305,95,,Manual gate register (security),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-03",
+      "event_text": "T23,Scale,ANPR cameras G1-G4 + weighbridge feed (CR-03),N. Sharma,2026-07-20,2026-08-01,2026-07-21,2026-08-03,Done,Gate analytics live 3 Aug",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-03",
+      "event_text": "T24,Scale,Cameras batch 3 (gate yard, stores),V. Anand,2026-08-03,2026-08-14,2026-08-03,2026-08-21,Done,",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-03",
+      "event_text": "2026-08-03,292,99.7,165.5,ViewOS gate analytics (ANPR in/out),ViewOS gate analytics live",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-03",
+      "event_text": "2026-08-03,packing,pilot,14,2352,4126,3973,3,20,1,2.5,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-03",
+      "event_text": "2026-08-03,packing,scale,20,3360,6113,5486,5,74,6,3.4,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-03",
+      "event_text": "2026-08-03,conveyor,pilot,10,1680,1656,1519,4,19,1,2.4,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-03",
+      "event_text": "2026-08-03,conveyor,scale,20,3360,3370,2790,13,77,6,3.3,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-03",
+      "event_text": "2026-08-03,kiln,pilot,8,1344,883,778,3,15,1,2.4,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-03",
+      "event_text": "2026-08-03,kiln,scale,10,1680,1015,758,7,35,4,3.3,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-03",
+      "event_text": "2026-08-03,raw_mill,pilot,8,1344,1259,1168,2,12,1,2.4,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-03",
+      "event_text": "2026-08-03,raw_mill,scale,14,2352,1856,1534,6,41,3,3.2,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-03",
+      "event_text": "2026-08-03,cement_mill,scale,13,2184,1973,1469,9,64,5,3.5,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-03",
+      "event_text": "2026-08-03,gate_yard,scale,4,672,1174,689,2,55,4,3.2,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-03",
+      "event_text": "## v2.0 — 2026-08-03",
+      "source": "Project_Drishti_Library/08_github/CHANGELOG.md",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-03",
+      "event_text": "0e9b7c3 2026-08-03 Neha Sharma release v2.0: plant-wide + gate TAT (CR-03)",
+      "source": "Project_Drishti_Library/08_github/git_log.txt",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-04",
+      "event_text": "T25,Scale,Control room escalation: phone call if alert not acked in 5 min,S. Qureshi,2026-07-27,2026-07-31,2026-07-27,2026-08-04,Done,Remediation for K3",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-04",
+      "event_text": "2026-08-04,287,89.5,150.4,ViewOS gate analytics (ANPR in/out),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-04",
+      "event_text": "8c3f2d1 2026-08-04 Sana Qureshi alerts: enable control-room escalation after 5 min no-ack",
+      "source": "Project_Drishti_Library/08_github/git_log.txt",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-05",
+      "event_text": "2026-08-05,292,96.4,159.7,ViewOS gate analytics (ANPR in/out),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-05",
+      "event_text": "PC/26-27/0131,2026-07-06,4500131902,\"Pilot: 60% on acceptance, less CR-02 credit\",1114000,200520,2026-08-05,2026-09-03,Paid late (GRN pending)",
+      "source": "Project_Drishti_Library/07_data/invoices_and_payments.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-06",
+      "event_text": "2026-08-06,296,87.2,143.2,ViewOS gate analytics (ANPR in/out),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-07",
+      "event_text": "T22,Scale,Cameras batch 2 (kiln, raw mill, cement mill),V. Anand,2026-07-20,2026-07-31,2026-07-20,2026-08-07,Done,",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-07",
+      "event_text": "2026-08-07,314,84.9,141.3,ViewOS gate analytics (ANPR in/out),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-08",
+      "event_text": "2026-08-08,287,87.1,144.9,ViewOS gate analytics (ANPR in/out),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-09",
+      "event_text": "2026-08-09,334,78.2,127.6,ViewOS gate analytics (ANPR in/out),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-10",
+      "event_text": "2026-08-10,284,88.8,146.6,ViewOS gate analytics (ANPR in/out),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-10",
+      "event_text": "2026-08-10,packing,pilot,14,2352,3624,3443,3,23,1,2.3,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-10",
+      "event_text": "2026-08-10,packing,scale,20,3360,5142,4629,5,61,4,2.9,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-10",
+      "event_text": "2026-08-10,conveyor,pilot,10,1680,1768,1613,3,20,1,2.3,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-10",
+      "event_text": "2026-08-10,conveyor,scale,20,3360,2909,2469,11,59,4,3.2,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-10",
+      "event_text": "2026-08-10,kiln,pilot,8,1344,861,767,3,13,1,2.3,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-10",
+      "event_text": "2026-08-10,kiln,scale,10,1680,1051,835,7,31,3,3.0,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-10",
+      "event_text": "2026-08-10,raw_mill,pilot,8,1344,1255,1176,2,11,1,2.2,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-10",
+      "event_text": "2026-08-10,raw_mill,scale,14,2352,2216,1888,6,42,3,3.1,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-10",
+      "event_text": "2026-08-10,cement_mill,scale,20,3360,2593,2059,13,72,5,3.0,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-10",
+      "event_text": "2026-08-10,gate_yard,scale,8,1344,2406,1587,3,93,6,3.0,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-11",
+      "event_text": "2026-08-11,312,85.7,145.1,ViewOS gate analytics (ANPR in/out),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-12",
+      "event_text": "T26,Scale,Conveyor tail pulley physical guards (client),Ardent maintenance,2026-07-06,2026-07-31,2026-07-13,2026-08-12,Done,Remediation for K2 (client action)",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-12",
+      "event_text": "2026-08-12,328,94.0,163.8,ViewOS gate analytics (ANPR in/out),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-12",
+      "event_text": "5d6e9aa 2026-08-12 Neha Sharma zones: tail-pulley pre-zone 2m (K2 remediation)",
+      "source": "Project_Drishti_Library/08_github/git_log.txt",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-13",
+      "event_text": "2026-08-13,312,86.0,135.1,ViewOS gate analytics (ANPR in/out),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-14",
+      "event_text": "T24,Scale,Cameras batch 3 (gate yard, stores),V. Anand,2026-08-03,2026-08-14,2026-08-03,2026-08-21,Done,",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-14",
+      "event_text": "2026-08-14,333,85.8,149.6,ViewOS gate analytics (ANPR in/out),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-14",
+      "event_text": "2f1b6c4 2026-08-14 Karthik Raman detector: lower gate-yard helmet threshold 0.45->0.40 (transporter drivers, low-res G cams)",
+      "source": "Project_Drishti_Library/08_github/git_log.txt",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-15",
+      "event_text": "2026-08-15,292,82.8,137.7,ViewOS gate analytics (ANPR in/out),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-16",
+      "event_text": "2026-08-16,329,91.6,153.3,ViewOS gate analytics (ANPR in/out),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-17",
+      "event_text": "2026-08-17,305,90.4,144.4,ViewOS gate analytics (ANPR in/out),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-17",
+      "event_text": "2026-08-17,packing,pilot,14,2352,4176,4015,3,21,1,2.2,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-17",
+      "event_text": "2026-08-17,packing,scale,20,3360,5565,5126,4,52,3,3.0,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-17",
+      "event_text": "2026-08-17,conveyor,pilot,10,1680,1625,1476,3,19,1,2.4,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-17",
+      "event_text": "2026-08-17,conveyor,scale,20,3360,2943,2555,11,54,4,2.9,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-17",
+      "event_text": "2026-08-17,kiln,pilot,8,1344,812,723,2,12,1,2.1,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-17",
+      "event_text": "2026-08-17,kiln,scale,10,1680,1071,856,6,30,3,2.8,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-17",
+      "event_text": "2026-08-17,raw_mill,pilot,8,1344,1086,1027,2,8,0,2.3,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-17",
+      "event_text": "2026-08-17,raw_mill,scale,14,2352,2099,1818,6,37,2,2.9,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-17",
+      "event_text": "2026-08-17,cement_mill,scale,20,3360,2711,2238,8,60,4,2.9,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-17",
+      "event_text": "2026-08-17,gate_yard,scale,12,2016,3554,2557,5,115,7,2.8,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-17",
+      "event_text": "2026-08-17,stores,scale,3,504,364,270,1,11,1,2.9,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-18",
+      "event_text": "2026-08-18,303,85.8,149.4,ViewOS gate analytics (ANPR in/out),Weighbridge 2 commissioned (client capex)",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-19",
+      "event_text": "2026-08-19,309,80.8,130.1,ViewOS gate analytics (ANPR in/out),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-19",
+      "event_text": "PC/26-27/0158,2026-07-20,4500135510,Scale: 30% advance,2424000,436320,2026-08-19,2026-09-03,Paid late (GRN pending)",
+      "source": "Project_Drishti_Library/07_data/invoices_and_payments.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-20",
+      "event_text": "2026-08-20,325,85.5,134.0,ViewOS gate analytics (ANPR in/out),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-21",
+      "event_text": "T24,Scale,Cameras batch 3 (gate yard, stores),V. Anand,2026-08-03,2026-08-14,2026-08-03,2026-08-21,Done,",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-21",
+      "event_text": "2026-08-21,335,86.4,137.4,ViewOS gate analytics (ANPR in/out),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-22",
+      "event_text": "2026-08-22,287,86.9,137.6,ViewOS gate analytics (ANPR in/out),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-23",
+      "event_text": "2026-08-23,327,74.5,128.0,ViewOS gate analytics (ANPR in/out),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-24",
+      "event_text": "2026-08-24,331,79.6,136.5,ViewOS gate analytics (ANPR in/out),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-24",
+      "event_text": "2026-08-24,packing,pilot,14,2352,4442,4285,2,19,1,2.3,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-24",
+      "event_text": "2026-08-24,packing,scale,20,3360,5561,5136,4,51,3,2.6,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-24",
+      "event_text": "2026-08-24,conveyor,pilot,10,1680,1708,1555,3,20,1,2.2,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-24",
+      "event_text": "2026-08-24,conveyor,scale,20,3360,3447,3001,10,59,4,2.8,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-24",
+      "event_text": "2026-08-24,kiln,pilot,8,1344,833,729,2,13,1,2.2,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-24",
+      "event_text": "2026-08-24,kiln,scale,10,1680,918,742,4,23,2,2.7,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-24",
+      "event_text": "2026-08-24,raw_mill,pilot,8,1344,1042,970,2,10,1,2.3,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-24",
+      "event_text": "2026-08-24,raw_mill,scale,14,2352,1844,1603,4,31,2,2.7,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-24",
+      "event_text": "2026-08-24,cement_mill,scale,20,3360,2676,2282,8,51,3,2.6,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-24",
+      "event_text": "2026-08-24,gate_yard,scale,12,2016,4247,3189,4,120,8,2.7,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-24",
+      "event_text": "2026-08-24,stores,scale,7,1176,883,722,2,20,1,2.5,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-25",
+      "event_text": "2026-08-25,287,62.2,99.4,ViewOS gate analytics (ANPR in/out),Logistics starts dispatch slots using ViewOS queue alerts",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-25",
+      "event_text": "a77e015 2026-08-25 Neha Sharma gate: dispatch slot export (CSV) for logistics, requested by Bhadrapur logistics",
+      "source": "Project_Drishti_Library/08_github/git_log.txt",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-26",
+      "event_text": "2026-08-26,312,68.1,115.4,ViewOS gate analytics (ANPR in/out),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-27",
+      "event_text": "2026-08-27,282,58.1,99.5,ViewOS gate analytics (ANPR in/out),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-28",
+      "event_text": "T27,Scale,All 146 cameras live,V. Anand,2026-08-28,2026-08-28,2026-08-31,2026-08-31,Done,",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-28",
+      "event_text": "2026-08-28,302,73.6,125.9,ViewOS gate analytics (ANPR in/out),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-29",
+      "event_text": "2026-08-29,287,72.3,112.6,ViewOS gate analytics (ANPR in/out),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-30",
+      "event_text": "2026-08-30,338,67.4,107.1,ViewOS gate analytics (ANPR in/out),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-31",
+      "event_text": "T27,Scale,All 146 cameras live,V. Anand,2026-08-28,2026-08-28,2026-08-31,2026-08-31,Done,",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-31",
+      "event_text": "2026-08-31,308,65.9,102.4,ViewOS gate analytics (ANPR in/out),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-31",
+      "event_text": "2026-08-31,packing,pilot,14,2352,4087,3956,2,16,1,2.2,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-31",
+      "event_text": "2026-08-31,packing,scale,20,3360,5859,5400,3,53,3,2.4,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-31",
+      "event_text": "2026-08-31,conveyor,pilot,10,1680,1704,1585,3,16,1,2.1,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-31",
+      "event_text": "2026-08-31,conveyor,scale,20,3360,2920,2566,8,47,3,2.6,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-31",
+      "event_text": "2026-08-31,kiln,pilot,8,1344,819,722,2,13,1,2.1,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-31",
+      "event_text": "2026-08-31,kiln,scale,10,1680,946,783,5,23,2,2.6,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-31",
+      "event_text": "2026-08-31,raw_mill,pilot,8,1344,1119,1054,1,8,1,2.2,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-31",
+      "event_text": "2026-08-31,raw_mill,scale,14,2352,1919,1689,3,28,2,2.5,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-31",
+      "event_text": "2026-08-31,cement_mill,scale,20,3360,3012,2568,7,56,3,2.6,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-31",
+      "event_text": "2026-08-31,gate_yard,scale,12,2016,4230,3305,3,105,6,2.6,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-31",
+      "event_text": "2026-08-31,stores,scale,10,1680,1169,977,2,23,1,2.4,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-08-31",
+      "event_text": "c9d8e30 2026-08-31 Vivek Anand configs: stores ST-01..ST-10 live; 146/146 cameras",
+      "source": "Project_Drishti_Library/08_github/git_log.txt",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-01",
+      "event_text": "2026-09-01,317,59.6,98.2,ViewOS gate analytics (ANPR in/out),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-02",
+      "event_text": "2026-09-02,284,69.9,119.5,ViewOS gate analytics (ANPR in/out),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-03",
+      "event_text": "2026-09-03,291,73.1,126.1,ViewOS gate analytics (ANPR in/out),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-03",
+      "event_text": "PC/26-27/0131,2026-07-06,4500131902,\"Pilot: 60% on acceptance, less CR-02 credit\",1114000,200520,2026-08-05,2026-09-03,Paid late (GRN pending)",
+      "source": "Project_Drishti_Library/07_data/invoices_and_payments.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-03",
+      "event_text": "PC/26-27/0158,2026-07-20,4500135510,Scale: 30% advance,2424000,436320,2026-08-19,2026-09-03,Paid late (GRN pending)",
+      "source": "Project_Drishti_Library/07_data/invoices_and_payments.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-04",
+      "event_text": "2026-09-04,322,75.4,122.6,ViewOS gate analytics (ANPR in/out),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-05",
+      "event_text": "2026-09-05,289,64.1,112.1,ViewOS gate analytics (ANPR in/out),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-06",
+      "event_text": "2026-09-06,328,65.2,111.6,ViewOS gate analytics (ANPR in/out),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-07",
+      "event_text": "2026-09-07,340,66.1,115.6,ViewOS gate analytics (ANPR in/out),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-07",
+      "event_text": "2026-09-07,packing,pilot,14,2352,3780,3645,2,17,1,2.1,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-07",
+      "event_text": "2026-09-07,packing,scale,20,3360,6190,5753,3,51,3,2.3,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-07",
+      "event_text": "2026-09-07,conveyor,pilot,10,1680,1468,1360,3,15,1,2.2,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-07",
+      "event_text": "2026-09-07,conveyor,scale,20,3360,3640,3209,8,55,3,2.4,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-07",
+      "event_text": "2026-09-07,kiln,pilot,8,1344,736,646,2,12,1,2.1,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-07",
+      "event_text": "2026-09-07,kiln,scale,10,1680,1018,851,4,22,2,2.5,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-07",
+      "event_text": "2026-09-07,raw_mill,pilot,8,1344,1240,1154,2,11,1,2.0,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-07",
+      "event_text": "2026-09-07,raw_mill,scale,14,2352,1807,1598,4,27,2,2.4,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-07",
+      "event_text": "2026-09-07,cement_mill,scale,20,3360,2639,2269,7,48,3,2.3,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-07",
+      "event_text": "2026-09-07,gate_yard,scale,12,2016,3857,3069,3,90,5,2.3,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-07",
+      "event_text": "2026-09-07,stores,scale,10,1680,1084,939,2,18,1,2.4,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-08",
+      "event_text": "2026-09-08,311,67.3,111.1,ViewOS gate analytics (ANPR in/out),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-09",
+      "event_text": "2026-09-09,335,75.4,118.0,ViewOS gate analytics (ANPR in/out),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-10",
+      "event_text": "2026-09-10,319,68.7,117.7,ViewOS gate analytics (ANPR in/out),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-11",
+      "event_text": "2026-09-11,323,81.0,104.6,ViewOS gate analytics (ANPR in/out),\"Weighbridge 1 calibration, 6 h downtime\"",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-11",
+      "event_text": "7b02f11 2026-09-11 Vivek Anand configs: CM3-01..CM3-06 zone polygons after cement mill 3 layout change",
+      "source": "Project_Drishti_Library/08_github/git_log.txt",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-12",
+      "event_text": "T28,Scale,Go-live sign-off plant-wide,S. Qureshi,2026-09-12,2026-09-12,2026-09-12,2026-09-12,Done,",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-12",
+      "event_text": "T30,Scale,60-day stabilisation,S. Qureshi,2026-09-12,2026-11-11,2026-09-12,,In progress,",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-12",
+      "event_text": "2026-09-12,324,61.9,106.4,ViewOS gate analytics (ANPR in/out),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-13",
+      "event_text": "2026-09-13,305,68.5,113.3,ViewOS gate analytics (ANPR in/out),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-14",
+      "event_text": "2026-09-14,303,78.2,126.4,ViewOS gate analytics (ANPR in/out),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-14",
+      "event_text": "2026-09-14,packing,pilot,14,2352,3922,3789,2,17,1,2.1,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-14",
+      "event_text": "2026-09-14,packing,scale,20,3360,5317,4915,3,47,2,2.3,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-14",
+      "event_text": "2026-09-14,conveyor,pilot,10,1680,1749,1627,3,16,1,2.1,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-14",
+      "event_text": "2026-09-14,conveyor,scale,20,3360,3320,2971,7,45,3,2.2,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-14",
+      "event_text": "2026-09-14,kiln,pilot,8,1344,883,779,2,13,1,2.1,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-14",
+      "event_text": "2026-09-14,kiln,scale,10,1680,1083,895,3,24,2,2.2,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-14",
+      "event_text": "2026-09-14,raw_mill,pilot,8,1344,1061,987,2,10,1,1.9,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-14",
+      "event_text": "2026-09-14,raw_mill,scale,14,2352,2240,2004,4,30,2,2.3,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-14",
+      "event_text": "2026-09-14,cement_mill,scale,20,3360,2681,2325,6,45,2,2.3,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-14",
+      "event_text": "2026-09-14,gate_yard,scale,12,2016,4182,3366,2,92,6,2.4,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-14",
+      "event_text": "2026-09-14,stores,scale,10,1680,1363,1206,2,19,1,2.2,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-15",
+      "event_text": "2026-09-15,293,66.1,110.7,ViewOS gate analytics (ANPR in/out),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-15",
+      "event_text": "PC/26-27/0219,2026-09-15,4500135510,Scale: 60% on go-live of 146 cameras,4848000,872640,2026-10-15,,Open",
+      "source": "Project_Drishti_Library/07_data/invoices_and_payments.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-16",
+      "event_text": "2026-09-16,293,69.2,109.6,ViewOS gate analytics (ANPR in/out),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-16",
+      "event_text": "e41c9a2 2026-09-16 Karthik Raman gate: exclude weighbridge calibration window 11-Sep from TAT averages",
+      "source": "Project_Drishti_Library/08_github/git_log.txt",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-17",
+      "event_text": "2026-09-17,303,66.4,109.1,ViewOS gate analytics (ANPR in/out),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-18",
+      "event_text": "T29,Scale,QBR,A. Malhotra,2026-09-18,2026-09-18,2026-09-18,2026-09-18,Done,",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-18",
+      "event_text": "2026-09-18,339,63.0,102.1,ViewOS gate analytics (ANPR in/out),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-19",
+      "event_text": "2026-09-19,280,64.4,102.7,ViewOS gate analytics (ANPR in/out),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-20",
+      "event_text": "2026-09-20,295,71.4,117.2,ViewOS gate analytics (ANPR in/out),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-21",
+      "event_text": "2026-09-21,318,69.4,116.9,ViewOS gate analytics (ANPR in/out),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-21",
+      "event_text": "2026-09-21,packing,pilot,14,2352,4014,3849,2,20,1,2.1,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-21",
+      "event_text": "2026-09-21,packing,scale,20,3360,5881,5497,3,45,3,2.1,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-21",
+      "event_text": "2026-09-21,conveyor,pilot,10,1680,1795,1683,3,15,1,2.0,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-21",
+      "event_text": "2026-09-21,conveyor,scale,20,3360,3028,2657,6,47,3,2.3,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-21",
+      "event_text": "2026-09-21,kiln,pilot,8,1344,868,767,2,13,1,1.9,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-21",
+      "event_text": "2026-09-21,kiln,scale,10,1680,1131,942,3,24,2,2.1,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-21",
+      "event_text": "2026-09-21,raw_mill,pilot,8,1344,1057,1008,1,6,0,2.0,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-21",
+      "event_text": "2026-09-21,raw_mill,scale,14,2352,1832,1642,3,24,2,2.2,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-21",
+      "event_text": "2026-09-21,cement_mill,scale,20,3360,2615,2292,5,41,2,2.2,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-21",
+      "event_text": "2026-09-21,gate_yard,scale,12,2016,4381,3454,2,104,6,2.2,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-21",
+      "event_text": "2026-09-21,stores,scale,10,1680,1184,1079,1,13,1,2.2,v2.0",
+      "source": "Project_Drishti_Library/07_data/viewos_weekly_zone_metrics.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-22",
+      "event_text": "2026-09-22,297,67.7,110.1,ViewOS gate analytics (ANPR in/out),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-23",
+      "event_text": "2026-09-23,284,63.5,105.7,ViewOS gate analytics (ANPR in/out),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-24",
+      "event_text": "2026-09-24,313,67.0,111.7,ViewOS gate analytics (ANPR in/out),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-25",
+      "event_text": "2026-09-25,288,68.2,113.4,ViewOS gate analytics (ANPR in/out),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-26",
+      "event_text": "2026-09-26,329,66.9,105.0,ViewOS gate analytics (ANPR in/out),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-27",
+      "event_text": "2026-09-27,292,68.0,114.0,ViewOS gate analytics (ANPR in/out),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-28",
+      "event_text": "2026-09-28,303,60.7,103.7,ViewOS gate analytics (ANPR in/out),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-29",
+      "event_text": "2026-09-29,330,69.6,120.9,ViewOS gate analytics (ANPR in/out),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-09-30",
+      "event_text": "2026-09-30,323,58.2,91.0,ViewOS gate analytics (ANPR in/out),",
+      "source": "Project_Drishti_Library/07_data/gate_truck_turnaround_daily.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-10-15",
+      "event_text": "PC/26-27/0219,2026-09-15,4500135510,Scale: 60% on go-live of 146 cameras,4848000,872640,2026-10-15,,Open",
+      "source": "Project_Drishti_Library/07_data/invoices_and_payments.csv",
+      "basis": "date explicitly present in source line"
+    },
+    {
+      "date": "2026-11-11",
+      "event_text": "T30,Scale,60-day stabilisation,S. Qureshi,2026-09-12,2026-11-11,2026-09-12,,In progress,",
+      "source": "Project_Drishti_Library/04_delivery/project_tracker.csv",
+      "basis": "date explicitly present in source line"
+    }
+  ]
+}

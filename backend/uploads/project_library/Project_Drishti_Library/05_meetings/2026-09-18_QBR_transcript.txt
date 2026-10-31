@@ -1,0 +1,50 @@
+FICTIONAL HACKATHON MATERIAL. All names, numbers and events are invented.
+
+Transcript — "Drishti quarterly business review" — Bhadrapur conference room
+Friday 18 Sep 2026, 14:30–15:50 IST
+Present: Rajiv Bhandari, Meenakshi Iyer, Sunil Kedia, Farhan Siddiqui, Lokesh Jain (Procurement),
+Aarav Malhotra, Neha Sharma, Sana Qureshi — PredCo
+
+[00:00:40] Sana Qureshi: All 146 cameras live since 31 August, gate analytics since 3 August. I'll start with the hard part. If you look at the all-camera PPE line on the dashboard, it dropped from 93.6% at the end of the pilot to about 86% in August.
+
+[00:01:05] Rajiv Bhandari: I saw that. Corporate saw that too. Explain.
+
+[00:01:10] Sana Qureshi: It's the new cameras, sir. Each new area starts where the pilot areas started in May. If you look only at the 40 pilot cameras, they're at 94% in September. The new 106 cameras are at 87% and rising. All cameras together, last four weeks, 89.2%.
+
+[00:01:40] Meenakshi Iyer: That's right. Gate yard is the weakest. Drivers and cleaners from transporters, not our people. They don't even own helmets.
+
+[00:02:30] Sana Qureshi: Restricted zone: pilot cameras now 1.26 per thousand camera-hours, against 5.58 at the start of the pilot. That's minus 77%, after the tail-pulley guards went in on 12 August. Acknowledgement: 2.2 to 2.5 minutes since the control-room phone rule. Both conditions from July are now met.
+
+[00:03:10] Sunil Kedia: Gate. My numbers from SAP: detention paid — June 11.8 lakh, July 12.4, August 8.1, September till yesterday 2.6, so it will land near 3.9.
+
+[00:03:32] Rajiv Bhandari: So we save eight lakh a month. Wonderful.
+
+[00:03:36] Sunil Kedia: Careful, sir. Weighbridge two came on 18 August. That alone takes queue time off. The gate dashboard went live 3 August, but turnaround only really dropped after logistics started dispatch slots on 25 August, using the queue alerts.
+
+[00:03:58] Neha Sharma: Our own data shows the same: average turnaround was about 88 minutes in the first two weeks of gate analytics, 83 after the weighbridge, and 67 to 68 since the dispatch slots. The June–July manual register said 93 or 94, but it's handwritten and rounded to five minutes, and some days are missing.
+
+[00:04:30] Sunil Kedia: So how much is yours?
+
+[00:04:33] Neha Sharma: Honestly, we can't split it cleanly. The slots are a logistics decision; our queue view made it possible. I'd say the weighbridge explains roughly the first 5 to 6 minutes and the slot system the next 15 or so.
+
+[00:04:52] Sunil Kedia: Good. That's an answer I can defend.
+
+[00:06:10] Meenakshi Iyer: Audit news. Corporate did the pre-assessment on 9 and 10 September. Bhadrapur is provisionally B+. Last year C. The assessor's note specifically mentions "continuous monitoring with evidence-based closure". The final audit is 27 October.
+
+[00:06:32] Rajiv Bhandari: (laughs) Meenakshi will present Drishti at the group EHS council in November. Other units are already asking.
+
+[00:06:45] Meenakshi Iyer: No LTI since February, also. But I won't claim that as the system. Five months is five months.
+
+[00:07:20] Aarav Malhotra: On that — we'd love to turn this into a case study. Anonymised. It would help us with other cement companies.
+
+[00:07:31] Rajiv Bhandari: (pause) Other cement companies. Our competitor's plant is forty kilometres from here. I don't want them reading how we fixed our safety.
+
+[00:07:44] Meenakshi Iyer: Sir, if it's anonymised properly, it helps us too. The council presentation will be internal, but people talk anyway.
+
+[00:07:55] Rajiv Bhandari: Then no plant name, no state, no capacity, no photos of our people. And it goes through Pooja in Legal and Corporate Comms, not just me. Last time a vendor put our logo on their website without asking, I had to answer to the MD.
+
+[00:08:20] Aarav Malhotra: Of course. We'll send a draft for review.
+
+[00:08:26] Lokesh Jain: Also — the July and August invoices were late because GRN wasn't done. That's fixed. The 60% go-live invoice will be on time.
+
+[01:19:50] Rajiv Bhandari: Good quarter. Thank you, team.

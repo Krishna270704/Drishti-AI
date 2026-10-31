@@ -1,0 +1,6 @@
+invoice,date,po,milestone,amount_inr,gst_inr,due,paid_on,status
+PC/26-27/0041,2026-04-30,4500128773,PoC completion (100%),650000,117000,2026-05-30,2026-06-04,Paid
+PC/26-27/0077,2026-05-15,4500131902,Pilot: 40% on go-live,816000,146880,2026-06-14,2026-06-20,Paid
+PC/26-27/0131,2026-07-06,4500131902,"Pilot: 60% on acceptance, less CR-02 credit",1114000,200520,2026-08-05,2026-09-03,Paid late (GRN pending)
+PC/26-27/0158,2026-07-20,4500135510,Scale: 30% advance,2424000,436320,2026-08-19,2026-09-03,Paid late (GRN pending)
+PC/26-27/0219,2026-09-15,4500135510,Scale: 60% on go-live of 146 cameras,4848000,872640,2026-10-15,,Open

@@ -1,0 +1,49 @@
+FICTIONAL HACKATHON MATERIAL. All names, numbers and events are invented.
+
+Transcript — "Drishti PoC review" — Bhadrapur conference room + Teams
+Friday 17 Apr 2026, 15:00–16:10 IST
+Present: Rajiv Bhandari (Unit Head), Meenakshi Iyer (Head EHS, joined 7 Apr), Farhan Siddiqui (IT & OT), Dinesh Patel (Shift in-charge, Packing),
+Aarav Malhotra, Neha Sharma, Karthik Raman (ML Lead) — PredCo
+(Arvind Rao left Ardent on 31 Mar.)
+
+[00:00:20] Rajiv Bhandari: Meenakshi joined us ten days ago from our Jharsa unit. Arvind started this; she will decide if it continues. Go ahead.
+
+[00:00:41] Neha Sharma: Thank you. Short version. Twelve cameras, five weeks of data. In the first two weeks, 61% of people we saw were wearing both helmet and vest. In week five it was 78%. Tail-pulley zone: 47 entries in week one, 19 in week five.
+
+[00:01:25] Meenakshi Iyer: Sixty-one? Our walk score last quarter was seventy-four.
+
+[00:01:31] Neha Sharma: Yes. We said in February the camera number would start lower. The walks are announced and short. Cameras see the night shift and the lunch break.
+
+[00:01:52] Meenakshi Iyer: Fine, I believe that. What I don't believe yet is the alerts. I sat in the control room on Tuesday. In one hour the screen showed eleven alerts. Four were cement sacks.
+
+[00:02:14] Karthik Raman: That's correct. False alarms in the PoC were 23%. Two causes: reflective strips on the sack pallets read as vests, and dust at the packer spouts hides helmets. We have about 1,100 site frames labelled now; we need more for a retrain.
+
+[00:02:40] Meenakshi Iyer: Twenty-three percent is how a system dies. In my last plant we had a gas detection system with false alarms. In three months the operators taped over the buzzer. I will not put my name on a toy.
+
+[00:03:05] Aarav Malhotra: Understood. What would you need to see?
+
+[00:03:10] Meenakshi Iyer: Under ten percent false, every week, checked by my team, not yours. And the alert must go to the in-charge of that area, not to a control room guard who calls me.
+
+[00:03:31] Dinesh Patel: Can I say something? On my shift the snapshot helped. Two contract gang leaders argued with me that their boys were wearing helmets. I showed the photo. After that, no argument.
+
+[00:03:52] Meenakshi Iyer: That's good. That's the point. Not punishment, proof.
+
+[00:05:40] Rajiv Bhandari: Money. Pilot is eighteen lakh, full plant seventy-four. Before I take seventy-four lakh to corporate, I need to show something that matters in October. What do I tell them?
+
+[00:06:02] Neha Sharma: The measures in the BRD: compliance over 90% on camera, restricted-zone entries halved, alerts closed in three minutes. These are leading indicators. The LTI number is what you are judged on, but at one injury every few months, eight weeks of data can't prove anything about it.
+
+[00:06:30] Rajiv Bhandari: Corporate doesn't care about leading indicators.
+
+[00:06:35] Meenakshi Iyer: The audit does. Half the audit score is about systems and response. If I can show every violation is seen and closed with evidence, that is worth more than one lucky quarter with zero accidents.
+
+[00:07:10] Meenakshi Iyer: One more thing. Kiln platform. The February burn was at the kiln inlet, no face shield. I want the kiln in the pilot instead of whatever "area to be confirmed" was.
+
+[00:07:24] Neha Sharma: Face shield is a new class. Heat shimmer will be harder. We'll raise a change request.
+
+[00:07:40] Farhan Siddiqui: For the retrain — images stay on site. You blur faces before anything leaves the server room. Actually nothing leaves. Train on site.
+
+[00:07:52] Karthik Raman: Agreed. We'll bring a training box on site.
+
+[00:58:30] Rajiv Bhandari: Okay. Pilot approved, with kiln. Meenakshi owns it. Aarav, I want the gate problem on paper by June.
+
+[00:58:44] Meenakshi Iyer: And I want the false alarm number from my sample, every Monday.

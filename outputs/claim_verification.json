@@ -1,0 +1,54 @@
+{
+  "claims": [
+    {
+      "claim": "PPE compliance reached 91.1% in the final pilot period.",
+      "status": "SUPPORTED",
+      "source": "Project_Drishti_Library/04_delivery/pilot_acceptance_certificate_2026-07-06.md",
+      "reason": "Matches the signed acceptance certificate.",
+      "confidence": "high"
+    },
+    {
+      "claim": "Restricted-zone breach rate fell by approximately 46.24%.",
+      "status": "SUPPORTED",
+      "source": "Project_Drishti_Library/04_delivery/pilot_acceptance_certificate_2026-07-06.md",
+      "reason": "Recalculated from 5.58 to 3.00 per 1,000 camera-hours.",
+      "confidence": "high"
+    },
+    {
+      "claim": "The pilot achieved a 50% restricted-zone reduction.",
+      "status": "CONFLICTING",
+      "source": "Project_Drishti_Library/04_delivery/pilot_acceptance_certificate_2026-07-06.md",
+      "reason": "The certificate reports approximately 46% and marks the 50% target not met.",
+      "confidence": "high"
+    },
+    {
+      "claim": "The pilot delivered face recognition.",
+      "status": "CONFLICTING",
+      "source": "Project_Drishti_Library/01_contract/MSA_confidentiality_and_publicity_extract.md",
+      "reason": "The feature was removed due to legal and privacy concerns.",
+      "confidence": "high"
+    },
+    {
+      "claim": "The project generated ₹2.3 crore in verified savings.",
+      "status": "UNSUPPORTED",
+      "source": "Project_Drishti_Library/06_email/G_2026-09-22_finance_value_estimate.md",
+      "reason": "Available finance records are estimates and do not establish attribution.",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The client has approved publication.",
+      "status": "UNSUPPORTED",
+      "source": "Project_Drishti_Library/06_email/H_2026-09-24_to_09-30_case_study_permission.md",
+      "reason": "The correspondence requests Legal and Corporate Communications approval; no approval is recorded.",
+      "confidence": "medium"
+    },
+    {
+      "claim": "The pilot achieved zero lost-time injuries because of AI.",
+      "status": "UNSUPPORTED",
+      "source": "Project_Drishti_Library/06_email/E_2026-07-01_pilot_results_numbers.md",
+      "reason": "The source explicitly says a zero-LTI observation does not prove causation.",
+      "confidence": "medium"
+    }
+  ],
+  "status": "completed"
+}

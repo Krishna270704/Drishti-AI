@@ -1,0 +1,24 @@
+FICTIONAL HACKATHON MATERIAL. All names, numbers and events are invented.
+$ git log --date=short --pretty=format:"%h %ad %an  %s"   (excerpt, newest first)
+
+e41c9a2 2026-09-16 Karthik Raman  gate: exclude weighbridge calibration window 11-Sep from TAT averages
+7b02f11 2026-09-11 Vivek Anand    configs: CM3-01..CM3-06 zone polygons after cement mill 3 layout change
+c9d8e30 2026-08-31 Vivek Anand    configs: stores ST-01..ST-10 live; 146/146 cameras
+a77e015 2026-08-25 Neha Sharma    gate: dispatch slot export (CSV) for logistics, requested by Bhadrapur logistics
+2f1b6c4 2026-08-14 Karthik Raman  detector: lower gate-yard helmet threshold 0.45->0.40 (transporter drivers, low-res G cams)
+5d6e9aa 2026-08-12 Neha Sharma    zones: tail-pulley pre-zone 2m (K2 remediation)
+8c3f2d1 2026-08-04 Sana Qureshi   alerts: enable control-room escalation after 5 min no-ack
+0e9b7c3 2026-08-03 Neha Sharma    release v2.0: plant-wide + gate TAT (CR-03)
+b51a0d8 2026-07-27 Karthik Raman  report: add camera_cohort column (pilot/scale) to weekly export after QBR prep question
+4a2e7f9 2026-07-20 Karthik Raman  release v1.4: stream health monitor
+9f13c55 2026-06-24 Karthik Raman  health: frame-arrival check, separate from link status (INC-0611)
+1c0d4e2 2026-06-15 Karthik Raman  release v1.3: retrain on 4200 site frames
+6ad9e01 2026-06-03 Karthik Raman  report: K4 false-alarm % now from EHS sample labels, not model confidence
+3e7a2b8 2026-06-02 Karthik Raman  release v1.2: remove attendance/ face module entirely (CR-02)
+d0f4c19 2026-05-20 Karthik Raman  attendance: stop work per legal hold
+2b8e6f0 2026-05-12 Karthik Raman  attendance: scaffold face enrolment for gates G1-G4
+71c5a3e 2026-05-11 Sana Qureshi   release v1.0: pilot 40 cameras
+f6e2d8b 2026-04-29 Neha Sharma    zones: kiln inlet hot-zone 3m (CR-01)
+a3b9c17 2026-04-22 Neha Sharma    docs: counting rules agreed with EHS (person-camera-10min)
+58d1e4a 2026-03-19 Vivek Anand    configs: swap PK1-03, PK1-05 (352x288) for PK2-07, PK2-09
+0c7e3f6 2026-03-16 Vivek Anand    initial site config, PoC 12 cameras

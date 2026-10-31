@@ -1,0 +1,10 @@
+{
+  "publication_status": "BLOCKED",
+  "legal_approval": "PENDING",
+  "corporate_communications_approval": "PENDING",
+  "required_written_approvals": [
+    "Client Legal",
+    "Corporate Communications"
+  ],
+  "reason": "A generated draft or message is not an approval."
+}

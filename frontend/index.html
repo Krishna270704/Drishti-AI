@@ -1,0 +1,986 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Project Drishti | AI Case Study Engine</title>
+
+<style>
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Inter, Arial, sans-serif;
+    background: #0b1120;
+    color: #e5e7eb;
+}
+
+header {
+    padding: 22px 5%;
+    border-bottom: 1px solid #263247;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.brand {
+    font-size: 23px;
+    font-weight: 800;
+}
+
+.brand span {
+    color: #38bdf8;
+}
+
+.status {
+    color: #86efac;
+    font-size: 13px;
+}
+
+main {
+    padding: 32px 5%;
+    max-width: 1400px;
+    margin: auto;
+}
+
+h1 {
+    font-size: 30px;
+    margin-bottom: 8px;
+}
+
+.subtitle {
+    color: #94a3b8;
+    margin-bottom: 28px;
+}
+
+.section-title {
+    margin: 30px 0 16px;
+    font-size: 19px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+    gap: 16px;
+}
+
+.card {
+    background: #151f32;
+    border: 1px solid #28364d;
+    border-radius: 12px;
+    padding: 22px;
+}
+
+.card small {
+    color: #94a3b8;
+}
+
+.value {
+    font-size: 29px;
+    font-weight: 750;
+    margin: 13px 0 8px;
+}
+
+.note {
+    color: #94a3b8;
+    font-size: 12px;
+}
+
+.panel {
+    background: #151f32;
+    border: 1px solid #28364d;
+    border-radius: 12px;
+    padding: 22px;
+    margin-top: 16px;
+}
+
+.metric {
+    margin: 20px 0;
+}
+
+.metric-label {
+    display: flex;
+    justify-content: space-between;
+    gap: 12px;
+    margin-bottom: 9px;
+    font-size: 13px;
+}
+
+.track {
+    height: 11px;
+    background: #29364b;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+.fill {
+    height: 100%;
+    border-radius: 20px;
+    background: #38bdf8;
+}
+
+.warning {
+    border: 1px solid #a16207;
+    background: #422d13;
+    color: #fde68a;
+    padding: 16px;
+    border-radius: 10px;
+    line-height: 1.6;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 12px;
+}
+
+th, td {
+    padding: 13px 9px;
+    text-align: left;
+    border-bottom: 1px solid #29364b;
+    font-size: 13px;
+}
+
+th {
+    color: #94a3b8;
+}
+
+button {
+    background: #0284c7;
+    color: white;
+    border: 0;
+    padding: 11px 18px;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-top: 15px;
+}
+
+button:hover {
+    background: #0369a1;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 13px;
+    border-radius: 8px;
+    border: 1px solid #334155;
+    background: #0b1120;
+    color: white;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+}
+
+textarea {
+    min-height: 105px;
+    resize: vertical;
+}
+
+input:focus, textarea:focus {
+    outline: 1px solid #38bdf8;
+}
+
+.evidence-card {
+    margin-top: 12px;
+}
+
+.evidence-card h3 {
+    font-size: 14px;
+    margin: 10px 0;
+    overflow-wrap: anywhere;
+}
+
+.evidence-preview {
+    white-space: pre-wrap;
+    overflow-wrap: anywhere;
+    margin-top: 12px;
+    color: #cbd5e1;
+    font-size: 12px;
+    line-height: 1.6;
+}
+
+.evidence-details summary {
+    cursor: pointer;
+    color: #38bdf8;
+    margin-top: 12px;
+}
+
+.result-status {
+    font-size: 22px;
+    font-weight: 800;
+    margin: 12px 0;
+}
+
+.source-item {
+    margin-top: 12px;
+    padding: 15px;
+    background: #0b1120;
+    border: 1px solid #334155;
+    border-radius: 8px;
+}
+
+.source-item strong {
+    font-size: 13px;
+    overflow-wrap: anywhere;
+}
+
+.source-item p {
+    margin-top: 10px;
+    font-size: 12px;
+    line-height: 1.6;
+    white-space: pre-wrap;
+    overflow-wrap: anywhere;
+}
+
+#error, #claim-error {
+    color: #fca5a5;
+    margin-top: 15px;
+}
+
+.success-text {
+    color: #86efac;
+}
+
+.workflow-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 10px;
+    margin: 18px 0;
+}
+
+.workflow-step {
+    padding: 12px;
+    border: 1px solid #334155;
+    border-radius: 8px;
+    background: #0b1120;
+    font-size: 12px;
+}
+
+.workflow-step strong {
+    display: block;
+    margin-bottom: 6px;
+}
+
+.stage-completed { color: #86efac; }
+.stage-review { color: #fbbf24; }
+.stage-failed { color: #fca5a5; }
+
+.draft-preview {
+    white-space: pre-wrap;
+    max-height: 260px;
+    overflow: auto;
+    background: #0b1120;
+    padding: 14px;
+    border-radius: 8px;
+    margin-top: 12px;
+    color: #cbd5e1;
+    font-size: 12px;
+    line-height: 1.6;
+}
+
+footer {
+    padding: 30px 5%;
+    color: #64748b;
+    font-size: 12px;
+}
+
+@media(max-width: 600px) {
+    header {
+        align-items: flex-start;
+        gap: 12px;
+        flex-direction: column;
+    }
+
+    h1 {
+        font-size: 24px;
+    }
+
+    table {
+        font-size: 11px;
+    }
+
+    .panel {
+        padding: 14px;
+    }
+}
+</style>
+</head>
+
+<body>
+
+<header>
+    <div class="brand">PROJECT <span>DRISHTI</span></div>
+    <div class="status">● AI Case Study Engine | Local System</div>
+</header>
+
+<main>
+
+    <h1>Project Intelligence Dashboard</h1>
+    <p class="subtitle">
+        Evidence-driven project analysis and case study reporting
+    </p>
+
+    <!-- KPI CARDS -->
+
+    <div class="grid">
+
+        <div class="card">
+            <small>PPE Compliance</small>
+            <div class="value" id="ppe">--</div>
+            <div class="note" id="ppe-note">Baseline to final</div>
+        </div>
+
+        <div class="card">
+            <small>Restricted Zone Reduction</small>
+            <div class="value" id="breach">--</div>
+            <div class="note">Per 1,000 camera-hours</div>
+        </div>
+
+        <div class="card">
+            <small>False Alarm Rate</small>
+            <div class="value" id="false">--</div>
+            <div class="note">Final two pilot weeks</div>
+        </div>
+
+        <div class="card">
+            <small>Alert Acknowledgement</small>
+            <div class="value" id="ack">--</div>
+            <div class="note">Weighted proxy, minutes</div>
+        </div>
+
+    </div>
+
+    <h2 class="section-title">AI CASE STUDY GENERATOR</h2>
+    <div class="panel">
+        <div class="grid">
+            <div><small>Project name</small><div class="value" style="font-size:20px">Project Drishti</div></div>
+            <div><small>Source documents</small><div class="value" style="font-size:20px" id="generator-files">--</div></div>
+            <div><small>Evidence records</small><div class="value" style="font-size:20px" id="generator-evidence">--</div></div>
+            <div><small>KPI validation</small><div class="value" style="font-size:20px" id="generator-kpi">PENDING</div></div>
+            <div><small>Privacy scan</small><div class="value" style="font-size:20px" id="generator-privacy">PENDING</div></div>
+            <div><small>Approval</small><div class="value" style="font-size:20px" id="generator-approval">BLOCKED</div></div>
+        </div>
+        <div id="agent-workflow" class="workflow-grid">
+            <div class="workflow-step">Run the generator to inspect workflow status.</div>
+        </div>
+        <button id="generate-button" onclick="generateCaseStudy()">Generate Case Study</button>
+        <a id="package-download" href="#" style="display:none;color:#38bdf8;margin-left:12px">Download complete package</a>
+        <div id="generator-error" style="color:#fca5a5;margin-top:12px"></div>
+        <div id="draft-preview"></div>
+    </div>
+
+    <!-- PERFORMANCE COMPARISON -->
+
+    <h2 class="section-title">Performance Comparison</h2>
+
+    <div class="panel">
+
+        <div class="metric">
+            <div class="metric-label">
+                <span>PPE Compliance</span>
+                <strong id="ppe-comparison">--</strong>
+            </div>
+
+            <div class="track">
+                <div class="fill" id="ppe-bar" style="width:0%"></div>
+            </div>
+        </div>
+
+        <div class="metric">
+            <div class="metric-label">
+                <span>Restricted breaches / 1,000 camera-hours</span>
+                <strong id="breach-comparison">--</strong>
+            </div>
+
+            <div class="track">
+                <div class="fill" id="breach-bar" style="width:0%"></div>
+            </div>
+        </div>
+
+    </div>
+
+    <!-- DETAILED KPI TABLE -->
+
+    <h2 class="section-title">Detailed KPI Results</h2>
+
+    <div class="panel">
+        <table>
+            <thead>
+                <tr>
+                    <th>Metric</th>
+                    <th>Baseline</th>
+                    <th>Final</th>
+                    <th>Change</th>
+                </tr>
+            </thead>
+
+            <tbody id="kpi-table">
+                <tr>
+                    <td colspan="4">Loading KPI data...</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <!-- CLAIM VERIFICATION -->
+
+    <h2 class="section-title">AI Claim Verification</h2>
+
+    <div class="panel">
+
+        <p class="note" style="margin-bottom:12px">
+            Verify project claims against available source documents.
+        </p>
+
+        <textarea
+            id="claim-input"
+            placeholder="Example: The pilot achieved 91.1% PPE compliance."
+        ></textarea>
+
+        <button id="verify-button" onclick="verifyProjectClaim()">
+            Verify Claim
+        </button>
+
+        <div id="claim-result" style="margin-top:20px"></div>
+
+        <p id="claim-error"></p>
+
+    </div>
+
+    <!-- EVIDENCE EXPLORER -->
+
+    <h2 class="section-title">Evidence Explorer</h2>
+
+    <div class="panel">
+
+        <input
+            type="text"
+            id="evidence-search"
+            placeholder="Search source documents or evidence..."
+            oninput="filterEvidence()"
+        />
+
+        <p id="evidence-count" style="margin:15px 0;color:#94a3b8">
+            Loading evidence...
+        </p>
+
+        <div id="evidence-list"></div>
+
+    </div>
+
+    <!-- EVIDENCE AND DATA INTEGRITY -->
+
+    <h2 class="section-title">Evidence & Data Integrity</h2>
+
+    <div class="panel">
+
+        <p>
+            Source file: <strong id="source">Loading...</strong>
+        </p>
+
+        <p style="margin-top:12px" id="method"></p>
+
+        <p style="margin-top:12px;color:#fbbf24">
+            Calculated results must be reconciled with signed project records.
+        </p>
+
+    </div>
+
+    <!-- APPROVAL -->
+
+    <h2 class="section-title">Publication Approval</h2>
+
+    <div class="warning">
+
+        <strong>
+            PUBLICATION BLOCKED — WRITTEN APPROVAL REQUIRED
+        </strong>
+
+        <p style="margin-top:8px">
+            Client Legal and Corporate Communications approval has not
+            been established. Do not publish externally until written
+            permission and approved case-study content are recorded.
+        </p>
+
+    </div>
+
+    <!-- LIMITATIONS -->
+
+    <h2 class="section-title">Data Limitations</h2>
+
+    <div class="panel">
+
+        <ul id="limitations" style="padding-left:20px;line-height:2">
+            <li>Loading limitations...</li>
+        </ul>
+
+        <p style="margin-top:15px;color:#fbbf24" id="ack-warning"></p>
+
+    </div>
+
+    <button onclick="refreshDashboard()">Refresh Dashboard</button>
+
+    <p id="error"></p>
+
+</main>
+
+<footer>
+    Project Drishti | Local Hackathon MVP |
+    Evidence-led AI case study generation
+</footer>
+
+
+<script>
+
+const API_BASE = "http://127.0.0.1:8000";
+
+// ===================================
+// COMMON HTML ESCAPING
+// ===================================
+
+function escapeHTML(value) {
+    return String(value ?? "").replace(/[&<>"']/g, char => ({
+        "&": "&amp;",
+        "<": "&lt;",
+        ">": "&gt;",
+        '"': "&quot;",
+        "'": "&#39;"
+    })[char]);
+}
+
+
+// ===================================
+// LOAD KPI DASHBOARD
+// ===================================
+
+async function loadDashboard() {
+
+    const errorBox = document.getElementById("error");
+    errorBox.textContent = "Loading dashboard data...";
+
+    try {
+
+        const response = await fetch(`${API_BASE}/api/kpis`);
+
+        if (!response.ok) {
+            throw new Error("KPI API returned status " + response.status);
+        }
+
+        const data = await response.json();
+
+        if (data.error) {
+            throw new Error(data.error);
+        }
+
+        const baseline = data.baseline;
+        const finalPeriod = data.final_period;
+        const kpis = data.kpis;
+
+        // KPI cards
+
+        document.getElementById("ppe").textContent =
+            finalPeriod.ppe_compliance_pct + "%";
+
+        document.getElementById("ppe-note").textContent =
+            "Baseline: " + baseline.ppe_compliance_pct + "%";
+
+        document.getElementById("breach").textContent =
+            kpis.restricted_breach_reduction_pct + "%";
+
+        document.getElementById("false").textContent =
+            kpis.false_alarm_pct + "%";
+
+        document.getElementById("ack").textContent =
+            kpis.weighted_ack_minutes_proxy !== null
+                ? kpis.weighted_ack_minutes_proxy + " min"
+                : "N/A";
+
+        // Performance comparison
+
+        document.getElementById("ppe-comparison").textContent =
+            baseline.ppe_compliance_pct + "% → " +
+            finalPeriod.ppe_compliance_pct + "%";
+
+        document.getElementById("ppe-bar").style.width =
+            Math.min(finalPeriod.ppe_compliance_pct, 100) + "%";
+
+        document.getElementById("breach-comparison").textContent =
+            baseline.breaches_per_1000_camera_hours + " → " +
+            finalPeriod.breaches_per_1000_camera_hours;
+
+        document.getElementById("breach-bar").style.width =
+            baseline.breaches_per_1000_camera_hours > 0
+                ? Math.min(
+                    finalPeriod.breaches_per_1000_camera_hours /
+                    baseline.breaches_per_1000_camera_hours * 100,
+                    100
+                ) + "%"
+                : "0%";
+
+        // Detailed table
+
+        const rows = [
+
+            [
+                "PPE compliance",
+                baseline.ppe_compliance_pct + "%",
+                finalPeriod.ppe_compliance_pct + "%",
+                "+" + kpis.ppe_change_percentage_points + " points"
+            ],
+
+            [
+                "Restricted breaches / 1,000 hours",
+                baseline.breaches_per_1000_camera_hours,
+                finalPeriod.breaches_per_1000_camera_hours,
+                "-" + kpis.restricted_breach_reduction_pct + "%"
+            ],
+
+            [
+                "False alarm rate (final 4 weeks)",
+                baseline.false_alert_pct + "%",
+                finalPeriod.false_alert_pct + "%",
+                "Final 2 weeks: " + kpis.false_alarm_pct + "%"
+            ]
+
+        ];
+
+        document.getElementById("kpi-table").innerHTML =
+            rows.map(row =>
+                "<tr>" +
+                row.map(cell => "<td>" + escapeHTML(cell) + "</td>").join("") +
+                "</tr>"
+            ).join("");
+
+        // Source and method
+
+        document.getElementById("source").textContent = data.source;
+
+        document.getElementById("method").textContent =
+            data.measurement_method;
+
+        // Limitations
+
+        document.getElementById("limitations").innerHTML =
+            data.limitations.map(item =>
+                "<li>" + escapeHTML(item) + "</li>"
+            ).join("");
+
+        document.getElementById("ack-warning").textContent =
+            kpis.ack_metric_warning || "";
+
+        errorBox.textContent = "KPI dashboard loaded successfully.";
+
+    } catch (error) {
+
+        errorBox.textContent = "KPI Error: " + error.message;
+
+    }
+
+}
+
+
+// ===================================
+// EVIDENCE EXPLORER
+// ===================================
+
+let allEvidence = [];
+
+async function loadGeneratorStatus() {
+    const [statusResponse, evidenceResponse] = await Promise.all([
+        fetch(`${API_BASE}/api/status`),
+        fetch(`${API_BASE}/api/evidence`)
+    ]);
+    if (!statusResponse.ok || !evidenceResponse.ok) {
+        throw new Error("Generator status API failed");
+    }
+    const status = await statusResponse.json();
+    const evidence = await evidenceResponse.json();
+    document.getElementById("generator-files").textContent = status.files_processed;
+    document.getElementById("generator-evidence").textContent = evidence.count;
+}
+
+async function generateCaseStudy() {
+    const button = document.getElementById("generate-button");
+    const workflow = document.getElementById("agent-workflow");
+    const errorBox = document.getElementById("generator-error");
+    const preview = document.getElementById("draft-preview");
+    button.disabled = true;
+    button.textContent = "Generating...";
+    errorBox.textContent = "";
+    preview.innerHTML = "";
+    workflow.innerHTML = "<div class='workflow-step'>Running source-linked pipeline...</div>";
+    try {
+        const response = await fetch(`${API_BASE}/api/run-agents`, { method: "POST" });
+        const data = await response.json();
+        if (!response.ok) throw new Error(data.detail || "Generation failed");
+        workflow.innerHTML = (data.stages || []).map(stage => {
+            const review = stage.status.includes("REVIEW");
+            return `<div class="workflow-step ${review ? "stage-review" : "stage-completed"}"><strong>${escapeHTML(stage.name)}</strong>${escapeHTML(stage.status)}</div>`;
+        }).join("");
+        document.getElementById("generator-kpi").textContent = "COMPLETED";
+        document.getElementById("generator-privacy").textContent = "REVIEW REQUIRED";
+        const draftsResponse = await fetch(`${API_BASE}/api/case-study-drafts`);
+        const draftsData = await draftsResponse.json();
+        preview.innerHTML = Object.entries(draftsData.drafts || {}).map(([name, text]) =>
+            `<details class="card"><summary>${escapeHTML(name)} version</summary><pre class="draft-preview">${escapeHTML(text)}</pre><a href="${API_BASE}/api/download/case_study_${encodeURIComponent(name)}.md" target="_blank" style="color:#38bdf8">Download ${escapeHTML(name)} draft</a></details>`
+        ).join("");
+        const packageLink = document.getElementById("package-download");
+        packageLink.href = `${API_BASE}/api/download-package`;
+        packageLink.style.display = "inline-block";
+        document.getElementById("generator-approval").textContent = "BLOCKED";
+        await loadGeneratorStatus();
+    } catch (error) {
+        errorBox.textContent = error.message;
+    } finally {
+        button.disabled = false;
+        button.textContent = "Generate Case Study";
+    }
+}
+
+async function loadEvidence() {
+
+    const response = await fetch(`${API_BASE}/api/evidence`);
+
+    if (!response.ok) {
+        throw new Error("Evidence API failed: " + response.status);
+    }
+
+    const data = await response.json();
+
+    allEvidence = data.evidence || [];
+
+    renderEvidence(allEvidence);
+
+}
+
+
+function renderEvidence(items) {
+
+    document.getElementById("evidence-count").textContent =
+        items.length + " evidence records found";
+
+    const evidenceList = document.getElementById("evidence-list");
+
+    if (items.length === 0) {
+
+        evidenceList.innerHTML =
+            "<p class='note'>No matching evidence found.</p>";
+
+        return;
+    }
+
+    evidenceList.innerHTML = items.map((item, index) => `
+
+        <div class="card evidence-card">
+
+            <small>Evidence ${index + 1}</small>
+
+            <h3>${escapeHTML(item.source)}</h3>
+
+            <p class="note">
+                ${escapeHTML(item.characters)} characters
+            </p>
+
+            <details class="evidence-details">
+
+                <summary>View source preview</summary>
+
+                <pre class="evidence-preview">${escapeHTML(item.preview)}</pre>
+
+            </details>
+
+        </div>
+
+    `).join("");
+
+}
+
+
+function filterEvidence() {
+
+    const query = document.getElementById("evidence-search")
+        .value.toLowerCase().trim();
+
+    const filtered = allEvidence.filter(item =>
+
+        String(item.source).toLowerCase().includes(query) ||
+
+        String(item.preview).toLowerCase().includes(query)
+
+    );
+
+    renderEvidence(filtered);
+
+}
+
+
+// ===================================
+// CLAIM VERIFICATION ENGINE
+// ===================================
+
+async function verifyProjectClaim() {
+
+    const claim = document.getElementById("claim-input")
+        .value.trim();
+
+    const resultBox = document.getElementById("claim-result");
+    const errorBox = document.getElementById("claim-error");
+    const button = document.getElementById("verify-button");
+
+    errorBox.textContent = "";
+    resultBox.innerHTML = "";
+
+    if (!claim) {
+
+        errorBox.textContent = "Please enter a claim first.";
+
+        return;
+    }
+
+    button.disabled = true;
+    button.textContent = "Verifying...";
+
+    resultBox.textContent = "Checking project evidence...";
+
+    try {
+
+        const response = await fetch(`${API_BASE}/api/verify-claim`, {
+
+            method: "POST",
+
+            headers: {
+                "Content-Type": "application/json"
+            },
+
+            body: JSON.stringify({
+                claim: claim
+            })
+
+        });
+
+        const data = await response.json();
+
+        if (!response.ok) {
+
+            throw new Error(
+                data.detail || "Claim verification failed"
+            );
+
+        }
+
+        const colors = {
+
+            "SUPPORTED": "#22c55e",
+
+            "CONFLICTING": "#ef4444",
+
+            "UNSUPPORTED": "#f59e0b",
+
+            "NEEDS REVIEW": "#38bdf8"
+
+        };
+
+        const color = colors[data.status] || "#94a3b8";
+
+        const evidenceHTML = (data.evidence || []).map(item => `
+
+            <div class="source-item">
+
+                <strong>
+                    Source: ${escapeHTML(item.source)}
+                </strong>
+
+                <p>${escapeHTML(item.snippet)}</p>
+
+            </div>
+
+        `).join("");
+
+        resultBox.innerHTML = `
+
+            <div class="card">
+
+                <small>Claim verification result</small>
+
+                <div class="result-status" style="color:${color}">
+                    ${escapeHTML(data.status)}
+                </div>
+
+                <p>
+                    <strong>Claim:</strong>
+                    ${escapeHTML(data.claim)}
+                </p>
+
+                <p style="margin-top:12px;line-height:1.6">
+                    ${escapeHTML(data.reason)}
+                </p>
+
+                <p class="note" style="margin-top:12px;line-height:1.6">
+                    ${escapeHTML(data.limitation || "")}
+                </p>
+
+            </div>
+
+            <h3 style="margin-top:20px">
+                Supporting source records
+            </h3>
+
+            ${
+                evidenceHTML ||
+                "<p class='note' style='margin-top:12px'>No source snippets returned.</p>"
+            }
+
+        `;
+
+    } catch (error) {
+
+        errorBox.textContent = "Verification Error: " + error.message;
+
+        resultBox.textContent = "";
+
+    } finally {
+
+        button.disabled = false;
+        button.textContent = "Verify Claim";
+
+    }
+
+}
+
+
+// ===================================
+// REFRESH ALL DASHBOARD MODULES
+// ===================================
+
+async function refreshDashboard() {
+
+    document.getElementById("error").textContent =
+        "Refreshing dashboard...";
+
+    await Promise.allSettled([
+
+        loadDashboard(),
+
+        loadEvidence(),
+
+        loadGeneratorStatus()
+
+    ]);
+
+}
+
+
+// ===================================
+// INITIAL LOAD
+// ===================================
+
+refreshDashboard();
+
+</script>
+
+</body>
+</html>
