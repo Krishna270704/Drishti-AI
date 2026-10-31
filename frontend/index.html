@@ -726,7 +726,7 @@ async function generateCaseStudy() {
         const draftsResponse = await fetch(`${API_BASE}/api/case-study-drafts`);
         const draftsData = await draftsResponse.json();
         preview.innerHTML = Object.entries(draftsData.drafts || {}).map(([name, text]) =>
-            `<details class="card"><summary>${escapeHTML(name)} version</summary><pre class="draft-preview">${escapeHTML(text)}</pre><a href="${API_BASE}/api/download/case_study_${encodeURIComponent(name)}.md" target="_blank" style="color:#38bdf8">Download ${escapeHTML(name)} draft</a></details>`
+            `<details class="card"><summary>${escapeHTML(name)} version</summary><pre class="draft-preview">${escapeHTML(text)}</pre><a href="${API_BASE}/api/download/case_study_${encodeURIComponent(name)}.md" target="_blank" style="color:#38bdf8">Download Markdown</a><span style="margin-left:12px"></span><a href="${API_BASE}/api/download/case_study_${encodeURIComponent(name)}.pdf" target="_blank" style="color:#86efac">Download PDF</a></details>`
         ).join("");
         const packageLink = document.getElementById("package-download");
         packageLink.href = `${API_BASE}/api/download-package`;

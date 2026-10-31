@@ -3,6 +3,7 @@ from __future__ import annotations
 import json
 import re
 import shutil
+import textwrap
 import zipfile
 from datetime import datetime
 from pathlib import Path
@@ -10,6 +11,7 @@ from typing import Any
 
 from agent_engine import discover_library, evidence_agent, privacy_agent, timeline_agent
 from kpi_engine import calculate_kpis
+import pymupdf
 
 
 PROJECT_DIR = Path(__file__).resolve().parent.parent
@@ -21,6 +23,29 @@ def _write_json(name: str, value: Any) -> None:
         json.dumps(value, indent=2, ensure_ascii=False, default=str),
         encoding="utf-8",
     )
+
+
+def _write_pdf(name: str, markdown: str) -> None:
+    """Create a simple, readable PDF without adding another runtime dependency."""
+    document = pymupdf.open()
+    text = markdown.replace("₹", "INR").replace("**", "").replace("`", "")
+    text = re.sub(r"^#+\s*", "", text, flags=re.MULTILINE)
+    text = re.sub(r"\n{3,}", "\n\n", text)
+    lines: list[str] = []
+    for line in text.splitlines():
+        lines.extend(textwrap.wrap(line, width=88) or [""])
+    for start in range(0, len(lines), 48):
+        page = document.new_page(width=595, height=842)
+        page.insert_text(
+            (48, 70),
+            "\n".join(lines[start:start + 48]),
+            fontsize=10,
+            fontname="helv",
+            lineheight=1.35,
+            color=(0.12, 0.16, 0.22),
+        )
+    document.save(OUTPUT_DIR / name)
+    document.close()
 
 
 def _source_lookup(docs: list[Any], pattern: str) -> str:
@@ -269,7 +294,9 @@ def run_case_study() -> dict[str, Any]:
             "project_story_spine.json", "timeline.json", "evidence_index.json",
             "results_sheet.json", "kpi_results.json", "claim_verification.json",
             "privacy_report.json", "case_study_gatekeeper.md", "case_study_user.md",
-            "case_study_buyer.md", *media, "approval_request_email.md",
+            "case_study_buyer.md", "case_study_gatekeeper.pdf",
+            "case_study_user.pdf", "case_study_buyer.pdf", *media,
+            "approval_request_email.md",
             "approval_sheet.md", "approval_status.json", "agent_report.json",
         ],
         "implementation_note": "Deterministic source-linked pipeline; no autonomous LLM claims are presented as verified facts.",
@@ -284,6 +311,7 @@ def run_case_study() -> dict[str, Any]:
     _write_json("approval_status.json", approval)
     for name, content in versions.items():
         (OUTPUT_DIR / f"case_study_{name}.md").write_text(content, encoding="utf-8")
+        _write_pdf(f"case_study_{name}.pdf", content)
     (OUTPUT_DIR / "approval_request_email.md").write_text(approval_email, encoding="utf-8")
     (OUTPUT_DIR / "approval_sheet.md").write_text(approval_sheet, encoding="utf-8")
     _write_json("agent_report.json", report)
